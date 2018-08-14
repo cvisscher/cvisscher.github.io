@@ -1,5 +1,9 @@
 <!-- TODO this file has become a mess, refactor it -->
 
+{% if page.math != false %}
+  {% include mathjax.html %}
+{% endif %}
+
 {% if page.bigimg or page.title %}
 
 {% if page.bigimg %}

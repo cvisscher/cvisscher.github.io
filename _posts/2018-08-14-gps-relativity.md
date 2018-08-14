@@ -9,7 +9,7 @@ tags: [test]
 
 ## Here is a secondary heading
 
-One of the most remarkable "everday" confirmations of Einstein's theory of relativity (both special relativity and general relativity) are the corrections needed for GPS satellites to maintain their accuracy.  '
+One of the most remarkable "everday" confirmations of Einstein's theory of relativity (both special relativity and general relativity) are the corrections needed for GPS satellites to maintain their accuracy.
 
 $$d  = c \times t$$
 

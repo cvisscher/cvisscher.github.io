@@ -2,7 +2,10 @@
 layout: page
 title: Publications
 subtitle: Planetary Chemistry Research
+math: true
 ---
+
+blah
 
 Parmentier, V., Line, M.R., Bean, J.L., Mansfield, M., Kreidberg, L.,
 Lupu, R., **Visscher, C.**, Desert, J-M., Fortney, J.J.; Deleuil, M.,

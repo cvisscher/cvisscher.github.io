@@ -11,7 +11,7 @@ tags: [test]
 
 One of the most remarkable "everday" confirmations of Einstein's theory of relativity (both special relativity and general relativity) are the corrections needed for GPS satellites to maintain their accuracy.  '
 
-$ distance = speed \times time $
+$$d  = c \times t$$
 
 ![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
 

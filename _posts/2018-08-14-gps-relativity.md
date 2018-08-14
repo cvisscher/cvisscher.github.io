@@ -9,7 +9,7 @@ tags: [test]
 
 One of the most remarkable "everday" confirmations of Einstein's theory of relativity (both special relativity and general relativity) are the corrections needed for GPS satellites to maintain their accuracy.
 
-<img src="/_posts/tex/d15a15d82468f0df97edac9681dadab8.svg?invert_in_darkmode&sanitize=true" align=middle width=63.61468739999998pt height=22.831056599999986pt/>
+<p align="center"><img src="/_posts/tex/c4da042beda1dd8246e309f62ecfd68e.svg?invert_in_darkmode&sanitize=true" align=middle width=381.94430009999996pt height=16.438356pt/></p>
 
 ## Boxes
 You can add notification, warning and error boxes like this:

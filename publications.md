@@ -1,16 +1,209 @@
 ---
 layout: page
-title: About me
-subtitle: Why you'd want to go on a date with me
+title: Publications
+subtitle: Planetary Chemistry Research
 ---
 
-My name is Inigo Montoya. I have the following qualities:
+Parmentier, V., Line, M.R., Bean, J.L., Mansfield, M., Kreidberg, L.,
+Lupu, R., **Visscher, C.**, Desert, J-M., Fortney, J.J.; Deleuil, M.,
+Arcangeli, J., Showman, A.P., Marley, M.S. (2018) From thermal
+dissociation to condensation in the atmospheres of ultra hot Jupiters:
+WASP-121b in context, *Astronomy & Astrophysics*, in press\
+[ADS](http://adsabs.harvard.edu/abs/2018arXiv180500096P)
+[arXiv](https://arxiv.org/abs/1805.00096)
 
-- I rock a great mustache
-- I'm extremely loyal to my family
+Morley, C.V., Skemer, A.J., Allers, K.N., Marley, M.S., Faherty, J.K.,
+**Visscher, C.**, Beiler, S.A., Miles, B.E., Lupu, R., Freedman, R.S.,
+Fortney, J.J., Geballe, T.R., Bjoraker, G.L. (2018) An L Band Spectrum
+of the Coldest Brown Dwarf. *Astrophysical Journal*, in press\
+[ADS](http://adsabs.harvard.edu/abs/2018arXiv180407771M)
+[arXiv](https://arxiv.org/abs/1804.07771)
 
-What else do you need?
+Burningham, B., Marley, M. S., Line, M. R., Lupu, R., **Visscher, C.**,
+Morley, C. V., Saumon, D., Freedman, R. (2017) Retrieval of atmospheric
+properties of cloudy L dwarfs. *Monthly Notices of the Royal
+Astronomical Society*, 470(1), 1177\
+[ADS](http://adsabs.harvard.edu/abs/2017MNRAS.470.1177B)
+[arXiv](https://arxiv.org/abs/1701.01257)
+[journal](https://academic.oup.com/mnras/article-abstract/470/1/1177/3837820/Retrieval-of-atmospheric-properties-of-cloudy-L?redirectedFrom=fulltext)
 
-### my history
+Wakeford, H. R., **Visscher, C.**, Lewis, N. K., Kataria, T., Marley,
+M.S., Fortney, J.J., Mandell, A.M. (2017) High temperature condensate
+clouds in super-hot Jupiter atmospheres. *Monthly Notices of the Royal
+Astronomical Society*, 464(4), 4247-4254\
+[ADS](http://adsabs.harvard.edu/abs/2017MNRAS.464.4247W)
+[arXiv](https://arxiv.org/abs/1610.03325)
+[journal](http://mnras.oxfordjournals.org/)
 
-To be honest, I'm having some trouble remembering right now, so why don't you just watch [my movie](http://en.wikipedia.org/wiki/The_Princess_Bride_%28film%29) and it will answer **all** your questions.
+Moses, J.I., Marley, M.S., Zahnle, K., Line, M.R., Fortney, J.J.,
+Barman, T.S., **Visscher, C.**, Lewis, N.K., Wolff, M.J. (2016) On the
+Composition of Young, Directly Imaged Giant Planets. *Astrophysical
+Journal*, 829, 66\
+[ADS](http://adsabs.harvard.edu/abs/2016ApJ...829...66M)
+[arXiv](https://arxiv.org/abs/1608.08643)
+[journal](http://iopscience.iop.org/article/10.3847/0004-637X/829/2/66)
+
+Rodovská, Z., Magna, T., Žák, K., Skála, R., Brachaniec, T., **Visscher,
+C.** (2016) The fate of moderately volatile elements in impact
+events—Lithium connection between the Ries sediments and central
+European tektites. *Meteoritics & Planetary Science* 51(12), 2403-2415.
+doi: 10.1111/maps.12733\
+[ADS](http://adsabs.harvard.edu/abs/2016M%26PS...51.2403R)
+[journal](http://onlinelibrary.wiley.com/doi/10.1111/maps.12733/abstract)
+
+Fortney, J.J., Marley, M.S., Laughlin, G., Nettelmann, N., Morley, C.V.,
+Lupu, R.E., **Visscher, C.**, Jeremic, P., Khadder, W.G., and Hargrave,
+M. (2016) The Hunt for Planet Nine: Atmosphere, Spectra, Evolution, and
+Detectability. *Astrophysical Journal Letters*, 824, 2\
+[ADS](http://adsabs.harvard.edu/abs/2016ApJ...824L..25F)
+[arXiv](http://arxiv.org/abs/1604.07424)
+[journal](http://iopscience.iop.org/article/10.3847/2041-8205/824/2/L25)
+
+Kataria, T., Sing, D.K., Lewis, N.K., **Visscher, C.**, Showman, A.P.,
+Fortney, J.J., and Marley, M.S. (2016) The atmospheric circulation of a
+nine-hot Jupiter sample: Probing circulation and chemistry over a wide
+phase space. *Astrophysical Journal*, 821, 9\
+[ADS](http://adsabs.harvard.edu/abs/2016arXiv160206733K)
+[arXiv](http://arxiv.org/abs/1602.06733)
+[journal](http://iopscience.iop.org/article/10.3847/0004-637X/821/1/9)
+
+Skemer, A.J., Morley, C. V, Zimmerman, N. T., Skrutskie, M. F.,
+Leisenring, J., Buenzli, E., Bonnefoy, M., Bailey, V., Hinz, P.,
+Defrére, D., Esposito, S., Apai, D., Biller, B., Brandner, W., Close,
+L., Crepp, J.R., De Rosa, R. J. , Desidera, S., Eisner, J., Fortney, J.,
+Freedman, R., Henning, T., Hofmann, K-H., Kopytova, T., Lupu, R., Maire,
+A-L., Males, J. R., Marley, M., Morzinski, K., Oza, A., Patience, J.,
+Rajan, A., George Rieke, Schertl, D., Schlieder, J., Stone, J., Su, K.,
+Vaz, A., **Visscher, C.**, Ward-Duong, K., Weigelt, G., Woodward, C. E.
+(2015) The LEECH Exoplanet Imaging Survey: Characterization of the
+Coldest Directly Imaged Exoplanet, GJ 504 b, and Evidence for
+Super-Stellar Metallicity. *Astrophysical Journal* 817(2), 166\
+[ADS](http://adsabs.harvard.edu/abs/2015arXiv151109183S)
+[arXiv](http://arxiv.org/abs/1511.09183)
+[journal](http://iopscience.iop.org/article/10.3847/0004-637X/817/2/166)
+
+Canup, R.M., **Visscher, C.**, Salmon, J. and Fegley, B., Jr. (2015)
+Lunar volatile depletion due to incomplete accretion within an
+impact-generated disk. *Nature Geoscience* 8, 918-921.
+doi:10.1038/ngeo2574\
+[journal](http://www.nature.com/ngeo/journal/v8/n12/full/ngeo2574.html)
+
+Joy, K.H., **Visscher, C.**, Zolensky, M.E., Mikouchi, T., Hagiya, K.,
+Ohsumi, K., and Kring, D. (2015) Identification of magnetite in lunar
+regolith breccia 60016: Evidence for oxidized conditions at the lunar
+surface. *Meteoritics & Planetary Science* 50(7), 1157–1172. doi:
+10.1111/maps.12462\
+[ADS](http://adsabs.harvard.edu/doi/10.1111/maps.12462)
+[preprint](https://www.escholar.manchester.ac.uk/uk-ac-man-scw:265517)
+[journal](http://onlinelibrary.wiley.com/doi/10.1111/maps.12462/abstract)
+
+Moses, J.I., Line, M.R., **Visscher, C.**, Richardson, M.R., Nettelmann,
+N., Fortney, J.J., Stevenson, K.B., and Madhusudhan, N. (2013)
+Compositional diversity in the atmospheres of hot Neptunes, with
+application to GJ 436b. *Astrophysical Journal*, 777, 34\
+[ADS](http://adsabs.harvard.edu/abs/2013ApJ...777...34M)
+[arXiv](http://arxiv.org/abs/1306.5178)
+[journal](http://iopscience.iop.org/0004-637X/777/1/34/)
+
+Morley, C. V., Fortney, J. J., Kempton, E. M.-R., Marley, M. S.,
+**Visscher, C.**, and Zahnle, K. (2013) Quantitatively Assessing the
+Role of Clouds in the Transmission Spectrum of GJ 1214b. *Astrophysical
+Journal*, 775, 33\
+[ADS](http://adsabs.harvard.edu/abs/2013ApJ...775...33M)
+[arXiv](http://arxiv.org/abs/1305.4124)
+[journal](http://iopscience.iop.org/0004-637X/775/1/33/)
+
+**Visscher, C.** and Fegley, B., Jr. (2013) Chemistry of
+Impact-Generated Silicate Melt-Vapor Debris Disks. *Astrophysical
+Journal Letters*, 767, L12\
+[ADS](http://adsabs.harvard.edu/abs/2013ApJ...767L..12V)
+[arXiv](http://arxiv.org/abs/1303.3905)
+[journal](http://iopscience.iop.org/2041-8205/767/1/L12/)
+
+Leggett, S. K, Morley, C. V., Marley, M. S., Saumon, D., Fortney, J. J.,
+and **Visscher, C.** (2012) A Comparison of Near-Infrared Photometry and
+Spectra for Y Dwarfs with a New Generation of Cool Cloudy Models.
+*Astrophysical Journal*, 763, 130.\
+[ADS](http://adsabs.harvard.edu/abs/2013ApJ...763..130L)
+[arXiv](http://arxiv.org/abs/1212.1210)
+[journal](http://iopscience.iop.org/0004-637X/763/2/130/)
+
+Moses, J.I., Madhusudhan, N., **Visscher, C.**, and Freedman, R.S.
+(2012) Chemical Consequences of the C/O Ratio on Hot Jupiters: Examples
+from WASP-12b, CoRoT-2b, XO-1b, and HD 189733b. *Astrophysical Journal*,
+763, 25.\
+[ADS](http://adsabs.harvard.edu/abs/2013ApJ...763...25M)
+[arXiv](http://arxiv.org/abs/1211.2996)
+[journal](http://iopscience.iop.org/0004-637X/763/1/25/)
+
+**Visscher, C.** (2012) Chemical Timescales in the Atmospheres of Highly
+Eccentric Exoplanets. *Astrophysical Journal*, 757, 5\
+[ADS](http://adsabs.harvard.edu/abs/2012ApJ...757....5V)
+[arXiv](http://arxiv.org/abs/1207.0722)
+[journal](http://iopscience.iop.org/0004-637X/757/1/5/)
+
+Morley, C. V., Fortney, J. J., Marley, M. S., **Visscher, C.**, Saumon,
+D., and Leggett, S.K. (2012) Neglected Clouds in T and Y Dwarf
+Atmospheres. *Astrophysical Journal*, 765, 172\
+[ADS](http://adsabs.harvard.edu/abs/2012ApJ...756..172M)
+[arXiv](http://arxiv.org/abs/1206.4313)
+[journal](http://iopscience.iop.org/0004-637X/756/2/172)
+
+Stevenson, K.B., Harrington, J., Lust, N.B., Lewis, N. K., Montagnier,
+G., Moses, J. I., **Visscher, C.**, Blecic, J., Hardy, R.A., Cubillos,
+C., Campo, C. J. (2012) Two nearby sub-Earth-sized exoplanet candidates
+in the GJ 436 system. *Astrophysical Journal*, 755, 9\
+[ADS](http://adsabs.harvard.edu/abs/2012ApJ...755....9S){.printerfriendly}
+[arXiv](http://arxiv.org/abs/1207.4245)
+[journal](http://iopscience.iop.org/0004-637X/755/1/9/)
+
+**Visscher, C.**, and Moses, J.I. (2011) Quenching of Carbon Monoxide
+and Methane in the Atmospheres of Cool Brown Dwarfs and Hot Jupiters.
+*Astrophysical Journal*, 738, 72.\
+[ADS](http://adsabs.harvard.edu/abs/2011ApJ...738...72V)
+[arXiv](http://arxiv.org/abs/1106.3525)
+[journal](http://iopscience.iop.org/0004-637X/738/1/72/)
+
+Moses, J.I., **Visscher, C.**, Fortney, J.J., Showman, A.P., Lewis,
+N.K., Griffith, C.A., Klippenstein, M., Shabram, M., Friedson A.J.,
+Marley, M.S., Freedman, R.S. (2011) Disequilibrium Carbon, Oxygen, and
+Nitrogen Chemistry in the Atmospheres of HD 189733b and HD 209458b.
+*Astrophysical Journal*, 737, 15.\
+[ADS](http://adsabs.harvard.edu/abs/2011ApJ...737...15M)
+[arXiv](http://arxiv.org/abs/1102.0063){.printerfriendly}
+[journal](http://iopscience.iop.org/0004-637X/737/1/15/)
+
+Moses, J.I., **Visscher, C.**, Keane, T.C., and Sperier, A. (2010) On
+the abundance of non-cometary HCN on Jupiter. *Faraday Discussions*,
+147, 103-136.\
+[ADS](http://adsabs.harvard.edu/abs/2010FaDi..147..103M)
+[arXiv](http://arxiv.org/abs/1006.3508){.printerfriendly}
+[journal](http://pubs.rsc.org/en/Content/ArticleLanding/2010/FD/c003954c){.printerfriendly}
+
+**Visscher, C.**, Moses, J.I., and Saslow, S.A. (2010) The Deep Water
+Abundance on Jupiter: New Constraints from Thermochemical Kinetics and
+Diffusion Modeling. *Icarus*, 209, 602-615.\
+[ADS](http://adsabs.harvard.edu/abs/2010Icar..209..602V)
+[arXiv](http://arxiv.org/abs/1003.6077){.printerfriendly}
+[journal](http://dx.doi.org/10.1016/j.icarus.2010.03.029)
+
+**Visscher, C.**, Lodders, K., and Fegley, B., Jr. (2010) Atmospheric
+Chemistry in Giant Planets, Brown Dwarfs, and Low-Mass Dwarf Stars III.
+Iron, Magnesium, and Silicon. *Astrophysical Journal*, 716, 1060-1075.\
+[ADS](http://adsabs.harvard.edu/abs/2010ApJ...716.1060V){.printerfriendly}
+[arXiv](http://arxiv.org/abs/1001.3639){.printerfriendly}
+[journal](http://iopscience.iop.org/0004-637X/716/2/1060/){.printerfriendly}
+
+**Visscher, C.**, Lodders, K., and Fegley, B., Jr. (2006) Atmospheric
+Chemistry in Giant Planets, Brown Dwarfs, and Low-Mass Dwarf Stars II.
+Sulfur and Phosphorus. *Astrophysical Journal*, 648, 1181-1195.\
+[ADS](http://adsabs.harvard.edu/abs/2006ApJ...648.1181V){.printerfriendly}
+[arXiv](http://arxiv.org/abs/astro-ph/0511136){.printerfriendly}
+[journal](http://iopscience.iop.org/0004-637X/648/2/1181/){.printerfriendly}
+
+**Visscher, C.**, and Fegley, B., Jr. (2004) Chemical Constraints on the
+Water and Total Oxygen Abundances in the Deep Atmosphere of Saturn.
+*Astrophysical Journal*, 623, 1221-1227.\
+[ADS](http://adsabs.harvard.edu/abs/2005ApJ...623.1221V){.printerfriendly}
+[arXiv](http://arxiv.org/abs/astro-ph/0501128){.printerfriendly}
+[journal](http://iopscience.iop.org/0004-637X/623/2/1221/){.printerfriendly}

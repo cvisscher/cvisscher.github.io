@@ -5,10 +5,6 @@ subtitle: Planetary Chemistry Research
 math: true
 ---
 
-blah
-
-$$ a^2 + b^2 = c^2$$
-
 Parmentier, V., Line, M.R., Bean, J.L., Mansfield, M., Kreidberg, L.,
 Lupu, R., **Visscher, C.**, Desert, J-M., Fortney, J.J.; Deleuil, M.,
 Arcangeli, J., Showman, A.P., Marley, M.S. (2018) From thermal

@@ -9,7 +9,9 @@ tags: [test]
 
 One of the most remarkable "everday" confirmations of Einstein's theory of relativity (both special relativity and general relativity) are the corrections needed for GPS satellites to maintain their accuracy.
 
-$d = c\times t$
+\begin{equation}
+d = c\times t
+\end{equation}
 
 ## Boxes
 You can add notification, warning and error boxes like this:

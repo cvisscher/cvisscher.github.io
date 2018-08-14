@@ -11,6 +11,8 @@ You can write regular [markdown](http://markdowntutorial.com/) here and Jekyll w
 
 **Here is some bold text**
 
+$$ a^2 + b^2 = c^2 $$
+
 ## Here is a secondary heading
 
 Here's a useless table:

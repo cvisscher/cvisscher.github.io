@@ -26,6 +26,9 @@ Here's a useless table:
 | Seven | Eight | Six |
 | Two | Three | One |
 
+blah
+
+$$ a^2 + b^2 = c^2 $$
 
 How about a yummy crepe?
 

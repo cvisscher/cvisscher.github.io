@@ -153,7 +153,7 @@ Stevenson, K.B., Harrington, J., Lust, N.B., Lewis, N. K., Montagnier,
 G., Moses, J. I., **Visscher, C.**, Blecic, J., Hardy, R.A., Cubillos,
 C., Campo, C. J. (2012) Two nearby sub-Earth-sized exoplanet candidates
 in the GJ 436 system. *Astrophysical Journal*, 755, 9\
-[ADS](http://adsabs.harvard.edu/abs/2012ApJ...755....9S){.printerfriendly}
+[ADS](http://adsabs.harvard.edu/abs/2012ApJ...755....9S)
 [arXiv](http://arxiv.org/abs/1207.4245)
 [journal](http://iopscience.iop.org/0004-637X/755/1/9/)
 
@@ -170,40 +170,40 @@ Marley, M.S., Freedman, R.S. (2011) Disequilibrium Carbon, Oxygen, and
 Nitrogen Chemistry in the Atmospheres of HD 189733b and HD 209458b.
 *Astrophysical Journal*, 737, 15.\
 [ADS](http://adsabs.harvard.edu/abs/2011ApJ...737...15M)
-[arXiv](http://arxiv.org/abs/1102.0063){.printerfriendly}
+[arXiv](http://arxiv.org/abs/1102.0063)
 [journal](http://iopscience.iop.org/0004-637X/737/1/15/)
 
 Moses, J.I., **Visscher, C.**, Keane, T.C., and Sperier, A. (2010) On
 the abundance of non-cometary HCN on Jupiter. *Faraday Discussions*,
 147, 103-136.\
 [ADS](http://adsabs.harvard.edu/abs/2010FaDi..147..103M)
-[arXiv](http://arxiv.org/abs/1006.3508){.printerfriendly}
-[journal](http://pubs.rsc.org/en/Content/ArticleLanding/2010/FD/c003954c){.printerfriendly}
+[arXiv](http://arxiv.org/abs/1006.3508)
+[journal](http://pubs.rsc.org/en/Content/ArticleLanding/2010/FD/c003954c)
 
 **Visscher, C.**, Moses, J.I., and Saslow, S.A. (2010) The Deep Water
 Abundance on Jupiter: New Constraints from Thermochemical Kinetics and
 Diffusion Modeling. *Icarus*, 209, 602-615.\
 [ADS](http://adsabs.harvard.edu/abs/2010Icar..209..602V)
-[arXiv](http://arxiv.org/abs/1003.6077){.printerfriendly}
+[arXiv](http://arxiv.org/abs/1003.6077)
 [journal](http://dx.doi.org/10.1016/j.icarus.2010.03.029)
 
 **Visscher, C.**, Lodders, K., and Fegley, B., Jr. (2010) Atmospheric
 Chemistry in Giant Planets, Brown Dwarfs, and Low-Mass Dwarf Stars III.
 Iron, Magnesium, and Silicon. *Astrophysical Journal*, 716, 1060-1075.\
-[ADS](http://adsabs.harvard.edu/abs/2010ApJ...716.1060V){.printerfriendly}
-[arXiv](http://arxiv.org/abs/1001.3639){.printerfriendly}
-[journal](http://iopscience.iop.org/0004-637X/716/2/1060/){.printerfriendly}
+[ADS](http://adsabs.harvard.edu/abs/2010ApJ...716.1060V)
+[arXiv](http://arxiv.org/abs/1001.3639)
+[journal](http://iopscience.iop.org/0004-637X/716/2/1060/)
 
 **Visscher, C.**, Lodders, K., and Fegley, B., Jr. (2006) Atmospheric
 Chemistry in Giant Planets, Brown Dwarfs, and Low-Mass Dwarf Stars II.
 Sulfur and Phosphorus. *Astrophysical Journal*, 648, 1181-1195.\
-[ADS](http://adsabs.harvard.edu/abs/2006ApJ...648.1181V){.printerfriendly}
-[arXiv](http://arxiv.org/abs/astro-ph/0511136){.printerfriendly}
-[journal](http://iopscience.iop.org/0004-637X/648/2/1181/){.printerfriendly}
+[ADS](http://adsabs.harvard.edu/abs/2006ApJ...648.1181V)
+[arXiv](http://arxiv.org/abs/astro-ph/0511136)
+[journal](http://iopscience.iop.org/0004-637X/648/2/1181/)
 
 **Visscher, C.**, and Fegley, B., Jr. (2004) Chemical Constraints on the
 Water and Total Oxygen Abundances in the Deep Atmosphere of Saturn.
 *Astrophysical Journal*, 623, 1221-1227.\
-[ADS](http://adsabs.harvard.edu/abs/2005ApJ...623.1221V){.printerfriendly}
-[arXiv](http://arxiv.org/abs/astro-ph/0501128){.printerfriendly}
-[journal](http://iopscience.iop.org/0004-637X/623/2/1221/){.printerfriendly}
+[ADS](http://adsabs.harvard.edu/abs/2005ApJ...623.1221V)
+[arXiv](http://arxiv.org/abs/astro-ph/0501128)
+[journal](http://iopscience.iop.org/0004-637X/623/2/1221/)

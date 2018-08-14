@@ -13,8 +13,6 @@ One of the most remarkable "everday" confirmations of Einstein's theory of relat
 
 $$d  = c \times t$$
 
-![Crepe](http://s3-media3.fl.yelpcdn.com/bphoto/cQ1Yoa75m2yUFFbY2xwuqw/348s.jpg)
-
 Here's a code chunk:
 
 ~~~

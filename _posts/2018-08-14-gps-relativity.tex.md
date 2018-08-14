@@ -7,40 +7,9 @@ gh-badge: [star, fork, follow]
 tags: [test]
 ---
 
-## Here is a secondary heading
-
 One of the most remarkable "everday" confirmations of Einstein's theory of relativity (both special relativity and general relativity) are the corrections needed for GPS satellites to maintain their accuracy.
 
-$$d  = c \times t$$
-
-\[d=ct\]
-
-Here's a code chunk:
-
-~~~
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-~~~
-
-And here is the same code with syntax highlighting:
-
-```javascript
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-```
-
-And here is the same code yet again but with line numbers:
-
-{% highlight javascript linenos %}
-var foo = function(x) {
-  return(x + 5);
-}
-foo(3)
-{% endhighlight %}
+$d = c\times t$
 
 ## Boxes
 You can add notification, warning and error boxes like this:

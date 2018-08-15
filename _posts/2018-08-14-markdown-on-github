@@ -1,1 +1,8 @@
-df
+---
+layout: post
+title: Markdown Math on GitHub  
+subtitle: How to render formulas on github pages
+tags: [math,web]
+math: true
+---
+

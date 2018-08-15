@@ -1,7 +1,7 @@
 ---
 layout: page
-title: About me
-subtitle:
+title: Channon Visscher
+subtitle: Chemistry & Planetary Sciences
 ---
 
 ### Academic Background

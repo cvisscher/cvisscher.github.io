@@ -6,3 +6,4 @@ tags: [math,web]
 math: true
 ---
 
+Interconverting and displaying mathematical expressions between Markdown, LaTeX, and HTML is relatively straightforward using tools such as pandoc.  [This page](http://deeplearningthesis.com/jekyll/mathematics/programming/2018/01/14/setting-up-jekyll.html) has very useful instructions for converting and displaying mathematical expressions on-the-fly (that is, from Markdown to the properly rendered HTML) using the Jekyll template on GitHub pages.

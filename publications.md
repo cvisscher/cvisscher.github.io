@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 subtitle: Planetary Chemistry Research
-math: true
+math: true 
 ---
 
 Parmentier, V., Line, M.R., Bean, J.L., Mansfield, M., Kreidberg, L.,

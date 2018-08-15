@@ -10,7 +10,8 @@ Interconverting and displaying mathematical expressions between markdown, latex,
 
 For a given page (such as this post) mathjax is implemented by setting **math: true** at the beginning of the page, for example:
 
-~~~
+
+```
 ---
 layout: post
 title: Markdown Math on GitHub  
@@ -18,7 +19,7 @@ subtitle: How to render formulas on github pages
 tags: [math,web]
 math: true
 ---
-~~~
+```
 
 This allows us to use latex-style syntax to create equations, such as:
 

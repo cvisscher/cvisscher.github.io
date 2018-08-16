@@ -16,7 +16,7 @@ WASP-121b in context, *Astronomy & Astrophysics*, in press
 Morley, C.V., Skemer, A.J., Allers, K.N., Marley, M.S., Faherty, J.K.,
 **Visscher, C.**, Beiler, S.A., Miles, B.E., Lupu, R., Freedman, R.S.,
 Fortney, J.J., Geballe, T.R., Bjoraker, G.L. (2018) An L Band Spectrum
-of the Coldest Brown Dwarf. *Astrophysical Journal*, in press
+of the Coldest Brown Dwarf. *Astrophysical Journal*, 858(2), 97
 [ADS](http://adsabs.harvard.edu/abs/2018arXiv180407771M)
 [arXiv](https://arxiv.org/abs/1804.07771)
 

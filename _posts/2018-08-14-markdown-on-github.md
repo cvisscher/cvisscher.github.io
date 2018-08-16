@@ -13,8 +13,8 @@ For a given page (such as this post) mathjax is implemented by setting **math: t
 ```
 ---
 layout: post
-title: Markdown Math on GitHub  
-subtitle: How to render formulas on github pages
+title: MathJax on GitHub Pages
+subtitle: Converting from markdown to html
 tags: [math,github]
 math: true
 ---

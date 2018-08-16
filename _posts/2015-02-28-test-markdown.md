@@ -28,6 +28,11 @@ Here's a useless table:
 
 blah
 
+| | higher C-14 (younger) | lower C-14 (older) |
+| :------ |:--- | :--- |
+| **higher C-13 ** | ocean sediments | volanic emissions |
+| **lower C-13 ** | living plants | fossil fuels |
+
 $$ a^2 + b^2 = c^2 $$
 
 How about a yummy crepe?

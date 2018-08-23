@@ -1,7 +1,7 @@
 ---
 layout: post
-title: From thermal dissociation to condensation
-subtitle: Water destroyed, then reborn
+title: Understanding substellar atmospheres
+subtitle: A summary of new model approaches
 tags: [math,github]
 math: true
 image: /img/sonora_summary.jpg

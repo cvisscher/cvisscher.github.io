@@ -2,7 +2,7 @@
 layout: post
 title: Science for all Dordt Students
 subtitle: Navigating science and religion
-tags: [math,github]
+tags: [science,faith,teaching]
 math: true
 image: /img/sfac_cover.jpg
 ---

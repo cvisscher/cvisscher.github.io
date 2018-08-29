@@ -2,7 +2,7 @@
 layout: post
 title: Understanding substellar atmospheres
 subtitle: A summary of new model approaches
-tags: [math,github]
+tags: [science,talks]
 math: true
 image: /img/sonora_summary.jpg
 ---

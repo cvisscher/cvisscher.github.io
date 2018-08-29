@@ -7,9 +7,9 @@ math: true
 image: /img/sfac_cover.jpg
 ---
 
-The draft of our *Science for all Christians* essay is ready just in time for class!  This booklet will be used in CHEM/BIO 180 "First Term Seminar" for freshman science majors.  
+The draft of our *Science for all Christians* essay collection is ready just in time for class!  This booklet will be used in CHEM/BIO 180 "First Term Seminar" for freshman science majors.  
 
-The collection is organized around [four main themes](https://inallthings.org/science-for-all-christians/).  Here is an introductory passage I wrote for the "Understanding Scientific Truth" theme:
+The collection is organized around [four main themes](https://inallthings.org/science-for-all-christians/).  Here is an introductory passage I wrote for the "Understanding Scientific Truth" section of the booklet:
 
 The God who reveals himself in Scripture and in Christ is the same God who created and sustains a universe that is laid "before our eyes like a beautiful book" giving witness to its maker<sup>1</sup>. From this confession, we recognize that meaningful knowledge can be gained through the study of the physical world. It also means that God is the author of all truth, whether that truth is found in God's words or works.
 

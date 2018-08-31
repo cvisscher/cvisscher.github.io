@@ -2,8 +2,12 @@
 layout: page
 title: Publications
 subtitle: Planetary Chemistry Research
-math: true 
+math: true
 ---
+
+NASA ADS [Author Query](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Visscher,%20Channon&db_key=AST)
+
+arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
 Parmentier, V., Line, M.R., Bean, J.L., Mansfield, M., Kreidberg, L.,
 Lupu, R., **Visscher, C.**, Desert, J-M., Fortney, J.J.; Deleuil, M.,

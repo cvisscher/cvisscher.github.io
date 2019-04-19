@@ -9,6 +9,8 @@ NASA ADS [Author Query](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
+Marley, M. et al. (40 co-authors) Imaging Cool Giant Planets in Reflected Light: Science Investigations and Synergy with Habitable Planets (2019) Science white paper submitted to the Astro 2020 Decadal Survey on Astronomy and Astrophysics. [arXiv](https://arxiv.org/abs/1903.09322)
+
 Parmentier, V., Line, M.R., Bean, J.L., Mansfield, M., Kreidberg, L.,
 Lupu, R., **Visscher, C.**, Desert, J-M., Fortney, J.J.; Deleuil, M.,
 Arcangeli, J., Showman, A.P., Marley, M.S. (2018) From thermal

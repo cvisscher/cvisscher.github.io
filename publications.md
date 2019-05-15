@@ -5,7 +5,7 @@ subtitle: Planetary Chemistry Research
 math: true
 ---
 
-NASA ADS [Author Query](http://adsabs.harvard.edu/cgi-bin/nph-abs_connect?return_req=no_params&author=Visscher,%20Channon&db_key=AST)
+NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Visscher%2C%20Channon%22&sort=date%20desc%2C%20bibcode%20desc)
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 

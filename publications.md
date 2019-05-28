@@ -9,7 +9,7 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
-Marley, M. et al. (40 co-authors) Imaging Cool Giant Planets in Reflected Light: Science Investigations and Synergy with Habitable Planets (2019) Science white paper submitted to the Astro 2020 Decadal Survey on Astronomy and Astrophysics. [arXiv](https://arxiv.org/abs/1903.09322)
+Marley, M. et al. (2019) Imaging Cool Giant Planets in Reflected Light: Science Investigations and Synergy with Habitable Planets. White paper submitted to the Astro 2020 Decadal Survey on Astronomy and Astrophysics. [arXiv](https://arxiv.org/abs/1903.09322)
 
 Parmentier, V., Line, M.R., Bean, J.L., Mansfield, M., Kreidberg, L.,
 Lupu, R., **Visscher, C.**, Desert, J-M., Fortney, J.J.; Deleuil, M.,
@@ -74,15 +74,7 @@ phase space. *Astrophysical Journal*, 821, 9
 [arXiv](http://arxiv.org/abs/1602.06733)
 [journal](http://iopscience.iop.org/article/10.3847/0004-637X/821/1/9)
 
-Skemer, A.J., Morley, C. V, Zimmerman, N. T., Skrutskie, M. F.,
-Leisenring, J., Buenzli, E., Bonnefoy, M., Bailey, V., Hinz, P.,
-Defrére, D., Esposito, S., Apai, D., Biller, B., Brandner, W., Close,
-L., Crepp, J.R., De Rosa, R. J. , Desidera, S., Eisner, J., Fortney, J.,
-Freedman, R., Henning, T., Hofmann, K-H., Kopytova, T., Lupu, R., Maire,
-A-L., Males, J. R., Marley, M., Morzinski, K., Oza, A., Patience, J.,
-Rajan, A., George Rieke, Schertl, D., Schlieder, J., Stone, J., Su, K.,
-Vaz, A., **Visscher, C.**, Ward-Duong, K., Weigelt, G., Woodward, C. E.
-(2015) The LEECH Exoplanet Imaging Survey: Characterization of the
+Skemer, A.J. et al. (2015) The LEECH Exoplanet Imaging Survey: Characterization of the
 Coldest Directly Imaged Exoplanet, GJ 504 b, and Evidence for
 Super-Stellar Metallicity. *Astrophysical Journal* 817(2), 166
 [ADS](http://adsabs.harvard.edu/abs/2015arXiv151109183S)

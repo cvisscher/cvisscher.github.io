@@ -15,7 +15,7 @@ Parmentier, V., Line, M.R., Bean, J.L., Mansfield, M., Kreidberg, L.,
 Lupu, R., **Visscher, C.**, Desert, J-M., Fortney, J.J.; Deleuil, M.,
 Arcangeli, J., Showman, A.P., Marley, M.S. (2018) From thermal
 dissociation to condensation in the atmospheres of ultra hot Jupiters:
-WASP-121b in context, *Astronomy & Astrophysics*, in press
+WASP-121b in context, *Astronomy & Astrophysics*, 617, A110.
 [ADS](http://adsabs.harvard.edu/abs/2018arXiv180500096P)
 [arXiv](https://arxiv.org/abs/1805.00096)
 

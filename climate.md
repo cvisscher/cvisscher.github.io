@@ -7,7 +7,7 @@ math: true
 
 *What factors influence global temperature anomalies?*
 
-A link to an interactive climate model is [available here](https://www.desmos.com/calculator/lfjfqn7818). This simple model considers four main forcing agents:
+A link to an interactive climate/temperature model is [available here](https://www.desmos.com/calculator/lfjfqn7818). This simple model considers four main components that influence global temperatures:
 
 * k<sub>s</sub>: variations in the total solar irradiance (TSI) with a 1-month lag and 1-month smoothing of daily data. Corrected TSI data from [Dudok de Wit et al. 2017](https://spot.colorado.edu/~koppg/TSI/Thierry_TSI_composite.txt)
 * k<sub>e</sub>: The El Niño-Southern Oscillation (ENSO) with a 0-, 2-, and 10-month lag and 3-month smoothing of monthly data. The SOI index is taken as a proxy for ENSO using data from [NOAA](https://www.ncdc.noaa.gov/teleconnections/enso/indicators/soi/)

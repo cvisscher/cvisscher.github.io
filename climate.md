@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Climate Models
+title: Modeling Global Temperatures
 subtitle: Planetary Chemistry Research
 math: true
 ---

@@ -9,6 +9,10 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
+Miles, B., Skemer, A.J.I., Morley, C.V., Marley, M.S., Fortney, J.J., Allers, K.N., Faherty, J.K., Geballe, T.R., **Visscher, C.**, Schneider, A.C., Lupu, R., Freedman, R.S., Bjoraker, G.L. (2020). Observations of Disequilibrium CO Chemistry in the Coldest Brown Dwarfs, *Astrophysical Journal*, accepted.
+[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200410770M/abstract) 
+[arXiv](https://arxiv.org/abs/2004.10770)
+
 Marley, M. et al. (2019) Imaging Cool Giant Planets in Reflected Light: Science Investigations and Synergy with Habitable Planets. White paper submitted to the Astro 2020 Decadal Survey on Astronomy and Astrophysics. [arXiv](https://arxiv.org/abs/1903.09322)
 
 Parmentier, V., Line, M.R., Bean, J.L., Mansfield, M., Kreidberg, L.,

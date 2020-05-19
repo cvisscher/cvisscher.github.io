@@ -9,14 +9,12 @@ math: true
 
 *What factors influence global temperature anomalies?*
 
-A link to an interactive climate/temperature model is [available here](https://www.desmos.com/calculator/coqhcd0vgf). This simple parameterization model considers four main components that influence global temperatures:
+A simple climate/temperature parameterization model that can be used to reproduce temperature anomalies from 1980 is [available here](https://www.desmos.com/calculator/uefpvtwnmx). This approach considers variations in four main components that can influence global temperatures:
 
 * **k<sub>s</sub>:** variations in the total solar irradiance (TSI)
 * **k<sub>e</sub>:** the El Niño-Southern Oscillation (ENSO). The SOI index is taken as a proxy for ENSO using data from NOAA
 * **k<sub>v</sub>:** stratospheric aersol optical depth from volcanic eruptions
 * **k<sub>a</sub>:** anthropogenic forcing, including well-mixed greenhouse gases (WMGHG) and land-use changes
-
-These can be adjusted in an [interactive desmos worksheet](https://www.desmos.com/calculator/dxg7zokoot) to reproduce global temperatures from 1980.
 
 **Disclaimer:** this simple hindcast model was developed primarily as an undergraduate teaching tool, in order to demonstrate the major processes that influence global temperature - and in particular, to demonstrate that **the temperature changes observed over the past 40 years cannot be re-created without considering anthropogenic effects**. *This approach is **not** intended to serve as a detailed or accurate analysis of climate forcing effects,* and the *k* values discussed below serve as rough proportionality constants. For further reading I recommend the following (not exhaustive):
 

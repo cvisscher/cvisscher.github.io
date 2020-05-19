@@ -9,7 +9,7 @@ math: true
 
 *What factors influence global temperature anomalies?*
 
-This repository collects data sets that can be used to construct a very simple climate "hindcast" model that considers four main components that influence global temperatures:
+A link to an interactive climate/temperature model is [available here](https://www.desmos.com/calculator/coqhcd0vgf). This simple parameterization model considers four main components that influence global temperatures:
 
 * **k<sub>s</sub>:** variations in the total solar irradiance (TSI)
 * **k<sub>e</sub>:** the El Niño-Southern Oscillation (ENSO). The SOI index is taken as a proxy for ENSO using data from NOAA

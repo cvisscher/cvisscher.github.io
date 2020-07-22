@@ -78,7 +78,7 @@ phase space. *Astrophysical Journal*, 821, 9
 [arXiv](http://arxiv.org/abs/1602.06733)
 [journal](http://iopscience.iop.org/article/10.3847/0004-637X/821/1/9)
 
-Skemer, A.J. et al. (2015) The LEECH Exoplanet Imaging Survey: Characterization of the
+Skemer, A.J. et al. (2016) The LEECH Exoplanet Imaging Survey: Characterization of the
 Coldest Directly Imaged Exoplanet, GJ 504 b, and Evidence for
 Super-Stellar Metallicity. *Astrophysical Journal* 817(2), 166
 [ADS](http://adsabs.harvard.edu/abs/2015arXiv151109183S)
@@ -124,7 +124,7 @@ Journal Letters*, 767, L12
 [journal](http://iopscience.iop.org/2041-8205/767/1/L12/)
 
 Leggett, S. K, Morley, C. V., Marley, M. S., Saumon, D., Fortney, J. J.,
-and **Visscher, C.** (2012) A Comparison of Near-Infrared Photometry and
+and **Visscher, C.** (2013) A Comparison of Near-Infrared Photometry and
 Spectra for Y Dwarfs with a New Generation of Cool Cloudy Models.
 *Astrophysical Journal*, 763, 130.
 [ADS](http://adsabs.harvard.edu/abs/2013ApJ...763..130L)
@@ -132,7 +132,7 @@ Spectra for Y Dwarfs with a New Generation of Cool Cloudy Models.
 [journal](http://iopscience.iop.org/0004-637X/763/2/130/)
 
 Moses, J.I., Madhusudhan, N., **Visscher, C.**, and Freedman, R.S.
-(2012) Chemical Consequences of the C/O Ratio on Hot Jupiters: Examples
+(2013) Chemical Consequences of the C/O Ratio on Hot Jupiters: Examples
 from WASP-12b, CoRoT-2b, XO-1b, and HD 189733b. *Astrophysical Journal*,
 763, 25.
 [ADS](http://adsabs.harvard.edu/abs/2013ApJ...763...25M)

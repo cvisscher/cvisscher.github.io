@@ -9,8 +9,11 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
-Miles, B., Skemer, A.J.I., Morley, C.V., Marley, M.S., Fortney, J.J., Allers, K.N., Faherty, J.K., Geballe, T.R., **Visscher, C.**, Schneider, A.C., Lupu, R., Freedman, R.S., Bjoraker, G.L. (2020). Observations of Disequilibrium CO Chemistry in the Coldest Brown Dwarfs, *Astrophysical Journal*, accepted.
-[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv200410770M/abstract) 
+Fortney, J.J., **Visscher, C.**, Marley, M.S., Hood, C.E., Line, M.R., Thorngren, D.P., Freedman, R.S., Lupu, R. (2020). Beyond Equilibrium Temperature: How the Atmosphere/Interior Connection Affects the Onset of Methane, Ammonia, and Clouds in Warm Transiting Giant Planets, *Astrophysical Journal*, in review.
+[arXiv](https://arxiv.org/abs/2010.00146)
+
+Miles, B., Skemer, A.J.I., Morley, C.V., Marley, M.S., Fortney, J.J., Allers, K.N., Faherty, J.K., Geballe, T.R., **Visscher, C.**, Schneider, A.C., Lupu, R., Freedman, R.S., Bjoraker, G.L. (2020). Observations of Disequilibrium CO Chemistry in the Coldest Brown Dwarfs, *Astronomical Journal*, 160(2), 63.
+[ADS](https://ui.adsabs.harvard.edu/abs/2020AJ....160...63M/abstract) 
 [arXiv](https://arxiv.org/abs/2004.10770)
 
 Marley, M. et al. (2019) Imaging Cool Giant Planets in Reflected Light: Science Investigations and Synergy with Habitable Planets. White paper submitted to the Astro 2020 Decadal Survey on Astronomy and Astrophysics. [arXiv](https://arxiv.org/abs/1903.09322)

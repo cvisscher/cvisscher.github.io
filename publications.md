@@ -11,8 +11,7 @@ arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%
 
 Gonzales, E., Burningham, B., Faherty, J., Cleary, C., **Visscher, C.**, Marley, M., Lupu, R., Freedman, R. (2020) Retrieval of SDSS J1416+1348AB. *Astrophysical Journal*, accepted. [ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201001224G/abstract) [arXiv](https://arxiv.org/abs/2010.01224)
 
-Fortney, J.J., **Visscher, C.**, Marley, M.S., Hood, C.E., Line, M.R., Thorngren, D.P., Freedman, R.S., Lupu, R. (2020). Beyond Equilibrium Temperature: How the Atmosphere/Interior Connection Affects the Onset of Methane, Ammonia, and Clouds in Warm Transiting Giant Planets, *Astrophysical Journal*, accepted.
-[ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201000146F/abstract) [arXiv](https://arxiv.org/abs/2010.00146)
+Fortney, J.J., **Visscher, C.**, Marley, M.S., Hood, C.E., Line, M.R., Thorngren, D.P., Freedman, R.S., Lupu, R. (2020). Beyond Equilibrium Temperature: How the Atmosphere/Interior Connection Affects the Onset of Methane, Ammonia, and Clouds in Warm Transiting Giant Planets, *Astrophysical Journal*, accepted. [ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201000146F/abstract) [arXiv](https://arxiv.org/abs/2010.00146)
 
 **Visscher, C.** (2020) Mapping Jupiter's Mischief, *JGR-Planets*, 125(8), e06526 [ADS](https://ui.adsabs.harvard.edu/abs/2020JGRE..12506526V/abstract) [journal](https://agupubs.onlinelibrary.wiley.com/doi/full/10.1029/2020JE006526)
 

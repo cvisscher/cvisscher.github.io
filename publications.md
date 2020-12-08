@@ -27,14 +27,14 @@ Arcangeli, J., Showman, A.P., Marley, M.S. (2018) From thermal
 dissociation to condensation in the atmospheres of ultra hot Jupiters:
 WASP-121b in context, *Astronomy & Astrophysics*, 617, A110.
 [ADS](http://adsabs.harvard.edu/abs/2018arXiv180500096P)
-[arXiv](https://arxiv.org/abs/1805.00096)
+[arXiv](https://arxiv.org/abs/1805.00096) [journal](https://www.aanda.org/articles/aa/full_html/2018/09/aa33059-18/aa33059-18.html)
 
 Morley, C.V., Skemer, A.J., Allers, K.N., Marley, M.S., Faherty, J.K.,
 **Visscher, C.**, Beiler, S.A., Miles, B.E., Lupu, R., Freedman, R.S.,
 Fortney, J.J., Geballe, T.R., Bjoraker, G.L. (2018) An L Band Spectrum
 of the Coldest Brown Dwarf. *Astrophysical Journal*, 858(2), 97
 [ADS](http://adsabs.harvard.edu/abs/2018arXiv180407771M)
-[arXiv](https://arxiv.org/abs/1804.07771)
+[arXiv](https://arxiv.org/abs/1804.07771) [journal](https://iopscience.iop.org/article/10.3847/1538-4357/aabe8b)
 
 Burningham, B., Marley, M. S., Line, M. R., Lupu, R., **Visscher, C.**,
 Morley, C. V., Saumon, D., Freedman, R. (2017) Retrieval of atmospheric

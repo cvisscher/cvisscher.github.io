@@ -210,7 +210,7 @@ Sulfur and Phosphorus. *Astrophysical Journal*, 648, 1181-1195.
 [arXiv](http://arxiv.org/abs/astro-ph/0511136)
 [journal](http://iopscience.iop.org/0004-637X/648/2/1181/)
 
-**Visscher, C.**, and Fegley, B., Jr. (2004) Chemical Constraints on the
+**Visscher, C.**, and Fegley, B., Jr. (2005) Chemical Constraints on the
 Water and Total Oxygen Abundances in the Deep Atmosphere of Saturn.
 *Astrophysical Journal*, 623, 1221-1227.
 [ADS](http://adsabs.harvard.edu/abs/2005ApJ...623.1221V)

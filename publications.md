@@ -9,7 +9,7 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
-Burningham, B., Faherty, J.K., Gonzales, E.C., Marley, M.S., **Visscher, C.**, Lupu, R.,  Gaarn, J., Fabienne Bieger, M., Freedman, R., Saumon, D. Cloud busting: enstatite and quartz clouds in the atmosphere of 2M2224-0158. *Monthly Notices of the Royal Astronomical Society*, accepted. [ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210504268B/abstract) [arXiv](https://arxiv.org/abs/2105.04268)
+Burningham, B., Faherty, J.K., Gonzales, E.C., Marley, M.S., **Visscher, C.**, Lupu, R.,  Gaarn, J., Fabienne Bieger, M., Freedman, R., Saumon, D. Cloud busting: enstatite and quartz clouds in the atmosphere of 2M2224-0158. (2021) *Monthly Notices of the Royal Astronomical Society*, accepted. [ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210504268B/abstract) [arXiv](https://arxiv.org/abs/2105.04268)
 
 Gonzales, E., Burningham, B., Faherty, J., Cleary, C., **Visscher, C.**, Marley, M., Lupu, R., Freedman, R. (2020) Retrieval of SDSS J1416+1348AB. *Astrophysical Journal*, accepted. [ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201001224G/abstract) [arXiv](https://arxiv.org/abs/2010.01224)
 

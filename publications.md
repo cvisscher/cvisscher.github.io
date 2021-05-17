@@ -9,6 +9,8 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
+Burningham, B., Faherty, J.K., Gonzales, E.C., Marley, M.S., **Visscher, C.**, Lupu, R.,  Gaarn, J., Fabienne Bieger, M., Freedman, R., Saumon, D. Cloud busting: enstatite and quartz clouds in the atmosphere of 2M2224-0158. *Monthly Notices of the Royal Astronomical Society*, accepted. [ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210504268B/abstract) [arXiv](https://arxiv.org/abs/2105.04268)
+
 Gonzales, E., Burningham, B., Faherty, J., Cleary, C., **Visscher, C.**, Marley, M., Lupu, R., Freedman, R. (2020) Retrieval of SDSS J1416+1348AB. *Astrophysical Journal*, accepted. [ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201001224G/abstract) [arXiv](https://arxiv.org/abs/2010.01224)
 
 Fortney, J.J., **Visscher, C.**, Marley, M.S., Hood, C.E., Line, M.R., Thorngren, D.P., Freedman, R.S., Lupu, R. (2020). Beyond Equilibrium Temperature: How the Atmosphere/Interior Connection Affects the Onset of Methane, Ammonia, and Clouds in Warm Transiting Giant Planets, *Astronomical Journal* 160(6) 288 [ADS](https://ui.adsabs.harvard.edu/abs/2020arXiv201000146F/abstract) [arXiv](https://arxiv.org/abs/2010.00146) [journal](https://iopscience.iop.org/article/10.3847/1538-3881/abc5bd)

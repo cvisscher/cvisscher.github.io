@@ -5,6 +5,8 @@ subtitle: Science and Religion
 math: true
 ---
 
+***The Shared Virtues of Science and Faith***, a book review of *Why Science and Faith Need Each Other: Eight Shared Values That Move Us Beyond Fear* by Elaine Howard Ecklund, which seeks to demonstrate that science and religion can, in fact, find common ground to complement each other in constructive and beautiful ways. [article link](https://inallthings.org/the-shared-virtues-of-science-and-faith-a-review-of-why-science-and-faith-need-each-other/?highlight=Visscher)
+
 ***Kinds of Science and Exploring the Past***, *in all things* Aug 2020. *This essay explores the different ways science is done and argues that "historical" science can reveal meaningful knowledge about events that occurred in the distant past.* [article link](https://inallthings.org/kinds-of-science-and-exploring-the-past/)
 
 ***Understanding Scientific Truth***, Aug 2018.  The *Science for all Christians* essay collection is used in CHEM/BIO 180 “First Term Seminar” for freshman science majors at Dordt College.  The collection is organized around four main themes. [Here is an introductory essay](https://cvisscher.github.io/2018-08-29-understanding-truth/) for the “Understanding Scientific Truth” section of the booklet.

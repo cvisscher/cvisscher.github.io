@@ -9,7 +9,7 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
-Marley, M.S., Saumon, D., **Visscher, C.**, Lupu, R., Freedman, R., Morley, C., Fortney, J.J., Seay, C., Smith, A.J.R.W., Teal, D.J., Wang, R. (2021) The Sonora Brown Dwarf Atmosphere and Evolution Models I. Model Description and Application to Cloudless Atmospheres in Rainout Chemical Equilibrium. *Astrophysical Journal*, accepted. [ADS](https://arxiv.org/abs/2107.07434)\ Models available at [zenodo](https://zenodo.org/record/5063476#.YQGsRy1h2Rs).
+Marley, M.S., Saumon, D., **Visscher, C.**, Lupu, R., Freedman, R., Morley, C., Fortney, J.J., Seay, C., Smith, A.J.R.W., Teal, D.J., Wang, R. (2021) The Sonora Brown Dwarf Atmosphere and Evolution Models I. Model Description and Application to Cloudless Atmospheres in Rainout Chemical Equilibrium. *Astrophysical Journal*, accepted. [ADS](https://arxiv.org/abs/2107.07434)/ Models available at [zenodo](https://zenodo.org/record/5063476#.YQGsRy1h2Rs).
 
 Gharib-Nezhad, E., Marley, M.S., Batalha, N.E., **Visscher, C.**, Freedman, R.S., Lubu, R.E. (2021) Following the Lithium: Tracing Li-bearing Molecules Across Age, Mass, and Gravity in Brown Dwarfs. *Astrophysical Journal*, accepted. [ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210600781G/abstract) [arXiv](https://arxiv.org/abs/2106.00781)
 

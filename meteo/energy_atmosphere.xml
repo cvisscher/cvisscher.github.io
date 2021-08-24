@@ -1,0 +1,455 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--********************************************************************
+Copyright 2015 Robert A. Beezer
+
+This file is part of MathBook XML.
+
+MathBook XML is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 or version 3 of the
+License (at your option).
+
+MathBook XML is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
+*********************************************************************-->
+<!-- This file was originally part of the book     -->
+<!-- (as copied on 2015/07/12)                     -->
+<!--                                               -->
+<!--   Abstract Algebra: Theory and Applications   -->
+<!--                                               -->
+<!-- Copyright (C) 1997-2014  Thomas W. Judson     -->
+
+<chapter xml:id="energy_atmosphere" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<!-- % TWJ, 2010/03/31 -->
+<!-- % Chapters now begin with Chapter 1 -->
+
+<title>Energy in the atmosphere</title>
+
+<section xml:id="energy_transfer">
+<title>Modes of energy transfer</title>
+
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/heat"/></p>
+
+<p><term>Energy</term> is the capacity to do <term>work</term> (when a force acting on an object causes it to move), and can be further divided into <strong>kinetic</strong> and <strong>potential</strong> energy.</p>
+<p>Considering a parcel of air in the atmosphere, its <term>temperature</term> would describe the average kinetic energy of its atoms and molecules. The higher the temperature of a gas, the fast its atoms and molecules are traveling through three-dimensional space. Temperature is typically expressed in F, C, or K:</p>
+
+		<table>
+			<title>Temperature unit conversions</title>
+			<tabular>
+			<row bottom="minor">
+				<cell halign="left">Unit</cell>
+				<cell halign="left">Conversion</cell>
+			</row>
+			<row class="odd">
+				<cell halign="left">Celsius</cell>
+				<cell halign="left"><m>^\circ\textrm{C}=\frac{5}{9}((^\circ\textrm{F})-32)</m></cell>
+			</row>
+			<row class="even">
+				<cell halign="left">Fahrenheit</cell>
+				<cell halign="left"><m>^\circ\textrm{F}=\frac{9}{5}(^\circ\textrm{C})+32</m></cell>
+			</row>
+			<row class="odd" bottom="minor">
+				<cell halign="left">Kevlin</cell>
+				<cell halign="left"><m>\textrm{K}=(^\circ\textrm{C})+273.15</m></cell>
+			</row>
+			</tabular>
+		</table>
+
+		<p>	<term>Heat</term> refers to the <em>transfer</em> of energy from warmer objects to colder objects and represents the total thermal energy of a system. It is distinct from temperature!
+		</p>
+
+		<p>
+			The amount of heat depends upon (<m>q=mC_s\Delta T</m>):
+		</p>
+
+		<p><ul>
+			<li>
+			the total amount of the the material in the system
+			</li>
+
+			<li>
+			the thermal properties of the material
+			</li>
+
+		</ul></p>
+		
+				<p>
+			In atmospheric systems, energy is transferred by
+		<p><ul>
+			<li>
+			radiation (emission and absorption of radiation)
+			</li>
+			<li>
+			conduction (contact between substances)
+			</li>		
+			<li>
+			convection (vertical movement of air parcels)	
+			</li>
+			<li>
+			advection (horizontal movement of air masses)
+			</li>			
+			<li>
+			latent heating (energy released by phase changes of water)
+			</li>
+
+</ul>
+</p>
+</p>
+
+	<p> Latent heat effects can be found in two common atmospheric processes:
+	</p>
+<p><ul>
+			<li>
+			ice <m>\rightarrow</m> liquid water <m>\rightarrow</m> water vapor (absorbs heat)
+			</li>
+
+			<li>
+			water vapor <m>\rightarrow</m> liquid water <m>\rightarrow</m> ice (releases heat)
+			</li>
+
+		</ul></p>
+	
+		<p>
+			Cloud formation (for example) will <em>release</em> heat to the surrounding atmosphere. This slows the rate of cooling with altitude (i.e., the lapse rate decreases).
+		</p>
+
+</section>
+
+		<section xml:id="solar-energy">
+			<title>Solar energy</title>
+
+			<p>
+				The energy balance of the planet as a whole depends on radiation: how the Earth exchanges energy with space. To understand the role of solar energy, we first need to explore the behavior of temperature and radiation.
+			</p>
+
+			<p>
+				<term>The Electromagnetic Spectrum</term>
+			</p>
+			<p>
+			The electromagnetic spectrum refers to the entire distribution of <term>electromagnetic radiation</term> (or more generally, "light") over all wavelengths. We recognize that visible light occupies only a very narrow range of this entire spectrum. The following table provides a quick summary of the major types of electromagnetic radiation.
+			</p>
+
+		<table>
+			<title>Electromagnetic radiation</title>
+			<tabular>
+			<row bottom="minor">
+				<cell halign="left">type</cell>
+				<cell halign="left">wavelength range</cell>
+			</row>
+			<row class="odd">
+				<cell halign="left"><m>\gamma</m> rays and X-rays</cell>
+				<cell halign="left"><m>10^{-12}-10^{-9}</m> m</cell>
+			</row>
+			<row class="odd">
+				<cell halign="left">ultraviolet</cell>
+				<cell halign="left"><m>10^{-8}-10^{-7}</m> m</cell>
+			</row>		
+			<row class="odd">
+				<cell halign="left">visible</cell>
+				<cell halign="left"><m>4\times10^{-7}-7\times10^{-7}</m> m</cell>
+			</row>		
+			<row class="odd">
+				<cell halign="left">infrared</cell>
+				<cell halign="left"><m>10^{-6}-10^{-3}</m> m</cell>
+			</row>	
+			<row class="odd">
+				<cell halign="left">microwave</cell>
+				<cell halign="left"><m>10^{-3}-10^{-1}</m> m</cell>
+			</row>	
+			<row class="odd" bottom="minor">
+				<cell halign="left">radio</cell>
+				<cell halign="left"><m>10^{-3}-10^{8}</m> m</cell>
+			</row>							
+							
+	
+			</tabular>
+		</table>			
+
+			<p>
+				<term>Radiation Laws</term>
+			</p>
+
+			<p><ul>
+				<li>
+				Every object with a temperature above 0 K emits radiation.
+				</li>
+
+				<li>
+				Stefan-Boltzmann Law: objects with higher temperature emit more radiation per unit area (W/m^2), to the <em>fourth power</em> of temperature <m>F=\sigma T^4</m>
+				</li>
+
+				<li>
+				Wien’s Law is written as <m>\lambda=\frac{2898}{T(K)}</m>; this means that objects with higher temperature emit radiation at shorter wavelengths
+				</li>
+
+			</ul></p>
+
+<p> These laws explain the how different objects emit light. The Sun's photosphere is very hot (5800 K), and so it emits much of if its radiation over visible wavelengths. Cooler objects will emit much less radiation, and radiation at longer wavelengths. For example, most objects with temperatures near that of the Earth's surface (288 K) will emit radiation at infrared wavelengths.</p>
+
+				<p>This also explains the application of thermal or <q>night vision</q> technologies: mammals are typically much warmer than their surroundings (e.g., humans are typically about 310 K), and thus emit much more infrared energy than their surroundings.</p>
+
+
+			<p>
+				<term>The Sun</term>
+			</p>
+
+			<p>
+				The Sun is the main source of energy for the weather and climate, and reaches the Earth via radiation.
+			</p>
+
+			<p><ul>
+				<li>
+				The source of solar energy is the nuclear fusion of H into He in interior
+				</li>
+
+				<li>
+				The outer layers of the Sun have temperature of 5770 K (<term>incandescent</term>: this gas/plasma is so hot that it glows, primarily at visible wavelengths)
+				</li>
+
+				<li>
+				The total energy output is given by <m>F=\sigma T^4</m> where <m>T=5780</m> where the Stefan-Boltzmann constant is <m>\sigma=5.67\times10^{-8}</m> W m<m>^-2</m> K<m>^4</m>.
+				</li>
+
+				<li>
+				This yields a total energy output of <m>6.3\times10^{8}</m> W per m<m>^2</m> on the solar photosphere;
+				</li>
+
+				<li>
+				the radius of the Sun is <m>6.957\times10^{8}</m> m so the Sun has a surface area of <m>6.08\times10^{18}</m> m<m>^2</m>.
+				</li>
+
+				<li>
+				the total solar output (or <term>solar luminosity</term>) is therefore <m>3.82\times10^{26}</m> W.
+				</li>
+
+</ul>
+</p>
+
+<p>
+At the distance of the Earth’s orbit, the Sun’s radiation is spread out over an area <m>A=4\pi r^2</m> where <m>r=1.496\times10^{11}</m> m, giving <m>A=2.81\times10^{23}</m> m<m>^2</m>.
+</p>
+
+
+<p>
+This yields an energy flux of about <term>1360 W/m^2</term>, a value sometimes referred to as the <term>solar constant</term>. <em>This is the incoming solar flux at the top of the Earth’s atmosphere</em>. We will return  to this value when we explore the energy budget of planet Earth.
+</p>
+		
+</section>
+
+		<section xml:id="seasons-and-temperature">
+		
+			<title>Seasons and temperature</title>
+			
+			<subsection xml:id="solar_variations">
+				<title>Variations in insolation</title>			
+			
+			<p>
+				The difference in the energy budget as a function of latitude shows the importance of
+			</p>
+
+			<p><ol>
+				<li>
+				the incidence angle for the Sun, and
+				</li>
+
+				<li>
+				the length of a day
+				</li>
+
+			</ol></p>
+
+			<p>
+				The angle is important because higher solar altitudes mean greater intensity; at lower angles the sunlight is spread out over a larger area.
+			</p>
+
+			<p>
+				Because of the tilt of the Earth’s axis, the solar angle changes throughout the year and gives rise to seasonal effects.
+			</p>
+
+			<p><ul>
+				<li>
+				<term>vernal equinox</term> (Mar 21): Sun above equator at noon (<m>47^\circ</m> altitude at our latitude)
+				</li>
+
+				<li>
+				<term>summer solstice</term> (Jun 21): Sun above Tropic of Cancer (<m>23.5^\circ</m> N) at noon (<m>70^\circ</m> altitude at our latitude)
+				</li>
+
+				<li>
+				<term>autumnal equinox</term> (Sep 21): Sun above equator at noon (<m>47^\circ</m> altitude at our latitude)
+				</li>
+
+				<li>
+				<term>winter solstice</term> (Dec 21): Sun above Tropic of Capricorn (<m>23.5^\circ</m> S) at noon (<m>24^\circ</m> altitude at our latitude)
+				</li>
+
+			</ul></p>
+			
+			</subsection>
+
+			
+			<subsection xml:id="temperature-cycles">
+				<title>Temperature cycles</title>
+
+<p> The temperature <term>high</term> and temperature <term>low</term> are typically recorded for each 24-hour day.</p>
+
+				<p><ul>
+					<li>
+					From the high and low we can compute the <term>daily mean temperature:</term> the average of maximum temperature and minimum temperature = <m>\frac{\textrm{max + min}}{2}</m>
+
+					</li>
+
+					<li>
+					From the daily mean temperatures we can compute the <term>monthly mean temperature</term> = <m>\frac{\text{sum of daily mean temps}}{\#\text{ of days in month}}</m>
+					</li>
+
+					<li>
+					From the monthly mean temperatures we can compute the <term>annual average temperature</term> = <m>\frac{\textrm{sum of monthly mean temps}}{12}</m>
+					</li>
+
+				</ul></p>
+						
+			</subsection>
+			
+			<subsection xml:id="effects-on-temperature-both-annually-and-daily">
+				<title>Effects on temperature (both annually and daily):</title>
+
+				<p><ul>
+					<li>
+					latitude (higher latitude <m>\rightarrow</m> lower insolation <m>\rightarrow</m> lower tempeatures)
+					</li>
+
+					<li>
+					surface type (albedo and thermal properties)
+					</li>
+
+					<li>
+					elevation and aspect (higher altitude -&gt; lower temperatures; aspect changes insolation)
+					</li>
+
+					<li>
+					proximity to water (presence of bodies of water moderates temperature variations): higher specific heat, greater absorption of heat via evaporation, and energy distributed over a thicker surface layer than for land.
+					</li>
+
+
+					<li>
+					advection (prevailing wind patterns may bring cooler/warmer air)
+					</li>
+
+					<li>
+					cloud cover (provides cooling in summer and moderates temperatures in the winter)
+					</li>
+
+				</ul></p>
+
+				<p>
+					We can also explore <em>interannual</em> variations in temperature. These allow us to establish climate normals. Climatological temperatures refer to average temperatures over a 30-year period. This is often calculated for 1951-1980 or 1981-2010. The difference between the temperature at a given time for a particular location and the climatological normal is the <em>temperature anomaly</em>.
+				</p>
+					
+					</subsection>
+	
+			<subsection xml:id="derived-temperature-indexes">
+				<title>Derived temperature indexes</title>
+
+				<p>
+					Derived indexes are used to provide useful information about how the weather feels or to plan and monitor crop growth.
+				</p>
+
+				<p><ul>
+					<li>
+					<term>wind chill</term>: takes into consideration heat loss from the body due to cold temperature and wind.
+					</li>
+
+					<li>
+					<term>heat index</term>: takes into consideration how high humidity reduces the rate of evaporation (and therefore cooling) from the body
+					</li>
+
+					<li>
+					<term>growing degree days (GDD)</term>: can be used to track plan maturation based upon daily temperatures; cooler temperatures require longer growth seasons
+					</li>
+
+				</ul></p>	
+			
+			</subsection>
+
+			</section>
+			
+		<section xml:id="energy-budget-of-the-earth">
+			<title>Energy budget of the Earth</title>
+
+			<p>
+				As discussed in a previous section, the solar flux is about 1368 W/m<m>^2</m> at Earth’s orbit (incoming flux at top of atmosphere). Because the Earth is rotating, this energy is spread over the entire surface area of the Earth facing the Sun at any given time. So, we have (area of disk)/(area of sphere) = 1/4 of this value incident, on average, at the top of the Earth’s atmosphere: 342 W/m<m>^2</m>.
+			</p>		
+			
+			<p>
+				The radiation transfers are via <em>shortwave</em> (visible) or <em>longwave</em> (infrared) radiation. Why these two? Because of their temperatures, the Sun is emitting in the visible and Earth materials are emitting in the infrared. As we will see in the next section, this is the basis for the greenhouse effect.
+			</p>
+
+			<p>
+				<term>Energy Budget Diagram</term>
+			</p>
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/energy"/>
+			</p>
+
+			<p>
+				All fluxes eventually reach equilibrium - if an imbalance, then temperature will change in response (to restore equilibrium):
+			</p>
+
+			<p><ul>
+				<li>
+				incoming energy = outgoing energy, <m>\Delta T=0</m>
+				</li>
+
+				<li>
+				incoming energy &gt; outgoing energy, <m>\Delta T&gt;0</m>
+				</li>
+
+				<li>
+				incoming energy &lt; outgoing energy, <m>\Delta T&lt;0</m>
+				</li>
+
+			</ul></p>
+
+			<p>
+				We see this even during the course of a day, as the temperature changes in response to incoming and outgoing radiation. For example, temperatures  cool at night because solar energy is no longer being absorbed at the surface while the Earth's surface continues to emit radiation to space (in the infrared). So at night, the outgoing energy exceeds the incoming energy, leading to cooling.
+			</p>
+			
+			</section>
+	
+	
+		<section xml:id="the-greenhouse-effect">
+			<title>The greenhouse effect</title>
+
+			<p>
+				As with the radiative budget, we also need to think about what passage through the atmosphere does to the incoming and outgoing radiation, as different molecules in the atmosphere absorb different wavelengths of light.
+			</p>
+
+			<p>
+			<ul>
+				<li>The atmosphere is mostly transparent to visible wavelengths. By time sunlight reaches the surface, most ultraviolet and much infrared light has been absorbed.</li>
+				<li> This incoming <em>visible</em> light is absorbed by the surface, leading to heating of the surface.</li>
+				<li> As the surface heats, it emits more radiation at <em>infrared</em> wavelengths.</li>
+				<li> This infrared (longwave) radiation from the surface is emitted upward into the atmosphere. However, the atmosphere is <em>not</em> transparent to infrared light: molecules such as H<m>_2</m>O and CO<m>_2</m> absorb at these wavelengths. </li>	
+				<li> This absorption leads to increased heating and re-radiation of energy back toward the surface.	</li>		
+				</ul>
+
+			</p>
+			
+
+			<p>
+				This <em>selective absorption</em> leads to the <term>greenhouse effect</term>: the surface absorbs shortwave radiation but emits at longwave (infrared) wavelengths which are absorbed by "greenhouse" gases in the overlying atmosphere. The surface temperature is thus higher than would be present without an atmosphere. In fact, without this warming effect, the equilibrium surface temperature of the Earth would be closer to 255 K (-18 C), below the freezing point of water. The greenhouse effect thus appears to be necessary for life to exist (as we know it) on planet Earth.
+			</p>
+			
+			<p> This behavior also provides the physical basis for our understanding anthropogenic climate change and global warming. After H<m>_2</m>O vapor, the most important greenhouse gas is CO<m>_2</m>. Increased CO<m>_2</m> concentrations from human activities have thus influenced the energy budget of incoming and outgoing solar radiation in the Earth's atmosphere.</p>
+
+		</section>	
+
+
+</chapter>

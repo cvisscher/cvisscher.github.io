@@ -1,0 +1,242 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--********************************************************************
+Copyright 2015 Robert A. Beezer
+
+This file is part of MathBook XML.
+
+MathBook XML is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 or version 3 of the
+License (at your option).
+
+MathBook XML is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
+*********************************************************************-->
+<!-- This file was originally part of the book     -->
+<!-- (as copied on 2015/07/12)                     -->
+<!--                                               -->
+<!--   Abstract Algebra: Theory and Applications   -->
+<!--                                               -->
+<!-- Copyright (C) 1997-2014  Thomas W. Judson     -->
+
+<chapter xml:id="severe_weather" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<!-- % TWJ, 2010/03/31 -->
+<!-- % Chapters now begin with Chapter 1 -->
+
+<title>Severe weather</title>
+
+<section xml:id="thunderstorms">
+<title>Thunderstorm development</title>
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/ingredient"/></p>
+<ul>
+<li>a mechanism is necessary for <em>lifting</em>; this can often take place along a cold front, especially if advancing into warm, moist (mT) air</li>
+<li><p>thunderstorm development is tied closely to the <em>stability</em> of the atmosphere</p>
+<ul>
+<li><term>stability index</term>: take a parcel and lift it adiabatically (DALR) to saturation, then lift saturated parcel (SALR) to 500-mbar level</li>
+<li>compare parcel temperature to environmental temperature</li>
+<li>Lifted Index = T(env) - T(parcel)</li>
+<li>Lifted Index values below zero are <em>unstable</em> (the parcel is warmer than the environment): that is, the parcel will be buoyant relative to its surroundings</li>
+</ul></li>
+</ul>
+
+<p><term>Development of single-cell (local) thunderstorm (or “air-mass” thunderstorm)</term></p>
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/life"/></p>
+
+<ul>
+<li>occurs by thermal convection, orographic lifting, or surface convergence</li>
+<li>developing stage - mature stage - dissipating stage</li>
+</ul>
+<p><term>development stage</term></p>
+<ul>
+<li>lifting to LCL and cumulus-type cloud formation that expands vertically and horizontally</li>
+<li>entrainment of surrounding dry air; evaporation cools the air within the cloud</li>
+<li>moist air flowing upward begins producing an updraft</li>
+<li>droplet formation by collision and coalescence</li>
+</ul>
+<p><term>mature stage</term></p>
+<ul>
+<li>precipitation begins to fall from the cloud</li>
+<li>rain, lightning, possibly small hail</li>
+<li>rain helps produce a cool downdraft</li>
+</ul>
+<p><term>dissipating stage</term></p>
+<ul>
+<li>main factor: updraft weakens and collapses (downdraft begins to dominate and cuts of upward supply of moisture)</li>
+<li>moisture content decreases and supply of latent heat diminished</li>
+<li>precipitation weakens and cell dissipates</li>
+</ul>
+
+</section>
+
+<section xml:id="thunderstorm_types">
+<title>Types of thunderstorms</title>
+
+<indroduction>
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/tstrmtypes"/></p>
+</indroduction>
+
+<subsection xml:id="ss_multicell">
+<title>Multi-cell thunderstorms</title>
+<ul>
+<li>composed of several individual single-cell storms at different stages of development (cumulus, mature, dissipating)</li>
+<li>moderate wind shear tilts storm, preventing quenching from rainfall into updraft</li>
+<li>gust fronts may produce additional lifting along the surface and trigger the formation of new cells (the gust front can produce phenomena such as shelf clouds)</li>
+<li>multicell thunderstorms may grow or join to produce <em>mesoscale convective systems</em></li>
+</ul>
+
+</subsection>
+
+<subsection xml:id="ss_mesoscale">
+<title>Mesoscale convective systems</title>
+<p><term>Squall Line</term></p>
+<ul>
+<li>thunderstorms arranged in a line or band</li>
+<li>along boundary of unstable air, often ahead of cold front</li>
+<li>Have life spans of 6 to 12 hours or more</li>
+<li>Extend over several states simultaneously</li>
+<li>A shelf cloud is often observed above the gust front</li>
+<li>Divergence aloft and a broad, low-level inflow of moist air favor development of squall lines</li>
+</ul>
+
+<p><term>Mesoscale Convective Complex</term></p>
+<ul>
+<li>An MCC is a complex of individual storms that covers a large area in an infrared satellite image and lives more than 6 hours</li>
+<li>may form under ridge of high pressure if unstable air conditions at the surface</li>
+<li>Often form in late afternoon and evening</li>
+<li>In satellite images give the appearance of a large circular storm with cold cloud-top temperatures</li>
+<li>Often form underneath a ridge of high pressure; because upper-level divergence can occur in a ridge</li>
+<li>Do not require as much vertical shear as squall lines</li>
+<li>Can be maintained by the low-level jet</li>
+</ul>
+
+</subsection>
+
+
+<subsection xml:id="ss_supercell">
+<title>Supercell thunderstorms</title>
+
+<p><em>Conditions that favor violent thunderstorms…</em></p>
+<ul>
+<li>high vertical wind shear</li>
+<li>low level (900 mbar) jet of mT air (sometimes called the nocturnal jet)</li>
+<li>capping inversion caused by movement of cT air at around 700 mbar level; increases LI at the surface</li>
+<li>updrafts tilt this shearing and can develop into a supercell</li>
+</ul>
+<p><em>Supercell Thunderstorms</em></p>
+<ul>
+<li>The supercell thunderstorm is a large single-cell storm, sometimes 32 km or more across, that almost always produces dangerous weather</li>
+<li>Strong wind gusts, large hail, dangerous lightning and tornadoes</li>
+<li>Require a very unstable atmosphere</li>
+<li>Require strong vertical wind shear (in direction and speed)</li>
+<li>Vertical wind shear causes supercell thunderstorms to rotate around a vertical axis</li>
+<li>strong westerly flow aloft and southeasterly surface winds; vortex tube can be carried vertical by a strong updraft</li>
+<li><em>updraft and downdrafts do not interfere with each other: storm may survive for several hours</em></li>
+</ul>
+<p><em>Supercell Structure</em></p>
+<ul>
+<li><em>mesocyclone</em>: spinning updraft (5 to 20 km across); downdrafts caused by heavy precipitation</li>
+<li>Like a miniature extratropical cyclone, 5 to 20 km across; 2-5 mbar pressure drop</li>
+<li>Narrows and rotates more quickly when it stretched, but too large and too slow in rotation to be a tornado</li>
+</ul>
+<p><em>Downburst/Microburst</em></p>
+<ul>
+<li>rain evaporates below cloud, leading to rapid cooling; cold, heavy air plunges to surface</li>
+<li>RFD (rear flank downdraft) is cool and relatively dry</li>
+</ul>
+
+
+</subsection>
+
+</section>
+
+<section xml:id="tornados">
+<title>Tornados</title>
+
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/tornado"/></p>
+
+<p>Most tornados form underneath supercell thunderstorms (most supercells do not form tornadoes, but most tornadoes form from supercells)</p>
+<ul>
+<li>The cloud base underneath the updraft on the rear side of the thunderstorm may lower, forming a rotating wall cloud</li>
+<li>A rapidly rotating column of air much smaller than the mesocyclone may protrude beneath the wall cloud</li>
+<li>200-250 mbar pressure drop</li>
+<li>As water vapor condenses in the air rushing up into this column, a funnel cloud may form and reach the ground, becoming a tornado
+<li>air rushes up into low pressure core of mesocylone expansion, cooling, and cloud formation descending air in core (may reach ground)</li>
+</li>
+</ul>
+<p><em>formation &amp; organization</em></p>
+<ul>
+<li>descending air in rear-flank downdraft wraps around mesocyclone</li>
+<li>rain/hail in RFD can produce hook echo</li>
+<li>becomes focused on surface area of lower pressure</li>
+<li>formation of funnel cloud and debris: funnel is rapid condensation of water due to adiabatic cooling</li>
+</ul>
+<p><em>maturity</em></p>
+<ul>
+<li>rapid inflow of warm, moist air into vortex</li>
+<li>peak strength and size (usually 100-200 meters in size; but up to ~1 mile in diameter)</li>
+<li>RFD begins wrapping around vortex</li>
+</ul>
+<p><em>dissipation</em></p>
+<ul>
+<li>RFD complete wraps around tornado</li>
+<li>intensity decreases, tornado tilts with height</li>
+<li>drawn into thin, rope-like structure</li>
+</ul>
+<p><em>Radar Signatures</em></p>
+<ul>
+<li>hook echo</li>
+<li>TDS (tornado debris signature)</li>
+<li>Doppler rotation —&gt; vortex signature</li>
+<li>these advances are creating increasing lead times for advanced warning</li>
+</ul>
+<p><em>Tornado Strength</em></p>
+<ul>
+<li><p>Wind estimation based on observations of tornado damage</p></li>
+<li><p>Enhanced Fujita (EF) scale ranges from 0 to 5, with 5 the most damage</p>
+<ul>
+<li>The scale uses 28 damage indicators, like schools, barns, and vegetation; the damage to each helps place the tornado on the scale</li>
+<li>higher EF number, the more severe the tornado’s wind and damage</li>
+</ul></li>
+<li><p>Some of the most severe tornadoes are multiple vortex tornadoes</p></li>
+</ul>
+
+</section>
+
+
+<section xml:id="tstorm_hazards">
+<title>Other Thunderstorm Hazards</title>
+
+<subsection xml:id="hail">
+<title>Hail</title>
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/hail"/></p>
+<p>Hail Formation</p>
+<ul>
+<li>ice particles that grow by accretion of supercooled water</li>
+<li>requires strong updrafts</li>
+<li>dry growth: hailstone remains below freezing (milky)</li>
+<li>wet growth: hailstone collects warmer water</li>
+</ul>
+
+</subsection>
+</section>
+
+<section xml:id="radar">
+<title>Radar and forecasting</title>
+
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/doppler_intro"/></p>
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/ahead"/></p>
+
+
+
+
+</section>
+
+
+</chapter>

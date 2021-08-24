@@ -1,0 +1,143 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--********************************************************************
+Copyright 2015 Robert A. Beezer
+
+This file is part of MathBook XML.
+
+MathBook XML is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 or version 3 of the
+License (at your option).
+
+MathBook XML is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
+*********************************************************************-->
+<!-- This file was originally part of the book     -->
+<!-- (as copied on 2015/07/12)                     -->
+<!--                                               -->
+<!--   Abstract Algebra: Theory and Applications   -->
+<!--                                               -->
+<!-- Copyright (C) 1997-2014  Thomas W. Judson     -->
+
+<chapter xml:id="pressure_wind" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<!-- % TWJ, 2010/03/31 -->
+<!-- % Chapters now begin with Chapter 1 -->
+
+<title>Atmospheric forces, pressure, and wind</title>
+
+<section xml:id="pressure_intro">
+<title>Introduction</title>
+
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/wind"/></p>
+
+<p><term>Wind</term> is the horizontal movement of air, characterized by both a <em>direction</em> and a <em>magnitude</em>. Note that wind is labeled by the direction from which it is traveling (e.g. a northwest wind is coming <em>from</em> the northwest).</p>
+<p>In meteorology, measurements of wind can be expressed using <term>windpoles</term>, which show both the direction and the magnitude of the wind (in knots or nautical miles per hour); 1 knot = 6076 ft or 1.15 miles or 1/60th a degree of latitude</p>
+
+<p>There are a number of key forces that play a role in the generation of atmospheric winds. We will explore each of the following in turn:</p>
+<ul>
+<li>Pressure Gradient Force</li>
+<li>Gravitational Force</li>
+<li>Coriolis Force</li>
+<li>Centrifugal Force</li>
+<li>Friction</li>
+</ul>
+
+</section>
+
+<section xml:id="pressure_gradient_force">
+<title>Pressure gradient force</title>
+<p>The <term>pressure gradient</term> is a change in pressure over a distance; the pressure gradient force over some distance <m>n</m> is thus</p>
+<me>PGF = \frac{\Delta P}{\Delta n}</me>
+<p>The force always points from areas of higher pressure to areas of lower pressure. The steeper the pressure gradient, the stronger the PGF and the stronger the winds.</p>
+<p>Mapping variations in pressure can thus be used to indicate the PGF. There are two main ways to show this:</p>
+<ul>
+<li>surface pressure map: shows the atmospheric pressure adjusted to sea level (MSLP). Isobar contours can be drawn to indicate pressure values.</li>
+<li>isobaric chart: shows the altitude of a given pressure surface. For example, how high is the "500-mbar" level above the surface.</li>
+</ul>
+<p>We can again consider how pressure reflects the weight of the air above: areas of high pressure have higher isobaric altitudes than areas of low pressure; this will influence air movement and subsequent weather.</p>
+
+				<question>
+If PGF always points from high pressure to low pressure, and pressure decreases with altitude, <em>why doesn't the atmosphere just fly away?</em> 
+<answer> The Earth's gravity prevents this from happening; the balance between gravity and the pressure gradient force is otherwise known as the <em>hydrostatic balance</em> (see <xref ref="atmospheric-structure"/>) which governs how quickly the pressure changes with altitude.
+</answer>
+</question>
+
+</section>
+
+<section xml:id="coriolis_force">
+<title>Coriolis force</title>
+<p>The <term>Coriolis force</term> is an acceleration produced by the Earth's rotation:</p>
+<ul>
+<li>produces a right-hand turn in Northern Hemisphere</li>
+<li>produces a left-hand turn in Southern Hemisphere</li>
+</ul>
+<p>This is also the source of how we describe cyclonic rotation (counter-clockwise around a low) and anticyclonic rotation (clockwise around a high)</p>
+<me>CF = 2fV</me>
+<p>where <m>V</m> is the wind speed and <m>f=2\Omega sin \phi</m>; the Coriolis force increases with wind speed and increases with increasing latitude.</p>
+</section>
+
+
+<section xml:id="other_forces">
+<title>Other forces</title>
+<p>The <term>centrifugal force</term> is caused by centripetal acceleration (toward the center of the rotation); for wind the centrifugal force points outward from the center of rotation (that is, it is the tendency of wind to want to travel in a straight line)</p>
+<me>CENT=\frac{V^2}{R}</me>
+<p>where <m>R</m> is positive for cyclonic flow and negative for anticyclonic flow: works against PGF around lows and with PGF around highs; this force also gets very strong for small turning radii.</p>
+
+<p><term>Friction</term> with the surface will decelerate the wind; this force thus always moves in the direction opposite the wind. It is described by</p>
+<me>FF=-kV</me>
+<p>where <m>V</m> is the wind speed and <m>k</m> describes the roughness of the surface. Trees and tall buildings have much more "roughness" whereas sand/snow/water have very low roughness.</p>
+
+</section>
+
+<section xml:id="combining_forces">
+<title>Combining the forces</title>
+
+<p><term>Buys-Ballots Law</term> is an interesting observation that allows us to identify atmospheric pressure patterns:</p>
+
+<ul>
+<li>low pressure lies to the left of the wind (if wind is at your back, the low pressure is to the left)</li>
+<li>high pressure lies to the right of the wind (if wind is at your back, the high pressure is to the right)</li>
+</ul>
+
+<p>The forces will combine to yield the wind behavior. This will tend to produce a <term>geostrophic wind</term>: in which there is a geostrophic balance between the Coriolis force and the PGF (<m>PGF+CF=0</m>).</p>
+<p>This will cause the wind to tend to move parallel with the isobars. Again, we find that a tighter pressure gradient will yield a stronger geostrophic wind.</p>
+<p>If all of the effects are combined, we will see geostrophic balance. Often, however, we will see subgeostrophic flow around low pressure systems and supergeostrophic flow around high pressure systems. This will accomplish gradual movement toward the low pressure center and away from the high pressure center.</p>
+
+
+<table xml:id="tab_wind_forces">
+  <title>Summary of force balances </title>
+  <tabular halign="left">
+    <row bottom="minor" >
+      <cell><term>balance</term></cell>
+      <cell><term>forces</term></cell>
+      <cell><term>expression</term></cell>         
+    </row>
+    <row>
+      <cell>hydrostatic</cell>
+      <cell>vertical PGF, gravity</cell>
+      <cell><m>dP/dz=-\rho g</m></cell>  
+    </row>
+    <row>
+      <cell>geostrophic</cell>
+      <cell>PGF, Coriolis</cell>
+      <cell><m>dP/dn = -2\Omega \sin \phi v</m></cell>  
+    </row>
+    <row bottom="minor">
+      <cell>gradient</cell>
+      <cell>PGF, Coriolis, centrifugal</cell>
+      <cell><m>\frac{v^2}{r}+2\Omega \sin \phi v+\frac{dP}{dn}=0</m></cell>  
+    </row>
+  </tabular>
+</table>
+
+</section>
+
+
+</chapter>

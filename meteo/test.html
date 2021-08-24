@@ -1,0 +1,1561 @@
+<!DOCTYPE html>
+<html xmlns="http://www.w3.org/1999/xhtml" lang="" xml:lang="">
+<head>
+  <meta charset="utf-8" />
+  <meta name="generator" content="pandoc" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0, user-scalable=yes" />
+  <title>test</title>
+  <style>
+    html {
+      line-height: 1.5;
+      font-family: Georgia, serif;
+      font-size: 20px;
+      color: #1a1a1a;
+      background-color: #fdfdfd;
+    }
+    body {
+      margin: 0 auto;
+      max-width: 36em;
+      padding-left: 50px;
+      padding-right: 50px;
+      padding-top: 50px;
+      padding-bottom: 50px;
+      hyphens: auto;
+      word-wrap: break-word;
+      text-rendering: optimizeLegibility;
+      font-kerning: normal;
+    }
+    @media (max-width: 600px) {
+      body {
+        font-size: 0.9em;
+        padding: 1em;
+      }
+    }
+    @media print {
+      body {
+        background-color: transparent;
+        color: black;
+        font-size: 12pt;
+      }
+      p, h2, h3 {
+        orphans: 3;
+        widows: 3;
+      }
+      h2, h3, h4 {
+        page-break-after: avoid;
+      }
+    }
+    p {
+      margin: 1em 0;
+    }
+    a {
+      color: #1a1a1a;
+    }
+    a:visited {
+      color: #1a1a1a;
+    }
+    img {
+      max-width: 100%;
+    }
+    h1, h2, h3, h4, h5, h6 {
+      margin-top: 1.4em;
+    }
+    h5, h6 {
+      font-size: 1em;
+      font-style: italic;
+    }
+    h6 {
+      font-weight: normal;
+    }
+    ol, ul {
+      padding-left: 1.7em;
+      margin-top: 1em;
+    }
+    li > ol, li > ul {
+      margin-top: 0;
+    }
+    blockquote {
+      margin: 1em 0 1em 1.7em;
+      padding-left: 1em;
+      border-left: 2px solid #e6e6e6;
+      color: #606060;
+    }
+    code {
+      font-family: Menlo, Monaco, 'Lucida Console', Consolas, monospace;
+      font-size: 85%;
+      margin: 0;
+    }
+    pre {
+      margin: 1em 0;
+      overflow: auto;
+    }
+    pre code {
+      padding: 0;
+      overflow: visible;
+    }
+    .sourceCode {
+     background-color: transparent;
+     overflow: visible;
+    }
+    hr {
+      background-color: #1a1a1a;
+      border: none;
+      height: 1px;
+      margin: 1em 0;
+    }
+    table {
+      margin: 1em 0;
+      border-collapse: collapse;
+      width: 100%;
+      overflow-x: auto;
+      display: block;
+      font-variant-numeric: lining-nums tabular-nums;
+    }
+    table caption {
+      margin-bottom: 0.75em;
+    }
+    tbody {
+      margin-top: 0.5em;
+      border-top: 1px solid #1a1a1a;
+      border-bottom: 1px solid #1a1a1a;
+    }
+    th {
+      border-top: 1px solid #1a1a1a;
+      padding: 0.25em 0.5em 0.25em 0.5em;
+    }
+    td {
+      padding: 0.125em 0.5em 0.25em 0.5em;
+    }
+    header {
+      margin-bottom: 4em;
+      text-align: center;
+    }
+    #TOC li {
+      list-style: none;
+    }
+    #TOC a:not(:hover) {
+      text-decoration: none;
+    }
+    code{white-space: pre-wrap;}
+    span.smallcaps{font-variant: small-caps;}
+    span.underline{text-decoration: underline;}
+    div.column{display: inline-block; vertical-align: top; width: 50%;}
+    div.hanging-indent{margin-left: 1.5em; text-indent: -1.5em;}
+    ul.task-list{list-style: none;}
+  </style>
+  <script src="https://cdn.jsdelivr.net/npm/mathjax@3/es5/tex-chtml-full.js" type="text/javascript"></script>
+  <!--[if lt IE 9]>
+    <script src="//cdnjs.cloudflare.com/ajax/libs/html5shiv/3.7.3/html5shiv-printshiv.min.js"></script>
+  <![endif]-->
+</head>
+<body>
+<h1 id="meteorology-and-climate-change">Meteorology and Climate Change</h1>
+<h2 id="introduction-to-meteorology">Introduction to Meteorology</h2>
+<h3 id="the-science-of-meteorology">The science of meteorology</h3>
+<p>Meteorology is the study of the <em>weather</em> and <em>climate</em> of the Earth’s atmosphere. The <em>atmosphere</em> is a relative thin layer (about 1% of the Earth’s radius) of air that blankets the surface of our planet. Air is a mixture of numerous gases, consisting mostly of molecular nitrogen (N<sub>2</sub>) and oxygen (O<sub>2</sub>). Note the distinction between weather and climate:</p>
+<ul>
+<li><em>Weather</em> is the condition of the atmosphere at a particular time and place. The atmospheric condition includes temperature, humidity, dew point, pressure, wind speed, cloud behavior, and precipitation.</li>
+<li><em>Climate</em> is the condition of the atmosphere over a longer time span of many years</li>
+</ul>
+<h3 id="topics-in-meteorology">Topics in Meteorology</h3>
+<p>There are number of key concepts that we will explore as we consider the behavior of the Earth’s atmosphere. This includes</p>
+<ul>
+<li>The fundamental concepts of temperature and pressure and the structure and chemical composition of the Earth’s atmosphere,</li>
+<li>The energy cycle of the Earth’s atmosphere and how it drives weather and climate patterns; energy transfer, differential solar heating at high and low latitudes, seasonal effects, and the greenhouse effect,</li>
+<li>The behavior of water in the atmosphere and its central role in shaping weather conditions, relative humidity and dew point, cloud and fog formation, and precipitation,</li>
+<li>The forces that drive atmospheric winds, from local storm system to global circulation patterns</li>
+<li>Systems that drive weather changes in the mid-latitudes, including air masses, fronts and mid-latitude cyclones,</li>
+<li>Weather forecasting and modeling, and the tools used to characterize atmospheric conditions,</li>
+<li>Severe weather systems, including thunderstorms, tornadoes, lightning, and hail,</li>
+<li>Tropical weather systems, including hurricanes and typhoons, and atmospheric-ocean interactions, and</li>
+<li>The climate of the Earth, from the distant past to the present day, and anthropogenic effects on climate.</li>
+</ul>
+<h3 id="the-atmosphere-in-context">The atmosphere in context</h3>
+<p>It is important to recognize that the atmosphere is not isolated from other Earth systems, and we can consider interactions between the and <em>geosphere</em>, <em>hydrosphere</em>, <em>atmosphere</em>, <em>biosphere</em>.</p>
+<p>The <strong>geosphere</strong> is the solid rocky mass of the Earth and provides the lower boundary to the atmosphere and oceans (which cover 71% of the area of the Earth). As a whole, planet Earth has a average radius of 6371 km and a mass of 6x10<sup>24</sup> kg. This provides clues to its bulk composition: an iron core surrounded by a large silicate (rocky) mantle.</p>
+<p>The <strong>hydrosphere</strong> consists of the water inventory of the Earth, making up about 0.03% of the Earth’s mass. The water of the Earth is distributed into 97% oceans and 3% freshwater; only about 0.001% of the Earth’s water is present in the atmosphere. Of the freshwater inventory, less than 1% is found in surface lakes and rivers; most freshwater is present in glaciers (70%) or groundwater (30%).</p>
+<p>The <strong>atmosphere</strong> is a thin layer of air (a mixture of different gases) above the Earth’s surface. The mass of atmosphere is about one-millionth of the total mass of the Earth. The atmosphere is also relatively thin, and over 99% of the atmosphere’s mass is found below an altitude of 30 km (19 miles)</p>
+<p>The <strong>biosphere</strong> consists of all plant and animal life on the planet. The biosphere is closely connected to the atmosphere through the processes of photosynthesis and respiration.</p>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">System</th>
+<th style="text-align: left;">Mass (kg)</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Geosphere</td>
+<td style="text-align: left;">6.0x10<sup>24</sup></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Hydrosphere</td>
+<td style="text-align: left;">1.8x10<sup>23</sup></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Atmosphere</td>
+<td style="text-align: left;">5x10<sup>15</sup></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Biosphere</td>
+<td style="text-align: left;">1x10^12</td>
+</tr>
+</tbody>
+</table>
+<p>Note that we can weigh the atmosphere very accurately from measurements of <em>surface pressure</em>: the pressure generated at the surface by the weight of overlying air. An expression we can use is:</p>
+<p><span class="math inline">\(P=\frac{F}{A}=\frac{mg}{A}\)</span></p>
+<p>where P = 1 atm = 101325 Pa, A=5.1x10^14 m^2 and g=9.8 m/s^2</p>
+<p>solving for m = 5x10^18 kg (about 1 millionth of Earth mass)</p>
+<h3 id="composition-of-the-atmosphere">Composition of the atmosphere</h3>
+<p>Although hundreds of species are present in the Earth’s atmosphere, it mostly consists of nitrogen and oxygen, along with argon, water, and carbon dioxide.</p>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">Component</th>
+<th style="text-align: left;">Formula</th>
+<th style="text-align: left;">Abundance</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">Nitrogen</td>
+<td style="text-align: left;">N<sub>2</sub></td>
+<td style="text-align: left;">78.1%</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Oxygen</td>
+<td style="text-align: left;">O<sub>2</sub></td>
+<td style="text-align: left;">20.9%</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Argon</td>
+<td style="text-align: left;">Ar</td>
+<td style="text-align: left;">0.9%</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Water</td>
+<td style="text-align: left;">H<sub>2</sub>O</td>
+<td style="text-align: left;">up to 4%</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Carbon Dioxide</td>
+<td style="text-align: left;">CO<sub>2</sub></td>
+<td style="text-align: left;">400 ppm</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Methane</td>
+<td style="text-align: left;">CH<sub>4</sub></td>
+<td style="text-align: left;">2 ppm</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Nitrous Oxide</td>
+<td style="text-align: left;">N<sub>2</sub>O</td>
+<td style="text-align: left;">300 ppb</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Ozone</td>
+<td style="text-align: left;">O<sub>3</sub></td>
+<td style="text-align: left;">10-100 ppb</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">Halocarbons</td>
+<td style="text-align: left;">CFCs, etc</td>
+<td style="text-align: left;">2 ppb total</td>
+</tr>
+</tbody>
+</table>
+<p>Aerosols - suspended particles in the atmosphere - also play an important role for assessing air quality and act as <em>condensation nuclei</em> in the formation of clouds.</p>
+<h3 id="evolution-of-the-atmosphere">Evolution of the atmosphere</h3>
+<p>Theres is evidence that the atmosphere was <em>not</em> always this composition, but has evolved over geological timescales. Most significant is the appearance of oxygen as a major atmospheric component.</p>
+<ul>
+<li>primordial atmosphere: hydrogen and hydrides readily lost to atmospheric escape</li>
+<li>initially N<sub>2</sub>, CO<sub>2</sub>, and H<sub>2</sub>O via volcanic outgassing</li>
+<li>Great Oxygenation Event - advent of photosynthetic life</li>
+<li>throughout this time, removal of CO<sub>2</sub> into carbonate sediments and rocks</li>
+<li>the presence of oxygen is unusual, and is indicative of photosynthetic life:</li>
+</ul>
+<p><span class="math inline">\(6\textrm{CO}_2+6\textrm{H}_2\textrm{O}\xrightarrow{h\nu} \textrm{C}_{6}\textrm{H}_{12}\textrm{O}_6+6\textrm{O}_2\)</span></p>
+<p><span class="math inline">\(\textrm{C}_{6}\textrm{H}_{12}\textrm{O}_6+6\textrm{O}_2\longrightarrow 6\textrm{CO}_2+6\textrm{H}_2\textrm{O}\)</span></p>
+<p>These reactions can be used to summarize the main interaction between the atmosphere and the biosphere.</p>
+<h2 id="the-structure-of-the-atmosphere">The structure of the atmosphere</h2>
+<h3 id="atmospheric-pressure-and-density"><strong>Atmospheric Pressure and Density</strong></h3>
+<p>The atmosphere is bound to the Earth by <em>gravity</em>. As a result, atmospheric density and pressure are highest at surface and decreases (exponentially) with increasing altitude. The rate of change depends upon the force of gravity, temperature, the molecular weight of the gas(es).</p>
+<p>Planetary atmospheres are in hydrostatic equilibrium. This means that gravity and pressure are in balance (in other words, the atmosphere does not escape into space nor does it collapse onto the surface of the planet).</p>
+<p>Assuming hydrostatic equilibrium, we can determine the pressure at some altitude <span class="math inline">\(z\)</span> by the relationship:</p>
+<p><span class="math inline">\(P(z)=P_o e^{(-z/H)}\)</span></p>
+<p>where <span class="math inline">\(P_o\)</span> is the initial pressure, <span class="math inline">\(z\)</span> is the altitude, and <span class="math inline">\(H\)</span> is the <strong>scale height</strong> defined as</p>
+<p><span class="math inline">\(H={RT}/{\mu g}\)</span></p>
+<p>where <span class="math inline">\(R=8.314\)</span> J/K-mol, <span class="math inline">\(g=9.8\)</span> m/s^2, <span class="math inline">\(T=273\)</span>, and <span class="math inline">\(\mu=28.9\)</span>. This yields a scale height of about 8 km in the troposphere. The scale height is a useful term in atmospheric science because it tells us how rapidly the pressure decreases with changes in altitude.</p>
+<p>This pressure-altitude relation can also be used to estimate the fraction of the atmosphere above/below a certain level. For example, Denver has an elevation of 5280 ft above sea level (1.609 km), so we can estimate the average pressure at this elevation:</p>
+<p><span class="math inline">\(P(1.609 \textrm{ km})=(1 \textrm{ atm})(e^{(-1.609\textrm{ km}/8 \textrm{ km})}=0.82\)</span> atm</p>
+<p>How high would we have to go for 50% of the atmosphere to be below us? About 5.5 km or 3.4 miles.</p>
+<p>What is the estimated pressure on the summit of Mt. Everest? (8.8 km) About 0.3 atm.</p>
+<p>Note that different units are used for pressure.</p>
+<p>1 atm = 101325 Pa = 1.01325 bar = 760 mm Hg = 29.92 inches Hg = 10.3 m water = 33.9 feet water. This depends on what instrument - known as a <strong>barometer</strong> - is used to measure the pressure.</p>
+<p>Pressure or temperature can be used to divide the atmosphere into layers.</p>
+<p>Near the surface, the temperature also decreases with increasing altitude in the atmosphere. The rate of change is known as the <strong>lapse rate</strong>, defined as:</p>
+<p><span class="math inline">\(\Gamma=-\frac{\Delta T}{\Delta z}\)</span></p>
+<p>A typical lapse rate is 6.5 K/km (3 F/1000 ft) but depends upon the presence of water (and latent heat released from condensation); a typical dry lapse rate is about 10 K/km (5 F/1000 ft).</p>
+<p><strong><em>Troposphere</em></strong>: closest to the earth, where the temperature generally decreases with altitude, from 288 K at surface to 217 K at tropopause</p>
+<ul>
+<li>80% of the mass of the atmosphere</li>
+<li>most “weather” occurs in troposphere</li>
+<li>top of the troposphere is the <em>tropopause</em>, a temperature <em>inversion</em></li>
+<li>tropopause serves as upper lid on most weather patterns</li>
+<li>typically 10 km in height, but varies and is generally higher in tropics (15-16 km) than at the poles (8-9 km)</li>
+</ul>
+<p>Why does temperature decrease with height?</p>
+<ul>
+<li>atmosphere is heated from the surface</li>
+<li>adiabatic cooling as air ascends</li>
+</ul>
+<p><strong><em>Stratosphere</em></strong>: where temperature increases with altitude</p>
+<ul>
+<li>ozone is absorbing solar energy, this absorption causes temperature increase</li>
+<li>lack of both mixing and turbulence - very stable with respect to vertical mixing because temperatures increase with altitude</li>
+<li>upper bound is stratopause</li>
+</ul>
+<p><strong><em>Mesosphere</em></strong>: where temperature decreases with altitude; the <em>mesopause</em> separates the <em>mesosphere</em> from the <strong><em>thermosphere</em></strong>, where temperature increases with altitude again; the tropopause to thermosphere is sometimes called the middle atmosphere, 100 km and above is upper atmosphere.</p>
+<p>At these upper layers, important distinction between <em>temperature</em> (average kinetic energy of gas particles) and <em>heat</em> (total thermal energy of the atmospheric gas)</p>
+<p>Above 100 km, cosmic radiation, solar X-rays and ultraviolet radiation increasingly affect the atmosphere, which cause ionization (and hence <em>ionosphere</em>)</p>
+<p>The atmosphere is a mixture of gases with constant proportions up to 80 km or more. The exceptions are ozone, which is concentrated in the lower stratosphere, and water vapor in the lower troposphere. The principal greenhouse gas is water vapor. Carbon dioxide, methane and other trace gases have increased since the Industrial Revolution, especially in the twentieth century due to the combustion of fossil fuels, industrial processes and other anthropogenic effects.</p>
+<p>Interlude: weather maps and weather phenomena</p>
+<ul>
+<li><em>watch</em>: conditions are favorable for weather hazard in your area</li>
+<li><em>warning</em>: a weather hazard is developing in your area</li>
+</ul>
+<p><strong>Energy, Heat, Work</strong> Chapter 2 (AK), Chapter 3 (BC)</p>
+<p><strong>energy</strong> is the capacity to do <strong>work</strong> (when a force acting on an object causes it to move), and can be further divided into <strong>kinetic</strong> and <strong>potential</strong> energy.</p>
+<p>Considering a parcel of air in the atmosphere, its <strong>temperature</strong> would describe the average kinetic energy of its atoms and molecules. Expressed in F, C, and K, where</p>
+<p><span class="math inline">\(^\circ\textrm{C}=\frac{5}{9}((^\circ\textrm{F})-32)\)</span><br />
+<span class="math inline">\(^\circ\textrm{F}=\frac{9}{5}(^\circ\textrm{C})+32\)</span><br />
+<span class="math inline">\(\textrm{K}=(^\circ\textrm{C})+273.15\)</span></p>
+<p><strong>Heat</strong> refers to the <em>transfer</em> of energy from warmer objects to colder objects and represents the total thermal energy of a system. It is distinct from temperature!</p>
+<p>The amount of heat depends upon (<span class="math inline">\(q=mC_s\Delta T\)</span>):</p>
+<ul>
+<li>the total amount of the the material in the system</li>
+<li>the thermal properties of the material</li>
+</ul>
+<p>In atmospheric systems, energy is transferred by</p>
+<ul>
+<li>radiation (emission and absorption of radiation)</li>
+<li>conduction (contact between substances)</li>
+<li>convection (vertical movement of air parcels)
+<ul>
+<li>advection (horizontal movement of air masses)</li>
+<li>latent heating (energy released by phase changes of water)
+<ul>
+<li>ice -&gt; liquid water -&gt; water vapor (absorbs heat)</li>
+<li>water vapor -&gt; liquid water -&gt; ice (releases heat)</li>
+</ul></li>
+</ul></li>
+</ul>
+<p>Cloud formation (for example) will <em>release</em> heat to the surrounding atmosphere. This slows the rate of cooling with altitude (i.e., the lapse rate decreases).</p>
+<p>The energy balance of the planet as a whole depends on radiation: how the Earth exchanges energy with space.</p>
+<p><strong>Radiation Laws</strong></p>
+<ul>
+<li>Every object with a temperature above 0 K emits radiation.</li>
+<li>Stefan-Boltzmann Law: objects with higher temperature emit more radiation per unit area (W/m^2), to the <em>fourth power</em> of temperature <span class="math inline">\(F=\sigma T^4\)</span></li>
+<li>Wien’s Law: objects with higher temperature emit radiation at shorter wavelenghts, <span class="math inline">\(\lambda=\frac{2898}{T(K)}\)</span></li>
+<li>So, for example, most objects with temperatures near that of the surface will primarily emit at infrared wavelengths</li>
+</ul>
+<p><strong>The Sun</strong> is the main source of energy for the weather and climate, and reaches the Earth via <strong>radiation</strong></p>
+<ul>
+<li>source of energy is fusion of H into He in interior</li>
+<li>outer layers have temperature of 5770 K (incandescent: so hot that it glows)</li>
+<li>total energy output is <span class="math inline">\(F=\sigma T^4\)</span> where <span class="math inline">\(T=5780\)</span> and the Stefan-Boltzmann constant <span class="math inline">\(\sigma=5.67\times10^{-8}\)</span> W m^-2 K^-4.
+<ul>
+<li>This yields a total energy output of <span class="math inline">\(6.3\times10^{8}\)</span> W per m^2 on the solar photosphere,</li>
+<li>the radius of the Sun is <span class="math inline">\(6.957\times10^{8}\)</span> m so the Sun has a surface area of <span class="math inline">\(6.08\times10^{18}\)</span> m^2.</li>
+<li>the total solar output (solar luminosity) is therefore <span class="math inline">\(3.82\times10^{26}\)</span> W.</li>
+</ul></li>
+<li>At the distance of the Earth’s orbit, the Sun’s radiation is spread out over an area <span class="math inline">\(A=4\pi r^2\)</span> where <span class="math inline">\(r=1.496\times10^{11}\)</span> m, giving <span class="math inline">\(A=2.81\times10^{23}\)</span> m^2.</li>
+<li>This yields an energy flux of about <strong>1360 W/m^2</strong>, a value sometimes referred to as the <strong>solar constant</strong>. <em>This is the incoming solar flux at the top of the Earth’s atmosphere - we will come back to this when we look at the energy budget of planet Earth.</em></li>
+</ul>
+<p><strong>Energy Budget of the Earth</strong></p>
+<p>Starting with 1368 W/m^2 at Earth’s orbit (incoming flux at top of atmosphere): averaged over the entire surface area of the Earth we have (area of disk)/(area of sphere) = 1/4 of this value incident, on average, at the top of the Earth’s atmosphere: 342 W/^2.</p>
+<p>The radiation transfers are via <em>shortwave</em> (visible) or <em>longwave</em> (infrared) radiation. Why these two? Because of their temperatures, the Sun is emitting in the visible and Earth materials are emitting in the infrared.</p>
+<p><strong><em>Energy Budget Diagram</em></strong></p>
+<p>All fluxes eventually reach equilibrium - if an imbalance, then temperature will change in response (to restore equilibrium):</p>
+<ul>
+<li>incoming energy = outgoing energy, <span class="math inline">\(\Delta T=0\)</span></li>
+<li>incoming energy &gt; outgoing energy, <span class="math inline">\(\Delta T&gt;0\)</span></li>
+<li>incoming energy &lt; outgoing energy, <span class="math inline">\(\Delta T&lt;0\)</span></li>
+</ul>
+<p>We see this even during the course of a day, as the temperature changes in response to incoming and outgoing radiation</p>
+<p><strong>Seasons</strong></p>
+<p>The difference in the energy budget as a function of latitude shows the importance of</p>
+<ol type="1">
+<li>the incidence angle for the Sun, and</li>
+<li>the length of a day</li>
+</ol>
+<p>The angle is important because higher solar altitudes mean greater intensity; at lower angles the sunlight is spread out over a larger area.</p>
+<p>Because of the tilt of the Earth’s axis, this changes throughout the year and gives rise to seasonal effects.</p>
+<ul>
+<li>vernal equinox: Sun above equator at noon (<span class="math inline">\(47^\circ\)</span> altitude at our latitude)</li>
+<li>summer solstice (Jun 21): Sun above Tropic of Cancer (<span class="math inline">\(23.5^\circ\)</span> N) at noon (<span class="math inline">\(70^\circ\)</span> altitude at our latitude)</li>
+<li>autumnal equinox (Sep 21): Sun above equator at noon (<span class="math inline">\(47^\circ\)</span> altitude at our latitude)</li>
+<li>winter solstice (Dec 21): Sun above Tropic of Capricorn (<span class="math inline">\(23.5^\circ\)</span> S) at noon (<span class="math inline">\(24^\circ\)</span> altitude at our latitude)</li>
+</ul>
+<p><strong>Radiative Properties of the Atmosphere</strong></p>
+<p>As with the radiative budget, we also need to think about what passage through the atmosphere does to the incoming and outgoing radiation, as different molecules in the atmosphere absorb different wavelengths of light.</p>
+<p>The atmosphere is mostly transparent to visible wavelengths. By time sunlight reaches the surface, most UV and much IR light has been absorbed.</p>
+<p>Selective absorption leads to the <strong>greenhouse effect</strong>: the surface absorbs shortwave radiation but emits at longwave (infrared) wavelengths which are absorbed by gases in the overlying atmosphere. The atmosphere thus re-radiates this energy in all directions including toward the surface.</p>
+<p><strong>Temperature Cycles</strong></p>
+<ul>
+<li><em>daily mean temperature:</em> average of maximum temperature and minimum temperature
+<ul>
+<li><span class="math inline">\(\frac{\textrm{max + min}}{2}\)</span></li>
+</ul></li>
+<li><em>monthly mean temperature:</em> average of daily mean temperatures for a month
+<ul>
+<li><span class="math inline">\(\frac{\textrm{sum of daily mean temps}}{\# \textrm{ of days in month}}\)</span></li>
+</ul></li>
+<li><em>annual average temperature:</em> sum of monthly mean temperatures divided by 12
+<ul>
+<li><span class="math inline">\(\frac{\textrm{sum of monthly mean temps}}{12}\)</span></li>
+</ul></li>
+</ul>
+<p>Effects on Temperature (both annually and daily):</p>
+<ul>
+<li>latitude (higher latitude -&gt; lower insolation -&gt; lower tempeatures)</li>
+<li>surface type (albedo and thermal properties)</li>
+<li>elevation and aspect (higher altitude -&gt; lower temperatures; aspect changes insolation)</li>
+<li>proximity to water (presence of bodies of water moderates temperature variations). Water has
+<ul>
+<li>higher specific heat</li>
+<li>absorption of heat via evaporation</li>
+<li>energy distributed over thicker layer than for land</li>
+</ul></li>
+<li>advection (prevailing wind patterns may bring cooler/warmer air)</li>
+<li>cloud cover (provides cooling in summer and moderates temperatures in the winter)</li>
+</ul>
+<p>We can also explore <em>interannual</em> variations in temperature. These allow us to establish climate normals. Climatological temperatures refer to average temperatures over a 30-year period. This is often calculated for 1951-1980 or 1981-2010.</p>
+<p>The difference between the temperature at a given time for a particular location and the climatological normal is the <em>temperature anomaly</em>.</p>
+<p>Derived indexes are used to provide useful information about how the weather feels or to plan and monitor crop growth.</p>
+<ul>
+<li><em>wind chill</em>: takes into consideration heat loss from the body due to cold temperature and wind.</li>
+<li><em>heat index</em>: takes into consideration how high humidity reduces the rate of evaporation (and therefore cooling) from the body</li>
+<li><em>growing degree days</em>: can be used to track plan maturation based upon daily temperatures; cooler temperatures require longer growth seasons</li>
+</ul>
+<p><strong>Water in the Atmosphere</strong></p>
+<ul>
+<li>variable 0-4% of atmospheric</li>
+<li>exists as all three phases</li>
+</ul>
+<p>Different ways of expressing water content</p>
+<ul>
+<li><em>mixing ratio (specific humidity):</em> mass of water relative to weight of other molecules in given volume of air (grams water vapor per kilogram dry air)</li>
+<li><em>absolute humidity</em>: mass of water per unit volume of air (grams of water vapor per cubic volume of air); regardless of temperature</li>
+<li><em>vapor pressure</em>: the pressure exerted by water vapor molecules in the air, expressed in units of pressure (mb or inches Hg)</li>
+<li><em>saturation vapor pressure</em>: vapor pressure exerted by water vapor in equilibrium with liquid water (pressure exerted at saturation); expressed in units of pressure (mb or inches Hg). At equilibrium saturation, the rate of evaporation equals the rate of condensation.</li>
+<li><em>relative humidity</em>: a measure of how close the water vapor pressure in the air is to the saturation vapor pressure at that temperature. Relative humidity = (actual vapor pressure)/(saturation vapor pressure)x100%</li>
+<li><em>dewpoint</em>: the temperature to which air must be cooled to become saturated. The dew point is a measure of the actual water vapor content of the air</li>
+</ul>
+<p>Coupling the ideal gas law with dew-point vapor pressure allows you to determine mixing ratio and absolute humidity:</p>
+<ul>
+<li>if temp is 81 F (36.13 mbar vapor pressure) and dewpoint is 70 F (25.04 mbar vapor pressure), <em>relative humidity</em> is <span class="math inline">\(\phi=\frac{25.04}{36.13}\times100=69\%\)</span></li>
+<li>this is about 2.5% of the atmospheric pressure, so H<sub>2</sub>O is about 2.5% the volume of the atmosphere. Using the ideal gas law for 81 F (300.4 K) this yields 1 mole of H<sub>2</sub>O vapor or 18 g/m^3 <em>mixing ratio</em>.</li>
+<li>1 m^3 of air at 300 K contains about 40 mole of gas and the average molecular weight of the atmosphere is <span class="math inline">\(\mu=29\)</span> g/mol, so 1 m^3 has about 1.176 kg of air, yielding 18 g/1.176 kg = 15.3 g/kg <em>absolute humidity</em>.</li>
+</ul>
+<p>The behavior of water with changing temperature is key to understanding cloud formation:</p>
+<ul>
+<li>as air cools, the relative humidity increases. If cooled sufficiently, the dewpoint is reached and <span class="math inline">\(\phi=100\%\)</span>, driving condensation</li>
+<li>can have condensation at lower humidity with the <em>solute effect</em>: where dissolved salt attracts water molecules, lowering the vapor pressure.</li>
+<li>the <em>curvature effect</em> makes it easier for water molecules to evaporate from a small droplet.</li>
+</ul>
+<p>Droplets form around particles via <em>nucleation</em>.</p>
+<ul>
+<li><em>homogeneous nucleation</em>: formed only by water molecules (need very low temperature and high humidities)</li>
+<li><em>heterogeneous nucleation</em>: particles &amp; aerosol serve as <em>condensation nuclei</em> for water droplets</li>
+<li><em>ice nuclei</em> are particles around which ice crystals form, which occurs with specific molecular orientation</li>
+</ul>
+<p>Note that <em>fog</em> can be thought of as a surface cloud, formed by condensation out of saturated atmosphere. There are different ways this can occur:</p>
+<ul>
+<li><em>radiation fog</em> forms following nights where significantly surface cooling has occurred, raising the relative humidity of the air to saturation (can occur w/inversion)</li>
+<li><em>advection fog</em> occurs when warm, humid air flows over a colder surface, causing the air to cool to saturation.</li>
+<li><em>evaporation or steam fog</em> occurs when warm water evaporates into the air</li>
+</ul>
+<p>But what about cloud formation? Generally need a mechanism for air to ascend. There are different ways this might occur:</p>
+<ul>
+<li>orographic lifting (upslope flow)</li>
+<li>frontal lifting</li>
+<li>thermal convection</li>
+<li>convergence</li>
+</ul>
+<p>The extent of lifting and the possibility of cloud formation depend upon the temperature and relative humidity of the rising air, and upon the environmental conditions of the atmosphere for that time and location.</p>
+<p><strong>Atmospheric Stability</strong></p>
+<p>Warm parcels of air will ascend through the atmosphere, but cool as they ascend. Whether they will continue to rise or subside depends upon the stability of the atmosphere.</p>
+<ul>
+<li>the <em>environmental lapse rate</em> (ELR) describes the actual atmospheric temperature change with altitude at a specific time and location</li>
+<li>the <em>dry adiabatic lapse rate</em> (DALR) describes how a dry parcel of air (that is, a parcel where no condensation is occurring) will cool as it rises and expands. The DALR is typically <span class="math inline">\(10^\circ\)</span> C/km.</li>
+<li>the <em>wet adiabatic lapse rate</em> (SALR) describes how quickly a saturated parcel of air (where condensation is occurring) will cool as it rises and expands. The SALR is typically <span class="math inline">\(6^\circ\)</span> C/km.</li>
+</ul>
+<p>In other words, the SALR is lower than the DALR because the condensation of water releases latent heat to the surroundings.</p>
+<p>Whether or not the atmosphere is stable depends upon the relative values of ELR, DALR, and SALR. The atmosphere is</p>
+<ul>
+<li>absolutely unstable if DALR&lt;ELR; in other words, even a dry parcel will cool more slowly than the surrounding environment and thus remain warmer (and more buoyant) than the surrounding atmosphere</li>
+<li>absolutely stable if ELR&lt;SALR; in other words, even a saturated parcel will cool more quickly than the surrounding environment and thus subside</li>
+<li>conditionally unstable if SALR&lt;ELR&lt;DALR where saturated parcels will keep rising but dry parcels will subside</li>
+</ul>
+<p>In general, the steps for cloud formation are:</p>
+<ul>
+<li>lifting of air (via free convection or forced convection)</li>
+<li>as the air rises, the temperature decreases</li>
+<li>as the temperature decreases, the relative humidity increases</li>
+<li>the relative humidity reaches 100%</li>
+</ul>
+<p><strong>Formation of Precipitation</strong></p>
+<p>Most condensed droplets &amp; ice crystals in a cloud are too small to fall through the atmosphere (and would rapidly evaporate): condensed droplets are typically on the order of 10-20 microns.</p>
+<p>Rain droplets form primarily through <em>collision-coalescence</em> where droplets collide and merge until heavy enough to fall through the atmosphere (100s microns)</p>
+<p>Ice crystals can grow by accretion around nuclei or aggregation of ice crystals.</p>
+<p>The <em>Bergeron-Wegener Process</em> can occur if a cloud contains both liquid water and ice. Because the vapor pressure is greater over water than ice (that is, it is easier for water molecules to evaporate from the liquid), the ice can grow at the expense of the liquid. This can lead to rapid growth of ice crystals in the cloud.</p>
+<p>There are different types of precipitation:</p>
+<ul>
+<li><em>rain</em>: the precipitations reaches the surface while staying in the liquid phase (it may begin as ice higher in the atmosphere)</li>
+<li><em>snow</em>: the precipitation falls as ice/snow crystals all the way from the cloud to the surface</li>
+<li><em>freezing rain</em>: the precipitation falls as a liquid for part of its descent, but low surface temperatures cause the rain to freeze on contact. This is often associated with an inversion.</li>
+<li><em>sleet</em>: the precipitation falls as a liquid for part of its descent, but freezes into ice pellets before reaching the surface. This is often associated with an inversion.</li>
+</ul>
+<p><strong>Cloud Types</strong></p>
+<p>The classification scheme first developed by Luke Howard in 1803 is still generally applied today. Clouds are classified by their form (vertical extent) and by their altitude.</p>
+<p><em>Form</em></p>
+<ul>
+<li>cirro- (wispy)</li>
+<li>strato- (layered)</li>
+<li>cumulo- (convective)</li>
+<li>nimbo- (precipitating)</li>
+</ul>
+<p><em>Altitude</em></p>
+<ul>
+<li>high (cirro-): cirrus, cirrostratus, cirrocumulus</li>
+<li>middle (alto-): altocumulus, altostratus, nimbostratus</li>
+<li>low: cumulus, stratus, stratocumulus, cumulonimbus</li>
+</ul>
+<table>
+<thead>
+<tr class="header">
+<th style="text-align: left;">altitude</th>
+<th style="text-align: left;">vertical</th>
+<th style="text-align: left;">layered</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">high</td>
+<td style="text-align: left;">cirrocumulus</td>
+<td style="text-align: left;">cirrostratus</td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">middle</td>
+<td style="text-align: left;">altocumulus</td>
+<td style="text-align: left;">altostratus</td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">low</td>
+<td style="text-align: left;">cumulus</td>
+<td style="text-align: left;">stratus</td>
+</tr>
+</tbody>
+</table>
+<p><strong>Atmospheric Forces, Pressure, and Wind</strong></p>
+<p>Wind: horizontal movement of air; characterized by both a <em>direction</em> and a <em>magnitude</em>; a wind is labeled by the direction from which it is traveling (e.g. a NW wind is coming from the NW)</p>
+<p>This can be expressed using windpoles, which shows the direction and magnitude of the wind (in knots or nautical miles per hour); 1 knot = 6076 ft or 1.15 miles or 1/60th a degree of latitude</p>
+<p><strong>Forces that influence wind</strong></p>
+<ul>
+<li>Pressure Gradient Force</li>
+<li>Gravitational Force</li>
+<li>Coriolis Force</li>
+<li>Centrifugal Force</li>
+<li>Friction</li>
+</ul>
+<p><strong>Pressure Gradient Force</strong></p>
+<p><em>pressure gradient</em> is a change in pressure over a distance; the pressure gradient force over some distance <span class="math inline">\(n\)</span> is thus</p>
+<p><span class="math inline">\(PGF = \frac{\Delta P}{\Delta n}\)</span></p>
+<p>The force always points from areas of higher pressure to areas of lower pressure. The steeper the pressure gradient, the stronger the PGF and the stronger the winds.</p>
+<p>Mapping variations in pressure can thus be used to indicate the PGF. There are two main ways to show this:</p>
+<ul>
+<li>surface pressure map: shows the atmospheric pressure adjusted to sea level (MSLP). Isobar contours can be drawn to indicate pressure values.</li>
+<li>isobaric chart: shows the altitude of a given pressure surface. For example, how high is the “500-mbar” level above the surface.</li>
+</ul>
+<p>Can again think of how pressure reflects the weight of the air above: areas of high pressure have higher isobaric altitudes than areas of low pressure; this will influence air movement and subsequent weather.</p>
+<p>If PGF always points from high pressure to low pressure, and pressure decreases with altitude, <em>why doesn’t the atmosphere just fly away?</em> The answer is that there is a <em>hydrostatic balance</em> between the PGF and gravity.</p>
+<p><strong>Coriolis Force</strong></p>
+<p>Acceleration caused by the Earth’s rotation:</p>
+<ul>
+<li>produces a right-hand turn in Northern Hemisphere</li>
+<li>produces a left-hand turn in Southern Hemisphere</li>
+</ul>
+<p>This is also the source of how we describe cyclonic rotation (counter-clockwise around a low) and anticyclonic rotation (clockwise around a high)</p>
+<p><span class="math inline">\(CF = 2fV\)</span></p>
+<p>where <span class="math inline">\(V\)</span> is the wind speed and <span class="math inline">\(f=2\Omega sin \phi\)</span>; the Coriolis force increases with wind speed and increases with increasing latitude.</p>
+<p><strong>Centrifugal Force</strong></p>
+<p>The centrifugal force ie caused by centripetal acceleration (toward the center of the rotation); for wind the centrifugal force points outward from the center of rotation (that is, it is the tendency of wind to want to travel in a straight line)</p>
+<p><span class="math inline">\(CENT=\frac{V^2}{R}\)</span></p>
+<p>where <span class="math inline">\(R\)</span> is positive for cyclonic flow and negative for anticyclonic flow: works against PGF around lows and with PGF around highs; this force also gets very strong for small turning radii.</p>
+<p><strong>Friction</strong></p>
+<p>Friction with the surface will decelerate the wind; this force thus always moves in the direction opposite the wind. It is described by</p>
+<p><span class="math inline">\(FF=-kV\)</span></p>
+<p>where <span class="math inline">\(V\)</span> is the wind speed and <span class="math inline">\(k\)</span> describes the roughness of the surface. Trees and tall buildings have much more “roughness” whereas sand/snow/water have very low roughness.</p>
+<p><strong>Combining Forces</strong></p>
+<p><em>Buys-Ballots Law:</em></p>
+<ul>
+<li>low pressure lies to the left of the wind (if wind is at your back, the low pressure is to the left)</li>
+<li>high pressure lies to the right of the wind (if wind is at your back, the high pressure is to the right)</li>
+</ul>
+<p>The forces will <em>combine</em> to yield the wind behavior. This will tend to produce a <strong>geostrophic wind</strong>: in which there is a geostrophic balance between the Coriolis force and the PGF (<span class="math inline">\(PGF+CF=0\)</span>).</p>
+<p>This will cause the wind to tend to move parallel with the isobars. Again, we find that a tighter pressure gradient will yield a stronger geostrophic wind.</p>
+<p>If all of the effects are combined, we will see geostrophic balance. Often, however, we will see subgeostrophic flow around low pressure systems and supergeostrophic flow around high pressure systems. This will accomplish gradual movement toward the low pressure center and away from the high pressure center.</p>
+<p>To summarize the balances:</p>
+<table>
+<colgroup>
+<col style="width: 33%" />
+<col style="width: 33%" />
+<col style="width: 33%" />
+</colgroup>
+<thead>
+<tr class="header">
+<th style="text-align: left;">balance</th>
+<th style="text-align: left;">forces</th>
+<th style="text-align: left;">expressions</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td style="text-align: left;">hydrostatic</td>
+<td style="text-align: left;">vertical PGF, gravity</td>
+<td style="text-align: left;"><span class="math inline">\(dP/dz=-\rho g\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">geostrophic</td>
+<td style="text-align: left;">PGF, Coriolis</td>
+<td style="text-align: left;"><span class="math inline">\(dP/dn = -2\Omega \sin \phi v\)</span></td>
+</tr>
+<tr class="odd">
+<td style="text-align: left;">gradient</td>
+<td style="text-align: left;">PGF, Coriolis, centrifual</td>
+<td style="text-align: left;"><span class="math inline">\(\frac{v^2}{r}+2\Omega \sin \phi v+\frac{dP}{dn}=0\)</span></td>
+</tr>
+<tr class="even">
+<td style="text-align: left;">Guldberg-Mohns</td>
+<td style="text-align: left;">PGF, Coriolis, friction</td>
+<td style="text-align: left;"><span class="math inline">\(-kv+2\Omega \sin \phi v+\frac{dP}{dn}=0\)</span></td>
+</tr>
+</tbody>
+</table>
+<p><strong>Air Masses</strong></p>
+<p>Characterized by temperature and humidity, which are largely inherited from their source region</p>
+<p><em>Humidity</em>: Continental, Maritime</p>
+<p><em>Temperature</em>: Arctic, Polar, Tropical</p>
+<p>This yields: cP, mP, cT, mT, and cA   (Arctic air masses are always dry, and are also very stable)</p>
+<table>
+<thead>
+<tr class="header">
+<th></th>
+<th>arctic</th>
+<th>polar</th>
+<th>tropical</th>
+</tr>
+</thead>
+<tbody>
+<tr class="odd">
+<td></td>
+<td><em>v. cold</em></td>
+<td><em>cold</em></td>
+<td><em>warm</em></td>
+</tr>
+<tr class="even">
+<td><strong>continental</strong></td>
+<td>v cold, dry (cA)</td>
+<td>cold, dry (cP)</td>
+<td>hot, dry (cT)</td>
+</tr>
+<tr class="odd">
+<td><strong>marine</strong></td>
+<td>v cold, dry (cA)</td>
+<td>cool, humid (mP)</td>
+<td>warm, humid (mT)</td>
+</tr>
+</tbody>
+</table>
+<p>Air masses can undergo <em>air mass modification</em> as they travel (advect) over the surface, via heat/moisture exchange and/or lifting.</p>
+<p>A prime example of modification is <em>lake-effect snow</em>, during which a cold air masses moves over (relatively) warmer water.</p>
+<p>The boundaries between air masses are known as <strong>fronts</strong>. There are different types of fronts:</p>
+<ul>
+<li>cold front: colder air follows the front’s passage; cold air generally moves faster and underneath warmer air. This usually leads to a relatively abrupt zone of lifting and cumuloform clouds</li>
+<li>warm front: warmer air follows the front’s passage; warm air usually slides over the colder air mass relatively gradually. This leads to a gradual sequence of cloud types and longer-term precipitation.</li>
+<li>stationary front: little horizontal movement along front</li>
+<li>occluded front: when a faster-moving (usually cold) front overtakes a slower warm front
+<ul>
+<li>cold occlusion is when the new air mass is more stable than what it is replacing</li>
+<li>warm occlusion is when the new air mass is less stable than what it is replacing</li>
+</ul></li>
+<li>dryline: a frontal boundary based upon moisture &amp; wind instead of temperature (e.g., cT and mT air over Texas): huge difference in dewpoint</li>
+</ul>
+<p>The movement of fronts is closely tied to general cyclonic and anti-cyclonic circulation patterns. The low-pressure systems in particular can develop into large, strong storms known as…</p>
+<p><strong>Mid-Latitude Cyclone</strong></p>
+<p>How do fronts move? Often connected to pressure lows known as <em>midlatitude cyclones</em> (or extratropical cyclone);</p>
+<p>Benjamin Franklin correctly determined that the surface winds of a storm system were only incidental to the forward movement of the storm;</p>
+<p><em>Norwegian Cyclone Model</em>:</p>
+<p>First proposed by Jack Bjerknes in the 1920s (Bergen, Norway).</p>
+<p><em>Note</em>: we now understand that upper-air conditions must be favorable; this is more likely to develop just east of a trough (where we have diffluence).</p>
+<ul>
+<li>low pressure develops along a stationary frontal boundary: specifically, the “polar front” dividing mid-latitude air masses from colder polar air masses. Idealized would be mT and cP air masses.</li>
+<li>the birth of a cyclone is the formation of a frontal wave: a slight bend in the front; warm air tends to move northward and cold air moves southward around a developing pressure low</li>
+<li>the wave intensifies and the two fronts become better organized in an open wave pattern</li>
+<li>the wave becomes a mature low pressure center with cyclone flow; because the cold front moves faster than the warm front, it will overtake it and produce an occluded front</li>
+<li>eventually the occlusion increases and the cold air cuts off the supply of warm air completely from the low pressure center, leading to dissipation</li>
+</ul>
+<p>All of this takes place over the course of several days as the entire cyclone moves eastward</p>
+<p><em>Some Examples of common types…</em></p>
+<ul>
+<li><p>Alberta Clippers</p>
+<ul>
+<li><em>fast moving</em> and usually don’t have too much precip associated with them because they are far from a moisture source</li>
+</ul></li>
+<li><p>Colorado Low</p>
+<ul>
+<li>intense low, with strong warm air advection in the warm sector, very cold temps in the cold sector. If there is a lot of gulf moisture to work with, they there is usually sleet, freezing rain and rain associated with the warm front, strong thunderstorms along the southern edge of the cold front and snow along the backside and to the NW of the Low (even blizzards)</li>
+</ul></li>
+</ul>
+<p><strong>Thunderstorm development</strong></p>
+<ul>
+<li>still need a mechanism for <em>lifting</em>; this can often take place along a cold front, especially if advancing into warm, moist (mT) air</li>
+<li>we will have frequent thunderstorms anywhere there is liftingat</li>
+<li>thunderstorm development is tied closely to the <em>stability</em> of the atmosphere
+<ul>
+<li>stability index: take a parcel and lift it adiabatically (DALR) to saturation, then lift saturated parcel (SALR) to 500-mbar level</li>
+<li>compare parcel temperature to environmental temperature</li>
+<li>Lifted Index = T(env) - T(parcel)</li>
+<li>Lifted Index values below zero are <em>unstable</em> (the parcel is warmer than the environment)</li>
+</ul></li>
+</ul>
+<p><strong>Single-cell (local) thunderstorm (or “air-mass” thunderstorm)</strong></p>
+<ul>
+<li>occur by thermal convection, orographic lifting, or surface convergence</li>
+<li>developing stage - mature stage - dissipating stage</li>
+</ul>
+<p><em>development</em></p>
+<ul>
+<li>lifting to LCL and cumulus-type cloud formation that expands vertically and horizontally</li>
+<li>entrainment of surrounding dry air; evaporation cools the air within the cloud</li>
+<li>moist air flowing upward begins producing an updraft</li>
+<li>droplet formation by collision and coalescence</li>
+</ul>
+<p><em>mature stage</em></p>
+<ul>
+<li>precipitation begins to fall from the cloud</li>
+<li>rain, lightning, possibly small hail</li>
+<li>rain helps produce a cool downdraft</li>
+</ul>
+<p><em>dissipating stage</em></p>
+<ul>
+<li>main factor: updraft weakens and collapses (downdraft begins to dominate and cuts of upward supply of moisture)</li>
+<li>moisture content decreases and supply of latent heat diminished</li>
+<li>precipitation weakens and cell dissipates</li>
+</ul>
+<p><strong>Lightning</strong></p>
+<p>electrical discharged caused by thunderstorm motions</p>
+<ul>
+<li>intra-cloud</li>
+<li>inter-cloud</li>
+<li>cloud-to-ground (CG)</li>
+</ul>
+<p>probably about 40 lightning strikes per second on the surface of the Earth (100 is a commonly cited value)</p>
+<p><em>Cloud Electrification</em></p>
+<ul>
+<li>need charge separation for lightning to occur</li>
+<li>updrafts bring ice crystals to top of cloud; downdrafts provide warming and collisions, which partially melts ice to form “soft hail” or “graupel”</li>
+<li>graupel-ice process: graupel and ice collide and exchange charges:
+<ul>
+<li>higher/colder: ice becomes positively charged, graupel gains negative charge</li>
+<li>lower/warmer: ice becomes negatively charged, graupel gains positive charge</li>
+</ul></li>
+</ul>
+<p><em>Field Generation</em></p>
+<ul>
+<li>positive charge induced and concentrated at surface below cloud</li>
+<li>will tend to concentrate at higher features (closer to negative charge)</li>
+<li>enormous potential created 9000 V per meter)</li>
+</ul>
+<p><em>Sequence</em></p>
+<p>Preliminary breakdown: change in field about 30 msec before first stepped leaders emerge from the cloud base.</p>
+<p>An electric spark is an abrupt electrical discharge that occurs when a sufficiently high electric field creates an ionized, electrically conductive channel through a normally-insulating medium, often air or other gases or gas mixtures.</p>
+<p>Local discharge between + region near base and - regions above, freeing more electrons in - region</p>
+<ul>
+<li>Movement downward of electrons in stepped leader, in steps of about 50 yards long (millionths of a second).</li>
+<li>Negative charge (electrons) moves down the leader channel toward ground at 75 miles/second</li>
+<li>conduit of ~ an inch at center of luminous flow</li>
+<li>as it reaches ground, induces large amounts of positive charge on surface beneath it</li>
+<li>connection with upward-going discharge. this completes the conduit from cloud to ground.</li>
+<li>huge current discharge at point of contact; the region of high current moves upward as the channel luminosity travels up the channel (the luminous return stroke). But electrons are always moving downward (for this type of strike).</li>
+</ul>
+<p>What’s happening? if the electric field is strong enough, it exceeds the dielectric strength of the gas (which is normally a pretty good conductor), and the molecules in the air will begin to partially ionize and conduct electricity (by movement of electrons).</p>
+<p><strong>Multi-cell Thunderstorm</strong></p>
+<ul>
+<li>composed of several individual single-cell storms at different stages of development (cumulus, mature, dissipating)</li>
+<li>moderate wind shear tilts storm, preventing quenching from rainfall into updraft</li>
+<li>gust fronts may produce additional lifting along the surface and trigger the formation of new cells (the gust front can produce phenomena such as shelf clouds)</li>
+<li>multicell thunderstorms may grow or join to produce <em>mesoscale convective systems</em></li>
+</ul>
+<p><strong>Mesoscale Convective Systems</strong></p>
+<p><em>Squall Line</em></p>
+<ul>
+<li>thunderstorms arranged in a line or band</li>
+<li>along boundary of unstable air, often ahead of cold front</li>
+<li></li>
+<li>Have life spans of 6 to 12 hours or more</li>
+<li>Extend over several states simultaneously</li>
+<li>A shelf cloud is often observed above the gust front</li>
+<li>Divergence aloft and a broad, low-level inflow of moist air favor development of squall lines</li>
+</ul>
+<p><em>Mesoscale Convective Complex</em></p>
+<ul>
+<li>large complex of individual storms</li>
+<li>may form under ridge of high pressure if unstable air conditions at the surface</li>
+<li></li>
+<li>An MCC is a complex of individual storms that covers a large area in an infrared satellite image and lives more than 6 hours</li>
+<li>Often form in late afternoon and evening</li>
+<li>In satellite images give the appearance of a large circular storm with cold cloud-top temperatures</li>
+<li>Often form underneath a ridge of high pressure; because upper-level divergence can occur in a ridge</li>
+<li>Do not require as much vertical shear as squall lines</li>
+<li>Can be maintained by the low-level jet</li>
+</ul>
+<p><strong>Supercell Thunderstorm</strong></p>
+<p><em>Conditions that favor violent thunderstorms…</em></p>
+<ul>
+<li>high vertical wind shear</li>
+<li>low level (900 mbar) jet of mT air (sometimes called the nocturnal jet)</li>
+<li>capping inversion caused by movement of cT air at around 700 mbar level; increases LI at the surface</li>
+<li>updrafts tilt this shearing and can develop into a supercell</li>
+</ul>
+<p><em>Supercell Thunderstorms</em></p>
+<ul>
+<li>The supercell thunderstorm is a large single-cell storm, sometimes 32 km or more across, that almost always produces dangerous weather</li>
+<li>Strong wind gusts, large hail, dangerous lightning and tornadoes</li>
+<li>Require a very unstable atmosphere</li>
+<li>Require strong vertical wind shear (in direction and speed)</li>
+<li>Vertical wind shear causes supercell thunderstorms to rotate around a vertical axis</li>
+<li>strong westerly flow aloft and southeasterly surface winds; vortex tube can be carried vertical by a strong updraft</li>
+<li><em>updraft and downdrafts do not interfere with each other: storm may survive for several hours</em></li>
+</ul>
+<p><em>Supercell Structure</em></p>
+<ul>
+<li><em>mesocyclone</em>: spinning updraft (5 to 20 km across); downdrafts caused by heavy precipitation</li>
+<li>Like a miniature extratropical cyclone, 5 to 20 km across; 2-5 mbar pressure drop</li>
+<li>Narrows and rotates more quickly when it stretched, but too large and too slow in rotation to be a tornado</li>
+</ul>
+<p><em>Downburst/Microburst</em></p>
+<ul>
+<li>rain evaporates below cloud, leading to rapid cooling; cold, heavy air plunges to surface</li>
+<li>RFD (rear flank downdraft) is cool and relatively dry</li>
+</ul>
+<p><strong>Tornadoes</strong></p>
+<ul>
+<li>Most form underneath supercell thunderstorms (most supercells do not cause tornadoes, but most tornadoes form from supercells)</li>
+<li>The cloud base underneath the updraft on the rear side of the thunderstorm may lower, forming a rotating wall cloud</li>
+<li>A rapidly rotating column of air much smaller than the mesocyclone may protrude beneath the wall cloud</li>
+<li>200-250 mbar pressure drop</li>
+<li>As water vapor condenses in the air rushing up into this column, a funnel cloud may form and reach the ground, becoming a tornado
+<ul>
+<li>air rushes up into low pressure core of mesocylone expansion, cooling, and cloud formation descending air in core (may reach ground)</li>
+</ul></li>
+</ul>
+<p><em>formation &amp; organization</em></p>
+<ul>
+<li>descending air in rear-flank downdraft wraps around mesocyclone</li>
+<li>rain/hail in RFD can produce hook echo</li>
+<li>becomes focused on surface area of lower pressure</li>
+<li>formation of funnel cloud and debris: funnel is rapid condensation of water due to adiabatic cooling</li>
+</ul>
+<p><em>maturity</em></p>
+<ul>
+<li>rapid inflow of warm, moist air into vortex</li>
+<li>peak strength and size (usually 100-200 meters in size; but up to ~1 mile in diameter)</li>
+<li>RFD begins wrapping around vortex</li>
+</ul>
+<p><em>dissipation</em></p>
+<ul>
+<li>RFD complete wraps around tornado</li>
+<li>intensity decreases, tornado tilts with height</li>
+<li>drawn into thin, rope-like structure</li>
+</ul>
+<p><em>Radar Signatures</em></p>
+<ul>
+<li>hook echo</li>
+<li>TDS (tornado debris signature)</li>
+<li>Doppler rotation —&gt; vortex signature</li>
+<li>these advances are creating increasing lead times for advanced warning</li>
+</ul>
+<p><em>Tornado Strength</em></p>
+<ul>
+<li>Wind estimation based on observations of tornado damage</li>
+<li>Enhanced Fujita (EF) scale ranges from 0 to 5, with 5 the most damage
+<ul>
+<li>The scale uses 28 damage indicators, like schools, barns, and vegetation; the damage to each helps place the tornado on the scale</li>
+<li>higher EF number, the more severe the tornado’s wind and damage</li>
+</ul></li>
+<li>Some of the most severe tornadoes are multiple vortex tornadoes</li>
+</ul>
+<p><strong><em>Why so many tornadoes in the US?</em></strong></p>
+<ul>
+<li>Tornadoes form in regions with extremely unstable moist air, large amounts of vertical wind shear, and weather systems that force air upward</li>
+<li>Tornado alley through central Great Plains has highest frequency</li>
+<li>Tornado season moves north and south through the year with the polar jet</li>
+<li>good conditions for severe thunderstorm formation</li>
+<li>mT air from gulf colliding with frontal air masses (low level mT jet and high wind shear) along dry line</li>
+</ul>
+<p>Hail Formation</p>
+<ul>
+<li>ice particles that grow by accretion of supercooled water</li>
+<li>requires strong updrafts</li>
+<li>dry growth: hailstone remains below freezing (milky)</li>
+<li>wet growth: hailstone collects warmer water</li>
+</ul>
+<p>+++</p>
+<p><strong>Planetary Circulation</strong></p>
+<p><em>Planetary Scales</em></p>
+<ul>
+<li><strong>microscale</strong> (&lt;1 km in size): PGF, CEN, friction
+<ul>
+<li>cumulus clouds, parcels</li>
+</ul></li>
+<li><strong>mesoscale</strong> (1-1000 km): PGF, CEN, friction, Cor
+<ul>
+<li>thunderstorms, fronts</li>
+</ul></li>
+<li><strong>synoptic</strong> scale (&gt;1000 km): geostrophic balance
+<ul>
+<li>mid-latitude cyclones</li>
+</ul></li>
+<li><strong>planetary</strong> scale (10,000 km): geostrophic balance
+<ul>
+<li>atmospheric circulation cells prevail over longer timescales</li>
+</ul></li>
+</ul>
+<p><em>Circulation Models</em></p>
+<ul>
+<li><em>model</em>: simplified description of a complex system</li>
+<li>used to explain and predict observations using cause-and-effect relationships</li>
+</ul>
+<p>Should be able to explain:</p>
+<ul>
+<li>steady and calm winds observed by mariners</li>
+<li>Regions that lack winds</li>
+<li>Global patterns of cloudiness</li>
+<li>Midlatitude cloud patterns</li>
+<li>Global patterns of precipitation</li>
+<li>Jet streams</li>
+</ul>
+<p>Global Circulation on Non-Rotating Earth</p>
+<p><em>single cell circulation</em> (Hadley model)</p>
+<ul>
+<li>contrast in temperatures between the poles and the equator creates a large convection cell in both hemispheres.</li>
+</ul>
+<p>Global Circulation on Rotating Earth</p>
+<ul>
+<li><p>three-cell circulation: Hadley, Ferrel, and Polar cells</p></li>
+<li><p>Coriolis effect deflects flow, poleward flows cool and sink</p></li>
+<li><p>Not all cells are <strong>meridional</strong> (N-S motion), there are also <strong>zonal</strong> cells (E-W motion)</p>
+<ul>
+<li>For example, <em>Walker circulation</em> is the zonal component of a Hadley cell</li>
+<li>this behavior is observed in El Nino Southern Oscillaiton</li>
+</ul></li>
+</ul>
+<p>Global Circulation Model: Observation</p>
+<ul>
+<li>tropical <strong>trade</strong> winds converging in <em>Intertropical convergence zone</em> (ICTZ) (region of the <strong>doldrums</strong>)</li>
+<li>midlatitude <strong>westerlies</strong> encounter the <strong>polar easterlies</strong> along the <strong>polar front</strong></li>
+</ul>
+<p><em>Idealized zonal pressure belts:</em></p>
+<ul>
+<li>The equatorial low is an intertropical convergence zone (ITCZ).</li>
+<li>Subtropical highs (STH) are high-pressure zones in the belts about 20°–35° latitude on either side of the equator.</li>
+<li>Polar highs near the Earth’s poles are where the polar easterlies originate.</li>
+</ul>
+<p><em>Monsoons</em></p>
+<ul>
+<li>seasonal reversal of winds.</li>
+<li>The Asian monsoon, which affects India and its surrounding areas, China, Korea, and Japan.</li>
+<li>The monsoon is driven by pressure differences.</li>
+<li>The North American monsoon occurs in the southwestern U.S. and northwestern Mexico.
+<ul>
+<li>This monsoon is driven by the extreme temperatures, which generate a low-pressure center over Arizona and results in a circulation pattern that brings moist air from the Gulf of California and from the Gulf of Mexico, to a lesser degree.</li>
+</ul></li>
+</ul>
+<p><em>Cloud and Precipitation</em> patterns also show clear trends related to planetary circulation</p>
+<p><strong>Jet Stream</strong></p>
+<ul>
+<li>fast-flowing westerly current flowing between circulation cells</li>
+<li>200-250 mbar level, 100-400 mph</li>
+<li>essentially driven by geostrophic balance</li>
+<li>caused by temperature differences between air near equator and air near the pole</li>
+</ul>
+<p><em>Seasonal Variations</em></p>
+<ul>
+<li>migrates depending upon the season (along with other circulation cells)</li>
+<li>The polar jet stream is the more prevalent than subtropical jet</li>
+<li>It occurs along a major frontal zone, the polar front.</li>
+<li>The jet stream moves <em>faster</em> in winter.</li>
+<li>tends to migrate southward in the winter</li>
+</ul>
+<p><em>Rossby Waves</em></p>
+<ul>
+<li><p>The jet streams meander like rivers, producing a <em>wavelike pattern</em> of troughs and ridges</p></li>
+<li><p>The air flow through these waves results in storms that move warm air poleward and cold air toward the equator</p></li>
+<li><p>Each trough-ridge combination is called a Rossby wave</p></li>
+<li><p>Drift slowly eastward, with rising air near the troughs and sinking air near the ridges</p></li>
+<li><p>trough-ridge combinations at 500 mb level and higher</p></li>
+<li><p>characterized by <strong>wavelength</strong> and <strong>amplitude</strong></p></li>
+<li><p><em>important for development of surface systems!</em></p></li>
+<li><p>short waves (&lt;6000 km) may be embedded in long waves</p>
+<ul>
+<li>smaller-scale disturbances</li>
+<li>move relative to longwaves (20-40 mph eastward)</li>
+</ul></li>
+</ul>
+<p><strong>Upper level wave patterns</strong></p>
+<ul>
+<li>small wave amplitude: zonal flow (a)</li>
+<li>large wave amplitude: meridional flow (b)</li>
+<li>split flow pattern (c)
+<ul>
+<li>zonal flow near pole, meridional flow to the south</li>
+</ul></li>
+</ul>
+<p><em>Open wave pattern</em></p>
+<ul>
+<li>most common pattern seen in upper air charts are just plain troughs and ridges. These waves and troughs are considered ‘open’ as, for the most part; no closed circulation associated with the waves.</li>
+<li>progressive meaning they move from west to east. Low-pressure troughs are identified by brown dashed lines while ridges of high pressure are identified by brown zigzag lines.</li>
+<li>inclement weather between the trough and the downwind (eastward) ridge; fair weather occurs between the ridge and the downwind trough.</li>
+</ul>
+<p><em>Positive tilted trough</em></p>
+<ul>
+<li>northeast to southwest in the Northern Hemisphere</li>
+<li>positive tilted troughs produce the least amount of severe weather</li>
+</ul>
+<p><em>Negative tilted trough</em></p>
+<ul>
+<li>northwest to southeast in the Northern Hemisphere</li>
+<li>potential for more severe weather (strong southerly surface wind with warm air underneath incoming cold air: very unstable conditions)</li>
+<li>relatively high wind shear that may favor supercell storms</li>
+</ul>
+<p><em>Zonal flow pattern</em></p>
+<ul>
+<li>When air flow is parallel (or nearly parallel) to the latitude lines then it is considered to be a zonal flow.</li>
+<li>Surface level storm systems, and associated cold fronts, move very fast from west to east in zonal flows but have very little north to south (or south to north) movement.</li>
+<li>locations to the pole-ward of a zonal flow remain cool or cold, while equator-ward, the weather remains mild or warm.</li>
+</ul>
+<p><em>Cut-off low (weatherman’s woe)</em></p>
+<ul>
+<li>persistent low pressure area cut off from the main airflow (slow moving systems; difficult to model how long they will last)</li>
+</ul>
+<p><em>Blocking high</em></p>
+<ul>
+<li>center of high pressure over a region prevents other weather systems from moving through</li>
+<li>typically a summertime occurrence, responsible for major heat waves. Any precipitation is usually shunted around the periphery of the high-pressure area.</li>
+</ul>
+<p><em>Omega block</em></p>
+<ul>
+<li>two cutoff lows separated by blocking high: can lead to temperature extremes simultaneously over different regions</li>
+<li>Omega blocks get their name because the upper air pattern looks like the Greek letter omega (Ω). Omega blocks are a combination of two cutoff lows with one blocking high sandwiched between them.</li>
+<li>Because of their size, Omega blocks are often quite persistent and can lead to flooding and drought conditions depending upon one’s location under the pattern. Cooler temperatures and precipitation accompany the lows while warm and clear conditions prevail under the high.</li>
+</ul>
+<p><em>Rex block</em></p>
+<ul>
+<li>high pressure system poleward of low pressure system</li>
+<li>characterized by a high-pressure system located pole-ward of a low-pressure system; will remain nearly stationary until one of the height centers changes intensity, unbalancing the pattern.</li>
+<li>Strong, particularly persistent Rex blocks can cause flooding near the low-pressure part of the block and short-term drought under the high-pressure part.</li>
+</ul>
+<p><strong>Global Circulation Model: Seasonal Variations</strong></p>
+<ul>
+<li><p>ITCZ, subtropical highs, and polar front all shift southward in NH winter and northward in NH summer</p></li>
+<li><p>Polar jet stream is displaced further poleward in summer in both hemispheres</p></li>
+<li><p>During summer the positions of the subtropical highs shift poleward</p></li>
+<li><p>Lows associated with the ITCZ shift seasonally as do the lows associated with the polar front</p></li>
+<li><p>Monsoon development (again): connected to seasonal variations in large-scale circulation patterns:</p></li>
+<li><p>ITCZ effectively moves up into Asia, causing shift in the direction of the trade winds around India</p></li>
+</ul>
+<p>Again, all of this is driven by changes in <strong>insolation</strong>.</p>
+<p>The Earth</p>
+<ul>
+<li>loses more energy (longwave) at the equator than at the poles,</li>
+<li>but gains much more energy (shortwave) at the equator than at the poles</li>
+<li>this creates an energy imbalance that requires a “poleward” transfer of heat</li>
+<li>this heat is transferred by the ocean and the atmosphere</li>
+</ul>
+<p><strong>THE OCEANS</strong></p>
+<p>From a meteorological perspective: * main source of atmospheric water vapor * exchange energy with the atmosphere * transfer heat poleward</p>
+<p><em>Global water cycle</em></p>
+<ul>
+<li><strong>reservoirs</strong> of Earth’s water with <strong>fluxes</strong> between them</li>
+<li><em>residence time</em> = reservoir size divided by total outward flux
+<ul>
+<li>on average, about 3000 years for oceans</li>
+<li>on average, just 11 days for atmosphere</li>
+</ul></li>
+</ul>
+<p><em>Oceanic Provinces</em></p>
+<ul>
+<li>Ocean area: 71% of Earth’s surface</li>
+<li>average ocean depth: 3.8 km</li>
+<li>average height of continents: 874 km</li>
+<li>volume of oceans: <span class="math inline">\(1.37\times10^{9}\)</span> km^3</li>
+<li>Ocean water per 100g
+<ul>
+<li>3.5 g total salt (mostly chlorides but also sulfates)</li>
+<li>Na, Mg, Ca, K most common cations</li>
+</ul></li>
+<li>active margins: at lithospheric plate boundaries</li>
+<li>passive margins: embedded within lithospheric plate</li>
+<li><em>continental shelf</em>: overlaid by sediment and slopes gradually out to shelf break and <em>continental slope</em></li>
+<li>abyssal plains: relatively flat depositional surfaces (more common on older oceans floors) and may be dotted with submarine volcanoes</li>
+<li>trenches: may occur along active margins where subduction is occurring</li>
+<li>mid-ocean ridges are found near the centers of the oceans and form the worlds longest mountain chains, typically 2.5 km (1.5 miles) above abyssal plain; associated with plate divergence</li>
+</ul>
+<p>+++</p>
+<p><strong>Sea surface temperature (SST)</strong></p>
+<ul>
+<li>measured a few feet below the surface at intake level of a ship</li>
+<li>Generally there are three layers
+<ul>
+<li>The surface zone or mixed layer (top 100 meters) has the highest temperatures</li>
+<li>The thermocline is a zone of rapidly decreasing temperature as depth increases</li>
+<li>In the deep zone (below 1000 meters) the temperature is 1°–3°</li>
+</ul></li>
+</ul>
+<p><strong>Sea Surface Temperature Anomaly</strong></p>
+<p>The SST anomaly field (degrees C): the difference between nighttime-only SST and the nighttime-only monthly mean SST climatology (which is based on nighttime observations from 1984-1993, with the years 1991 and 1992 omitted due to aerosol contamination from the eruption Mt. Pinatubo in June of 1991)</p>
+<p>Higher temperatures can lead to reef thermal stress and coral bleaching events</p>
+<p><strong>SST patterns:</strong></p>
+<ul>
+<li>middle latitudes (and subtropics)
+<ul>
+<li>western coasts bordered by cool water</li>
+<li>eastern coasts boardered by warm water</li>
+</ul></li>
+<li>tropical latitudes
+<ul>
+<li>western coasts bordered by warm water</li>
+</ul></li>
+<li>polar latitudes
+<ul>
+<li>easter coasts bordered by cool water</li>
+</ul></li>
+</ul>
+<p>These can be explained by <strong>ocean circulation:</strong></p>
+<ul>
+<li>massive, ordered pattern of water flow</li>
+<li>ocean current patterns resemble wind patterns</li>
+<li>Global-scale wind patterns blow over large regions and push the ocean in the same direction as the wind</li>
+<li><em>Gyre</em> is an ocean circulation that forms a closed loop across an ocean basin</li>
+<li>Spin in same direction as anticyclones in atmosphere, sending warm water poleward</li>
+<li>Winds of subtropical highs cause cold water to flow toward the equator near western coasts</li>
+</ul>
+<p><strong>Ekman Spiral</strong></p>
+<ul>
+<li>Friction between the air and the sea surface forces the air to move</li>
+<li>The Coriolis force turns the water to the right (NH) or left (SH)</li>
+<li>Moving water influences the layer of water beneath</li>
+<li>The entire pattern is called the Ekman spiral</li>
+<li>On average, water moves to right (NH) or left (SH) in Ekman transport</li>
+</ul>
+<p>These currents can act to push surface water toward or away from the coast, which may lead to <em>downwelling</em> or <em>upwelling</em></p>
+<ul>
+<li>upwelling is important for organisms by bringing cold, nutrient-rich water to surface waters</li>
+</ul>
+<p>+++</p>
+<p><strong>El-Nino Southern Oscillation</strong></p>
+<ul>
+<li>change in wind patterns that ceases upwelling off the coast of South America (Ecuador and Peru); typically occurs around Christmas</li>
+<li>connected to larger cycle of periodic warming events in easter Pacific Ocean</li>
+<li>normally see higher pressures in Tahiti than in Darwin, Australia</li>
+</ul>
+<p><em>Normal (“cold”) phase (+SOI)</em></p>
+<ul>
+<li>upwelling along South American Pacific coast</li>
+<li>strong trade winds</li>
+<li>high pressures in east-central Pacific</li>
+<li>cold waters moving westward from eastern Pacific</li>
+<li>piling up of water in western Pacific</li>
+<li>dry conditions over east-central Pacific</li>
+</ul>
+<p><em>El-Nino (“warm”) phase (-SOI)</em></p>
+<ul>
+<li>downwelling along South American Pacific coast</li>
+<li>trade winds weaken (and even some low-level westerly flow)</li>
+<li>low pressures in east-central Pacific</li>
+<li>warm waters moving eastward across equatorial Pacific</li>
+<li>entire Walker cell weakens and moves eastward (the Hadley circulation tends to strengthen, strengthening the subtropical jet)</li>
+</ul>
+<p>These changes yield teleconnection: climate connections over large distances in oceanic and atmospheric conditions. El Nino tends to give</p>
+<ul>
+<li>strong subtropical jet and wetter conditions in southwestern North America</li>
+<li>weaker polar jet stream an milder winters in upper Midwest</li>
+</ul>
+<p>Other oscillations include…</p>
+<ul>
+<li>Pacific Decadal Oscillation (PDO)</li>
+<li>North Atlantic Oscillation (NAO)</li>
+<li>Arctic Oscillation</li>
+</ul>
+<p>connected changes in zonal flow patterns (zonal index)</p>
+<p><strong>Climate</strong></p>
+<p><em>Location</em></p>
+<ul>
+<li>Globe, continent, region, city</li>
+<li>Regional and global-scale climates</li>
+</ul>
+<p><em>Time</em></p>
+<p>A specified interval:</p>
+<ul>
+<li>30 year average is normal</li>
+<li>100 years or longer for history of climate</li>
+</ul>
+<p>Averages and extremes of variables:</p>
+<ul>
+<li>temperature</li>
+<li>precipitation</li>
+<li>pressure</li>
+<li>winds</li>
+</ul>
+<p>determined by</p>
+<ul>
+<li>latitude-dependent solar insolation</li>
+<li>elevation and topography</li>
+<li>proximity to large bodies of water</li>
+<li>prevailing atmospheric circulation patterns</li>
+</ul>
+<p><strong>Koppen-Geiger Classification scheme</strong></p>
+<p>Five main groups (A–E)</p>
+<ul>
+<li>First letter indicates global conditions
+<ul>
+<li>A: Tropical humid</li>
+<li>B: Dry</li>
+<li>C: Moist subtropical and midlatitude</li>
+<li>D: Severe midlatitude</li>
+<li>E: Polar</li>
+</ul></li>
+<li>Second letter refers to whether and when a dry season occurs
+<ul>
+<li>(f = no dry season, w = winter dry season, s = summer dry season, m = monsoonal)</li>
+</ul></li>
+<li>Third letter denotes temperature differences
+<ul>
+<li>(h = hot, k = cold, a = hot summer, b = warm summer, c = cold summer, d = very cold winter)</li>
+</ul></li>
+<li>Dominant climate over land is arid B (about 30%) followed by cold D (about 25%) and tropical A (19%)</li>
+</ul>
+<p>note relation to geography and global circulation of atmosphere</p>
+<p><strong>Climate History</strong></p>
+<p><em>Have the climates always been the same?</em></p>
+<ul>
+<li>Not just properties of past climate, but also what mechanisms forced climate change?</li>
+<li>Two categories of past climate
+<ul>
+<li>Historical, past few thousand years</li>
+<li>Paleoclimate, conditions before human civilization</li>
+</ul></li>
+<li>Historical and natural records reflect climate; climate changes and causes can be determined from careful study
+<ul>
+<li>Dates of freezes of lakes and rivers, farmers’ logs, diaries, newspapers</li>
+<li>Animals in cave paintings indicate climate and climate change</li>
+<li>But historical records only go so far; we need to turn to <strong>proxy data</strong> to reconstruct past climates</li>
+</ul></li>
+</ul>
+<p><strong>Reconstructing Past Climates: Sources</strong></p>
+<ul>
+<li>Tree-ring data</li>
+<li>Pollen records</li>
+<li>Ice sheets and trapped air</li>
+<li>Marine sediments</li>
+<li>Glacial features and geologic evidence</li>
+<li>Radiometric and stable isotope data</li>
+</ul>
+<p><em>Dendrochronology (tree-ring data)</em></p>
+<ul>
+<li>Diameter of tree trunk increases with growth</li>
+<li>In regions with distinct growing seasons, tree grown appears as concentric rings</li>
+<li>Trees generally produce one ring per year; width of ring indicates how fast growth was</li>
+<li>Growth varies with temperature, precipitation, solar radiation</li>
+</ul>
+<p><em>Pollen Records</em></p>
+<ul>
+<li>Pollen is useful to paleoclimatologists
+<ul>
+<li>Degrades slowly</li>
+<li>Distinctive shapes for each species</li>
+<li>Can accumulate in sediments in lakes, providing record of past vegetation (and thereby, climate)</li>
+</ul></li>
+<li>Radiocarbon dating of pollen grains extends information back tens of thousands of years</li>
+</ul>
+<p><em>Isotopic Applications</em></p>
+<ul>
+<li><em>radiocarbon dating</em> of organic materials or ice core air bubbles</li>
+<li><em>stable isotope measurements</em>:
+<ul>
+<li>deuterium and O-18 content</li>
+<li>colder : higher O-18 concentrations in seawater</li>
+<li>O isotopes also trapped in fossil shells</li>
+</ul></li>
+<li>radiometric dating of fossil-bearing rock layers</li>
+</ul>
+<p><em>Carbon-14</em></p>
+<ul>
+<li>produced in upper atmosphere (cosmic rays) and then incorporated (via CO2) into plants by photosynthesis</li>
+<li>photosynthetic products are consumed by animals (and by animals eating animals) so C-14 goes through food chain</li>
+<li>C-14 abundance is maintained <em>as long as the organism is alive</em>. There are at least a few thousand C-14 atoms decaying in your body every second.</li>
+<li>C-14 is unstable and decays with a half-life of 5730 years (Beta decay: C-14 —&gt; N-14)</li>
+<li>effective for dating 100-70,000 yrs</li>
+<li>useful for organic material</li>
+</ul>
+<p><em>Stable Isotopes (D and O-18)</em></p>
+<ul>
+<li>Materials have been deposited in layers on ocean floor for millions of years</li>
+<li>Animal shells are made of CaCO3
+<ul>
+<li>May contain O-18, which is sensitive to temperature</li>
+<li>Colder: higher O-18 concentrations in seawater</li>
+<li>Can sequester lighter O-16 in continental ice</li>
+<li>This is the benthic oxygen isotope record</li>
+</ul></li>
+<li>This method works back to 2–3 million years</li>
+<li>Warm periods about every 100,000 years</li>
+</ul>
+<p><em>Radiometric Age Dating</em></p>
+<ul>
+<li>Provide a means to track life through the ages</li>
+<li>Integral part of rocks in which they are found</li>
+<li>Types of plants and animals give climate clues</li>
+<li>Some plants have particular requirements; quantity of a fossil can indicate whether it was thriving in the climate</li>
+</ul>
+<p><em>Putting these proxies together to reconstruct paleoclimate</em></p>
+<ul>
+<li>several major ice ages throughout Earth’s history
+<ul>
+<li>Precambrian Eon (2.2 Ga)</li>
+<li>late Proterozoic Eon (700 Ma; <em>Rodinia</em> snowball Earth?)</li>
+<li>Paleozoic Era (500 Ma)</li>
+<li>Permian Period (250 Ma)</li>
+</ul></li>
+<li>current ice age began ~50 Ma, intensified ~2.5 Ma
+<ul>
+<li>recent glacial activity occurred during Plestocene epoch (1.6 Ma)</li>
+</ul></li>
+</ul>
+<p>More recently,</p>
+<ul>
+<li>Holocene (10 ka-present): interglacial period</li>
+<li>most evidence from Pleistocene glaciation (1.6 to 0.01 Ma)</li>
+<li>40,000 and 100,00 year cycles</li>
+<li>most recent: Wisconsinian (110-10 ka) and Illinoian (200-130 ka)</li>
+<li>sea levels have risen nearly 40 m</li>
+<li>rise of agriculture and civilization in Neolithic (stone age)</li>
+</ul>
+<p><em>Little Ice Age</em></p>
+<ul>
+<li>period of cooler temperatures, 1300-1800</li>
+<li>Maunder Minimum: period of low solar activity, 1610-1680</li>
+</ul>
+<p><strong>Large-Scale Causes of Climate Change</strong></p>
+<ul>
+<li>continental drift &amp; plate tectonics</li>
+<li>movement toward poles may result in glaciation</li>
+<li>cannot explain glacial cycles <em>within</em> an ice age</li>
+</ul>
+<p><em>Milankovitch Cycles</em></p>
+<ul>
+<li><p>insolation changes from Earth’s orbital mechanics</p></li>
+<li><p>exaggerate normal seasonal effects</p></li>
+<li><p>examination of glacial activity at 65°N; approx 100,000 year cycle</p></li>
+<li><p>variations in solar insolation are principle controlling factor</p></li>
+<li><p><em>orbital effects</em></p>
+<ul>
+<li>variation in eccentricity of Earth’s orbit</li>
+<li>100,000 and 400,000 year cycles</li>
+</ul></li>
+<li><p><em>axial tilt</em></p>
+<ul>
+<li>variation in angle of Earth’s rotation axis,</li>
+<li>relative to orbital plane</li>
+<li>currently 23.5°; 41,000 year cycle</li>
+</ul></li>
+<li><p><em>precession</em></p>
+<ul>
+<li>wobble in Earth’s rotation axis</li>
+<li>26,000 year cycle; current pole star is Polaris</li>
+</ul></li>
+</ul>
+<p>Causes of Glaciation</p>
+<ul>
+<li><p><em>ocean currents</em>: in Atlantic, currents transport heat from tropics to higher latitudes</p></li>
+<li><p><em>solar energy:</em> variations in output; can be tracked by sunspot cycles</p></li>
+<li><p>cause of ice ages remains an area of active research</p></li>
+</ul>
+<p><strong>positive feedback</strong> (increase glaciation)</p>
+<ul>
+<li>increased ice cover lowers solar absorption (albedo effect)</li>
+<li>increase in freshwater flow to oceans</li>
+</ul>
+<p><strong>negative feedback</strong> (decrease glaciation)</p>
+<ul>
+<li>Milankovitch cycles</li>
+<li>greenhouse gas concentrations</li>
+<li>weathering (which removes CO2) decreases during glaciation</li>
+<li>anthropogenic effects</li>
+</ul>
+<p><strong>positive feedback:</strong> enhance or accelerate change</p>
+<ul>
+<li>ice/albedo</li>
+<li>methane release</li>
+<li>water-vapor feedback</li>
+</ul>
+<p><strong>negative feedback:</strong> disrupt or mitigate change</p>
+<ul>
+<li>water/cloud</li>
+<li>blackbody/height</li>
+<li>CO2 sequestration</li>
+</ul>
+<p><strong>Anthropogenic Effects</strong></p>
+<ul>
+<li>air pollution</li>
+<li><em>gases</em> or <em>particulates</em> released by human activities</li>
+<li>EPA considers 6 criteria pollutants
+<ul>
+<li>CO</li>
+<li>N oxides</li>
+<li>S oxides</li>
+<li>ground-level ozone (O3)</li>
+<li>particulate matter (PM)</li>
+<li>lead</li>
+</ul></li>
+</ul>
+<p><strong>Acid Rain</strong></p>
+<ul>
+<li>falling of acids and acid-forming compounds from Earth’s atmosphere to its surface</li>
+<li>can be dry particles or as wet deposition as acid rain, snow, fog, or dew</li>
+<li>formed when oxides of nitrogen and sulfur combine with water vapor or liquid water to produce nitric acid and sulfuric acid</li>
+<li>normal pH of precipitation is 5.5, slightly acidic (mostly from carbonic acid); acid rain can lower pH to 4–4.5</li>
+<li>damage to structures, plants, aquatic life, ecosystems</li>
+</ul>
+<p>Stratospheric Ozone</p>
+<ul>
+<li>reduced amounts of ozone over Antarctic</li>
+<li>occurs in the Antarctic spring (October)</li>
+<li>result of the chlorine in CFCs (released by UV dissociation)
+<ul>
+<li>Antarctic atmosphere is very cold causing formation of polar stratospheric clouds (destruction is enhanced in these clouds)</li>
+<li>Polar vortex prevents mixing</li>
+</ul></li>
+<li>Expected repair itself over time now that CFC use is limited</li>
+<li>Montreal Protocol: 1989
+<ul>
+<li>phasing out of ozone-depleting substances</li>
+<li>EECL: Effective equivalent chlorine</li>
+</ul></li>
+</ul>
+<p><strong>Climate Change: Main Indicators</strong></p>
+<ul>
+<li>increased land and sea temperatures</li>
+<li>lowered sea ice and land ice coverage</li>
+<li>higher sea levels</li>
+</ul>
+<p><em>note:</em> land temperatures have generally increased more than ocean temperatures because of differences in their thermal properties; so <em>global average temperature</em> must consider both contributions</p>
+<p>Much of this change appears to be driven by increases in greenhouse gas concentrations:</p>
+<ul>
+<li>carbon dioxide</li>
+<li>methane</li>
+<li>nitrous oxide</li>
+</ul>
+<p>What about water?</p>
+<ul>
+<li>water is most important greenhouse gas</li>
+<li>at large scales, not directly influenced by human activities</li>
+<li>has a very short residence time and undergoes phase changes at Earth’s surface</li>
+<li>is expected to slightly increase with increasing global temperatures: <em>water vapor feedback</em> (which is a positive feedback that amplifies warming)</li>
+</ul>
+<p><em>Why the focus on carbon (carbon dioxide)?</em></p>
+<ul>
+<li>relatively high concentrations</li>
+<li>second most important greenhouse component</li>
+<li>increasing concentrations clearly tied to human activity (carbon has provided energy basis for modern civilization)</li>
+</ul>
+<p><em>How do we know it is our carbon?</em></p>
+<ul>
+<li>volcanic emissions are about 0.26 Gt/yr whereas anthropogenic emissions are about 32 Gt/yr; about 100x more than volcanoes (source: USGS)</li>
+<li>we can track how much carbon has been emitted based upon historical records</li>
+<li>the carbon-13 composition of the air is decreasing with time. Why?
+<ul>
+<li>during photosynthesis, plants preferentially “fix” carbon-12 instead of carbon-13 (via RuBisCO or Ribulose-1,5-Bisphosphate Carboxylase/Oxygenase)</li>
+<li>this means plants are isotopically light (ie a depletion in carbon-13) compared to the atmosphere</li>
+<li>biomatter is the source of fossil fuel, so CO2 released from fossil fuel combustion releases this isotopically light carbon into the atmosphere (which is becoming slightly more depleted in C-13)</li>
+</ul></li>
+</ul>
+<p>Anthropogenic <strong>Forcing</strong></p>
+<p><em>Forcing</em> describes differences between solar insolation and how much energy is radiated back into space.</p>
+<ul>
+<li>added carbon dioxide concentration increases the greenhouse effect: more energy is trapped by selective absorption of longwave radiation</li>
+<li>increasing carbon dioxide concentration is the largest forcing component</li>
+<li>however, other greenhouse gases, in particular methane, nitrous oxide, and halocarbons are also playing a significant role</li>
+</ul>
+<p><strong>Climate Models</strong></p>
+<p><em>Overview</em></p>
+<ul>
+<li><p>simulate the processes that drive the Earth’s climate</p></li>
+<li><p>based upon <em>fundamental physical principles</em> (for example, the energy of a closed system is constant)</p></li>
+<li><p>simulate physical processes; considering all of the processes that can affect climate</p></li>
+<li><p>models have greatly increased in sophistication and now incorporate everything from simple radiative balance to interactive vegetation and chemistry;</p></li>
+</ul>
+<p><em>Different types of models</em></p>
+<ul>
+<li>EBM: energy balance (can be 0D): solar energy in and longwave radiation out</li>
+<li>Radiative-Convective Models (often 1D): considers absorption and transfer of energy at different atmospheric levels</li>
+<li>GCM: global circulation models (consider convection/advection flows and transfer of heat throughout oceans and atmosphere).</li>
+</ul>
+<p><em>Model Resolution (spatial and temporal)</em></p>
+<ul>
+<li>Earth system (atmosphere and ocean) is broken up into individual cells</li>
+<li>equations describing the system properties are solved in each cell (and how they affect neighboring cells)</li>
+<li>resolution is limited by computational power; has dramatically increased over the years as models and computers improve.</li>
+</ul>
+<p><em>Climate model inputs</em></p>
+<ul>
+<li>any factor that changes the radiative balance of the atmosphere (how much solar energy is absorbed): <strong>forcing</strong></li>
+<li>this might include simulation of past forcings and how they might influence global temperature (as in our Desmos exercise)</li>
+</ul>
+<p>Model Assessment and Validation</p>
+<ul>
+<li>How do we know a climate model is any good?
+<ul>
+<li>is is good at re-creating past climates (hindcasts)</li>
+<li>it is good at creating climate forecasts (evaluated years later)</li>
+</ul></li>
+</ul>
+<p>Climate Model Intercomparison Project (CMIP): ensemble modeling</p>
+<ul>
+<li>a project that allows researchers to compare and validate climate models
+<ul>
+<li>creates a systematic way to compare different models and find reasons for any differences</li>
+</ul></li>
+<li>includes a set of “experiments” that can be run to compare and validate the results
+<ul>
+<li>historical/hindcasting (including paleoclimates)</li>
+<li>natural-only (to assess the anthropogenic component)</li>
+<li>future warming (including variable emissions scenarios)</li>
+<li>control runs (to identify any systematic differences or errors)</li>
+</ul></li>
+</ul>
+<p>Different emissions scenarios are described by <em>Representative Concentration Pathways</em> (RCPs)</p>
+<ul>
+<li>a fixed set of possible emissions scenarios for comparison across different models</li>
+<li>based upon anticipated anthropogenic emissions and how different pathways would influence global climate</li>
+<li>numbers are based upon the radiative forcing values (W/m2) resulting from these pathways</li>
+</ul>
+<p><strong>Climate Sensitivity</strong>: the temperature change in response to changes in radiative forcing</p>
+<ul>
+<li>doubling CO2 from pre-industrial 280 ppm would yield a temperature increase from 1.5 to 4.5 C</li>
+<li>uncertainty is from the various feedbacks</li>
+</ul>
+</body>
+</html>

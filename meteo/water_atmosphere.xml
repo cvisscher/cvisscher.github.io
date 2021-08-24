@@ -1,0 +1,254 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--********************************************************************
+Copyright 2015 Robert A. Beezer
+
+This file is part of MathBook XML.
+
+MathBook XML is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 or version 3 of the
+License (at your option).
+
+MathBook XML is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
+*********************************************************************-->
+<!-- This file was originally part of the book     -->
+<!-- (as copied on 2015/07/12)                     -->
+<!--                                               -->
+<!--   Abstract Algebra: Theory and Applications   -->
+<!--                                               -->
+<!-- Copyright (C) 1997-2014  Thomas W. Judson     -->
+
+<chapter xml:id="water_atmosphere" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<!-- % TWJ, 2010/03/31 -->
+<!-- % Chapters now begin with Chapter 1 -->
+
+<title>Water in the atmosphere</title>
+
+<section xml:id="measuring-water">
+<title>Measuring and reporting water content</title>
+
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/hydro"/></p>
+
+<p>The H<m>_{2}</m>O abundance is spatially and temporally variable and Earth's clouds are made of ice and/or liquid water. As an abundant and condensible (as a solid or liquid) species, the behavior of H<m>_{2}</m>O is of central importance for energy transfer, weather, and surface climate. Water vapor is also the dominant greenhouse gas in the Earth's atmosphere.</p>
+
+		<p>
+		It is important to note that water vapor exists in the atmosphere as a molecular gas, just like N<m>_2</m>, O<m>_2</m>, and CO<m>_2</m>. A common misconception is to think of water vapor in the atmosphere as tiny suspended liquid droplets. This misconception is understandable, given that water <em>does</em> readily change between different phases (solid, liquid, and gas), and can precipitate out of the gas to form droplets. To repeat: water vapor exists in the atmosphere as a molecular gas, just like N<m>_2</m>, O<m>_2</m>, and CO<m>_2</m>.
+</p>
+		
+<p>		
+		There are a number of different ways of expressing the water content of the atmosphere:
+		</p>
+
+		<p><ul>
+			<li>
+			<em>mixing ratio (specific humidity):</em> mass of water relative to the mass of all other molecules in given volume of air (for example, grams water vapor per kilogram dry air)
+			</li>
+
+			<li>
+			<em>absolute humidity</em>: mass of water per unit volume of air (for example, grams of water vapor per cubic volume of air)
+			</li>
+
+			<li>
+			<em>vapor pressure</em>: the pressure exerted by water vapor molecules in the air, expressed in units of pressure (mb or inches Hg)
+			</li>
+
+			<li>
+			<em>saturation vapor pressure</em>: vapor pressure exerted by water vapor in equilibrium with liquid water (pressure exerted at saturation); expressed in units of pressure (mb or inches Hg). At equilibrium saturation, the rate of evaporation equals the rate of condensation.
+			</li>
+
+			<li>
+			<em>relative humidity</em>: a measure of how close the water vapor pressure in the air is to the saturation vapor pressure at that temperature. Relative humidity = (actual vapor pressure)/(saturation vapor pressure)x100%
+			</li>
+
+			<li>
+			<em>dewpoint</em>: the temperature to which air must be cooled to become saturated. The dew point is a measure of the actual water vapor content of the air
+			</li>
+
+		</ul></p>
+
+<p> Another common misconception (or perception) is that humid air is "heavier" than dry air. In fact, for a given volume humid air weighs less than dry air (and will thus tend to be more buoyant). As we shall see, this behavior plays an important role in cloud formation and convective storm systems.</p>
+
+
+<example xml:id="example-calculate-rh">
+If temperature is 81 F (36.13 mbar vapor pressure) and dewpoint is 70 F (25.04 mbar vapor pressure), what is the <em>relative humidity</em>?
+<answer>
+Note that the dewpoint temperature indicates the "actual" water abundance: the water vapor pressure is 25.04 mbar. However, air at 81 F has a water vapor pressure of 36.13 mbar (in other words, that is how much water air can "hold" before condensation occurs). We can therefore calculate the relative humidity by the expression:
+<m>\phi=\frac{25.04}{36.13}\times100=69\%</m>			
+</answer>
+</example>
+
+<example xml:id="example-calculate-ah">
+Assuming the same air as <xref ref="example-calculate-rh"/> and a surface pressure of 1 bar (1000 mbar), what is the absolute humidity of water?
+<answer>
+By comparing the water vapor pressure to the total pressure (25.04/1000), we see that water molecules make up about 2.5% of the air. From the ideal gas law (PV=nRT), we can estimate that air contains about 40 moles of gas per cubic meter. So per cubic meter of air, there is <m>2.5\% \times 40 = 1</m> mole of water. Because 1 mole of water has a mass of 18 grams, this also gives us the absolute humidity: 18 g H<m>_2</m>O / m<m>^3</m>.
+</answer>
+</example>
+
+<example xml:id="example-calculate-sh">
+Assuming the same air as <xref ref="example-calculate-rh"/> what is the specific humidity of water? Note that dry air has an average molecular weight of 29 grams per mole.
+<answer>
+As indicated in the answer to  <xref ref="example-calculate-sh"/>, each cubic meter of air contains about 40 moles of gas, and we also found that there is 1 mole of water per cubic meter. So we have 39 moles of "dry" air per cubic meter. The weight of this air is <m>39 \textrm{ moles} \times 29 \textrm{ grams/mol}=1131 \textrm{ g}</m>. In other words, there is about 1.13 kg of dry air and 18 g of water vapor per cubic meter. So the specific humidity is <m>18 \textrm{ g}/ 1.13 \textrm{ kg} = 15.9</m> grams of water per kilogram of dry air.
+</answer>
+</example>
+
+<p> Throughout ENVR 202, we will typically adopt the approach of using the saturation vapor pressure for considerations of humidity and condensation. As we will see, there are a number of practical advantages to this approach:
+<ul>
+<li>the water content (in mbar) can be readily found from the dewpoint temperature, which is widely reported by weather stations and in forecasts</li> 
+<li>comparison of the saturation vapor pressure at the dewpoint with that of the current air temperature provides one of the simplest methods for calculating relative humidity</li>
+<li>the consideration of the saturation vapor pressure can be used to determine the lifting condensation level (the altitude at which clouds will begin to form)</li>
+
+</ul>
+ 
+
+</p>
+
+</section>
+
+<section xml:id="cloud-formation">
+<title>Cloud formation processes</title>
+<p>
+The behavior of water with changing temperature is key to understanding cloud formation:
+<ul>
+<li>as air cools, the relative humidity increases. If cooled sufficiently, the dewpoint is reached and <m>\phi=100\%</m>, driving condensation</li>
+<il>can have condensation at lower humidity with the *solute effect*: where dissolved salt attracts water molecules, lowering the vapor pressure</il>
+<li>the <term>curvature effect</term> makes it easier for water molecules to evaporate from a small droplet</li>
+</ul>
+
+
+<p>Droplets form around particles via <term>nucleation</term>.</p>
+<ul>
+<li><em>homogeneous nucleation</em>: formed only by water molecules (need very low temperature and high humidities)</li>
+<li><em>heterogeneous nucleation</em>: particles &amp; aerosol serve as <em>condensation nuclei</em> for water droplets</li>
+<li><em>ice nuclei</em> are particles around which ice crystals form, which occurs with specific molecular orientation</li>
+</ul>
+<p>Note that <em>fog</em> can be thought of as a surface cloud, formed by condensation out of saturated atmosphere. There are different ways this can occur:</p>
+<ul>
+<li><em>radiation fog</em> forms following nights where significantly surface cooling has occurred, raising the relative humidity of the air to saturation (can occur w/inversion)</li>
+<li><em>advection fog</em> occurs when warm, humid air flows over a colder surface, causing the air to cool to saturation.</li>
+<li><em>evaporation or steam fog</em> occurs when warm water evaporates into the air</li>
+</ul>
+
+</p>
+
+<p>But what about cloud formation? Generally need a mechanism for air to ascend. There are different ways this might occur:</p>
+<ul>
+<li>orographic lifting (upslope flow)</li>
+<li>frontal lifting</li>
+<li>thermal convection</li>
+<li>convergence</li>
+</ul>
+<p>The extent of lifting and the possibility of cloud formation depend upon the temperature and relative humidity of the rising air, and upon the environmental conditions of the atmosphere for that time and location.</p>
+
+
+</section>
+
+<section xml:id="atmospheric-stability">
+<title>Atmospheric stability</title>
+
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/parcels"/></p>
+
+<p>Warm parcels of air will ascend through the atmosphere, but cool as they ascend. Whether they will continue to rise or subside depends upon the stability of the atmosphere.</p>
+<ul>
+<li>the <em>environmental lapse rate</em> (ELR) describes the actual atmospheric temperature change with altitude at a specific time and location</li>
+<li>the <em>dry adiabatic lapse rate</em> (DALR) describes how a dry parcel of air (that is, a parcel where no condensation is occurring) will cool as it rises and expands. The DALR is typically <m>10^\circ</m> C/km.</li>
+<li>the <em>wet adiabatic lapse rate</em> (SALR) describes how quickly a saturated parcel of air (where condensation is occurring) will cool as it rises and expands. The SALR is typically <m>6^\circ</m> C/km.</li>
+</ul>
+<p>In other words, the SALR is lower than the DALR because the condensation of water releases latent heat to the surroundings. Saturated air thus tends to demonstrate more buoyancy than dry air.</p>
+<p>Whether or not the atmosphere is stable depends upon the relative values of ELR, DALR, and SALR. The atmosphere is</p>
+<ul>
+<li><term>absolutely unstable</term> if DALR&lt;ELR; in other words, even a dry parcel will cool more slowly than the surrounding environment and thus remain warmer (and more buoyant) than the surrounding atmosphere</li>
+<li><term>absolutely stable</term> if ELR&lt;SALR; in other words, even a saturated parcel will cool more quickly than the surrounding environment and thus subside</li>
+<li><term>conditionally unstable</term> if SALR&lt;ELR&lt;DALR where saturated parcels will keep rising but dry parcels will subside</li>
+</ul>
+<p>To summarize, the basic steps for cloud formation are:</p>
+<ul>
+<li>lifting of air (via free convection or forced convection)</li>
+<li>as the air rises, the temperature decreases</li>
+<li>as the temperature decreases, the relative humidity increases</li>
+<li>the relative humidity reaches 100%</li>
+</ul>
+
+</section>
+
+<section xml:id="atmospheric-precipitation">
+<title>Formation of precipitation</title>
+
+<p>Most condensed droplets and ice crystals in a cloud are too small to fall through the atmosphere (and would rapidly evaporate): condensed droplets are typically on the order of 10-20 microns.</p>
+<p>Rain droplets form primarily through <em>collision-coalescence</em> where droplets collide and merge until heavy enough to fall through the atmosphere (100s microns)</p>
+<p>Ice crystals can grow by accretion around nuclei or aggregation of ice crystals.</p>
+<p>The <em>Bergeron-Wegener Process</em> can occur if a cloud contains both liquid water and ice. Because the vapor pressure is greater over water than ice (that is, it is easier for water molecules to evaporate from the liquid), the ice can grow at the expense of the liquid. This can lead to rapid growth of ice crystals in the cloud.</p>
+<p>There are different types of precipitation:</p>
+<ul>
+<li><em>rain</em>: the precipitations reaches the surface while staying in the liquid phase (it may begin as ice higher in the atmosphere)</li>
+<li><em>snow</em>: the precipitation falls as ice/snow crystals all the way from the cloud to the surface</li>
+<li><em>freezing rain</em>: the precipitation falls as a liquid for part of its descent, but low surface temperatures cause the rain to freeze on contact. This is often associated with an inversion.</li>
+<li><em>sleet</em>: the precipitation falls as a liquid for part of its descent, but freezes into ice pellets before reaching the surface. This is often associated with an inversion.</li>
+</ul>
+
+</section>
+
+<section xml:id="cloud-types">
+<title>Cloud classification</title>
+
+<p>The classification scheme first developed by Luke Howard in 1803 is still generally applied today. Clouds are classified by their form (vertical extent) and by their altitude.</p>
+<p><em>Form</em></p>
+<ul>
+<li>cirro- (wispy)</li>
+<li>strato- (layered)</li>
+<li>cumulo- (convective)</li>
+<li>nimbo- (precipitating)</li>
+</ul>
+<p><em>Altitude</em></p>
+<ul>
+<li>high (cirro-): cirrus, cirrostratus, cirrocumulus</li>
+<li>middle (alto-): altocumulus, altostratus, nimbostratus</li>
+<li>low: cumulus, stratus, stratocumulus, cumulonimbus</li>
+</ul>
+
+<table xml:id="tab_cloud_types">
+  <title>Cloud types </title>
+  <tabular halign="left">
+    <row bottom="minor" >
+      <cell><term>altitude</term></cell>
+      <cell><term>vertical</term></cell>
+      <cell><term>layered</term></cell>  
+      <cell><term>mixed/other</term></cell> 
+      <cell><term>precipitating</term></cell>         
+    </row>
+    <row>
+      <cell>high</cell>
+      <cell>cirrocumulus</cell>
+      <cell>cirrostratus</cell>  
+      <cell>cirrus</cell> 
+      <cell>--</cell> 
+    </row>
+    <row>
+      <cell>middle</cell>
+      <cell>altocumulus</cell>
+      <cell>altostratus</cell>  
+      <cell>--</cell> 
+      <cell>nimbostratus</cell> 
+    </row>
+    <row bottom="minor">
+      <cell>low</cell>    
+      <cell>cumulus</cell>
+      <cell>stratus</cell>
+      <cell>stratocumulus</cell>  
+      <cell>cumulonimbus</cell> 
+    </row>
+  </tabular>
+</table>
+
+</section>
+
+
+
+</chapter>

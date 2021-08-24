@@ -1,0 +1,114 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--********************************************************************
+Copyright 2015 Robert A. Beezer
+
+This file is part of MathBook XML.
+
+MathBook XML is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 or version 3 of the
+License (at your option).
+
+MathBook XML is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
+*********************************************************************-->
+<!-- This file was originally part of the book     -->
+<!-- (as copied on 2015/07/12)                     -->
+<!--                                               -->
+<!--   Abstract Algebra: Theory and Applications   -->
+<!--                                               -->
+<!-- Copyright (C) 1997-2014  Thomas W. Judson     -->
+
+<chapter xml:id="global_wind" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<!-- % TWJ, 2010/03/31 -->
+<!-- % Chapters now begin with Chapter 1 -->
+
+<title>Global circulation and oceanography</title>
+
+<section xml:id="global_winds">
+<title>Global wind patterns</title>
+
+<subsection>
+<title>Circulation scales</title>
+
+<ul>
+<li><term>microscale</term> (&lt;1 km in size): PGF, CEN, friction (cumulus clouds, parcels)</li>
+<li><term>mesoscale</term> (1-1000 km): PGF, CEN, friction, Cor (thunderstorms, fronts)</li>
+<li><term>synoptic</term> scale (&gt;1000 km): geostrophic balance (mid-latitude cyclones)</li>
+<li><term>planetary</term> scale (10,000 km): geostrophic balance (atmospheric circulation cells; prevail over longer timescales)</li>
+</ul>
+
+</subsection>
+
+<subsection xml:id="circulation_models">
+
+<title>Circulation models</title>
+
+<ul>
+<li><em>model</em>: simplified description of a complex system</li>
+<li>used to explain and predict observations using cause-and-effect relationships</li>
+</ul>
+<p>Any circulation model for the Earth should be able to explain:</p>
+<ul>
+<li>steady and calm winds observed by mariners</li>
+<li>Regions that lack winds</li>
+<li>Global patterns of cloudiness</li>
+<li>Midlatitude cloud patterns</li>
+<li>Global patterns of precipitation</li>
+<li>Jet streams</li>
+</ul>
+<p><em>Global Circulation on Non-Rotating Earth</em></p>
+<ul>
+<li><em>single cell circulation</em> (Hadley model)</li>
+<li>contrast in temperatures between the poles and the equator creates a large convection cell in both hemispheres.</li>
+</ul>
+<p><em>Global Circulation on Rotating Earth</em></p>
+<ul>
+<li><p>three-cell circulation: Hadley, Ferrel, and Polar cells</p></li>
+<li><p>Coriolis effect deflects flow, poleward flows cool and sink</p></li>
+<li><p>Not all cells are <strong>meridional</strong> (N-S motion), there are also <strong>zonal</strong> cells (E-W motion)</p>
+<ul>
+<li>For example, <em>Walker circulation</em> is the zonal component of a Hadley cell</li>
+<li>this behavior is observed in El Nino Southern Oscillaiton</li>
+</ul></li>
+</ul>
+</subsection>
+
+<subsection xml:id="earth_circulation">
+<title>Observed circulation patterns</title>
+
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/circ"/></p>
+
+<p>Global Circulation Model: Observation</p>
+<ul>
+<li>tropical <strong>trade</strong> winds converging in <em>Intertropical convergence zone</em> (ICTZ) (region of the <strong>doldrums</strong>)</li>
+<li>midlatitude <strong>westerlies</strong> encounter the <strong>polar easterlies</strong> along the <strong>polar front</strong></li>
+</ul>
+<p><em>Idealized zonal pressure belts:</em></p>
+<ul>
+<li>The equatorial low is an intertropical convergence zone (ITCZ).</li>
+<li>Subtropical highs (STH) are high-pressure zones in the belts about 20°–35° latitude on either side of the equator.</li>
+<li>Polar highs near the Earth’s poles are where the polar easterlies originate.</li>
+</ul>
+<p><em>Monsoons</em></p>
+<ul>
+<li>seasonal reversal of winds; generally driven by pressure differences.</li>
+<li>The Asian monsoon, which affects India and its surrounding areas, China, Korea, and Japan.</li>
+<li>The North American monsoon occurs in the southwestern U.S. and northwestern Mexico: this monsoon is driven by the extreme temperatures, which generate a low-pressure center over Arizona and results in a circulation pattern that brings moist air from the Gulf of California and from the Gulf of Mexico, to a lesser degree.</li>
+</ul>
+<p><em>Cloud and Precipitation</em> patterns also show clear trends related to planetary circulation</p>
+
+</subsection>
+
+
+</section>
+
+
+</chapter>

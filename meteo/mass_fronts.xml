@@ -1,0 +1,99 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--********************************************************************
+Copyright 2015 Robert A. Beezer
+
+This file is part of MathBook XML.
+
+MathBook XML is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 or version 3 of the
+License (at your option).
+
+MathBook XML is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
+*********************************************************************-->
+<!-- This file was originally part of the book     -->
+<!-- (as copied on 2015/07/12)                     -->
+<!--                                               -->
+<!--   Abstract Algebra: Theory and Applications   -->
+<!--                                               -->
+<!-- Copyright (C) 1997-2014  Thomas W. Judson     -->
+
+<chapter xml:id="mass_fronts" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<!-- % TWJ, 2010/03/31 -->
+<!-- % Chapters now begin with Chapter 1 -->
+
+<title>Air masses and fronts</title>
+
+<section xml:id="air_masses">
+<title>Air masses</title>
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/airmass"/></p>
+
+<p>An <term>air mass</term> is a large body of air characterized by temperature and humidity, properties that are largely inherited from the air mass source region:</p>
+<ul>
+<li> <em>Humidity:</em> continental or maritime</li>
+<li> <em>Temperature:</em> arctic, polar, or tropical</li>
+</ul>
+<p>These parameters can be combined to yield cP, mP, cT, mT, and cA air masses. Note that arctic air masses are always dry (there is no "mA" air mass), and are also very stable. These combinations are summarized in the following table:</p>
+
+<table xml:id="tab_air_masses">
+  <title>Properties of air masses </title>
+  <tabular halign="left">
+    <row bottom="minor" >
+      <cell><term></term></cell>    
+      <cell><term>arctic</term></cell>
+      <cell><term>polar</term></cell>
+      <cell><term>tropical</term></cell>         
+    </row>
+    <row>
+      <cell><term></term></cell>
+      <cell><em>very cold</em></cell>
+      <cell><em>cold</em></cell>
+      <cell><em>warm</em></cell> 
+    </row>
+    <row>
+      <cell><term>continental</term></cell>
+      <cell>v cold, dry (cA)</cell>
+      <cell>cold, dry (cP)</cell>
+      <cell>hot, dry (cT)</cell>   
+    </row>
+    <row bottom="minor">
+      <cell><term>marine</term></cell>
+      <cell>v cold, dry (cA)</cell>
+      <cell>cool, humid (mP)</cell>
+      <cell>warm, humid (mT)</cell>    
+    </row>
+  </tabular>
+</table>
+
+<p>Air masses are not static and may undergo <em>air mass modification</em> as they travel (advect) over the surface, via heat/moisture exchange and/or lifting.</p>
+<p>A prime example of modification is <em>lake-effect snow</em>, during which a cold air masses moves over (relatively) warmer water.</p>
+
+</section>
+
+<section xml:id="fronts">
+<title>Fronts</title>
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/wxmaps"/></p>
+
+<p>The boundaries between air masses are known as <term>fronts</term>. Because they divide air masses with different properties, the passage of the front is usually associated with a change in the weather. There are different types of fronts:</p>
+<ul>
+<li><term>cold front:</term> colder air follows the front's passage; cold air generally moves faster and underneath warmer air. This usually leads to a relatively abrupt zone of lifting and cumuloform clouds</li>
+<li><term>warm front:</term> warmer air follows the front's passage; warm air usually slides over the colder air mass relatively gradually. This leads to a gradual sequence of cloud types and longer-term precipitation.</li>
+<li><term>stationary front:</term> little horizontal movement along front</li>
+<li><term>occluded front:</term> when a faster-moving (usually cold) front overtakes a slower warm front; a <em>cold occlusion</em> is when the new air mass is more stable than what it is replacing whereas a <em>warm occlusion</em> is when the new air mass is less stable than what it is replacing;
+</li>
+<li><term>dryline:</term> a frontal boundary based upon moisture &amp; wind instead of temperature (e.g., cT and mT air over Texas): huge difference in dewpoint</li>
+</ul>
+<p>The movement of fronts is closely tied to general cyclonic and anti-cyclonic circulation patterns. The low-pressure systems in particular can develop into large, strong storms known as <term>mid-latitude cyclones</term>.</p>
+
+</section>
+
+
+</chapter>

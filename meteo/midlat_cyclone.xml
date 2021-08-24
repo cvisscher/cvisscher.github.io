@@ -1,0 +1,67 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--********************************************************************
+Copyright 2015 Robert A. Beezer
+
+This file is part of MathBook XML.
+
+MathBook XML is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 or version 3 of the
+License (at your option).
+
+MathBook XML is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
+*********************************************************************-->
+<!-- This file was originally part of the book     -->
+<!-- (as copied on 2015/07/12)                     -->
+<!--                                               -->
+<!--   Abstract Algebra: Theory and Applications   -->
+<!--                                               -->
+<!-- Copyright (C) 1997-2014  Thomas W. Judson     -->
+
+<chapter xml:id="midlat_cyclone" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<!-- % TWJ, 2010/03/31 -->
+<!-- % Chapters now begin with Chapter 1 -->
+
+<title>The mid-latitude cyclone</title>
+
+<section xml:id="midlat_origins">
+<title>Cyclogenesis</title>
+
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/cyclone"/></p>
+
+<p>How do fronts move? Often connected to pressure lows known as <em>midlatitude cyclones</em> (or extratropical cyclone); Benjamin Franklin correctly determined that the surface winds of a storm system were only incidental to the forward movement of the storm;</p>
+
+<p><term>Norwegian Cyclone Model</term>:</p>
+<p>First proposed by Jack Bjerknes in the 1920s (Bergen, Norway).</p>
+<p><em>Note</em>: we now understand that upper-air conditions must be favorable; this is more likely to develop just east of a trough (where we have diffluence).</p>
+<ul>
+<li>low pressure develops along a stationary frontal boundary: specifically, the "polar front" dividing mid-latitude air masses from colder polar air masses. Idealized would be mT and cP air masses.</li>
+<li>the birth of a cyclone is the formation of a frontal wave: a slight bend in the front; warm air tends to move northward and cold air moves southward around a developing pressure low</li>
+<li>the wave intensifies and the two fronts become better organized in an open wave pattern</li>
+<li>the wave becomes a mature low pressure center with cyclone flow; because the cold front moves faster than the warm front, it will overtake it and produce an occluded front</li>
+<li>eventually the occlusion increases and the cold air cuts off the supply of warm air completely from the low pressure center, leading to dissipation</li>
+</ul>
+<p>All of this takes place over the course of several days as the entire cyclone moves eastward</p>
+<p><em>Some Examples of common types…</em></p>
+<ul>
+<li><p>Alberta Clippers</p>
+<ul>
+<li><em>fast moving</em> and usually don't have too much precip associated with them because they are far from a moisture source</li>
+</ul></li>
+<li><p>Colorado Low</p>
+<ul>
+<li>intense low, with strong warm air advection in the warm sector, very cold temps in the cold sector. If there is a lot of gulf moisture to work with, they there is usually sleet, freezing rain and rain associated with the warm front, strong thunderstorms along the southern edge of the cold front and snow along the backside and to the NW of the Low (even blizzards)</li>
+</ul></li>
+</ul>
+
+</section>
+
+</chapter>

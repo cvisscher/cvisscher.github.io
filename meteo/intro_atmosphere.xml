@@ -1,0 +1,412 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--********************************************************************
+Copyright 2015 Robert A. Beezer
+
+This file is part of MathBook XML.
+
+MathBook XML is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 or version 3 of the
+License (at your option).
+
+MathBook XML is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
+*********************************************************************-->
+<!-- This file was originally part of the book     -->
+<!-- (as copied on 2015/07/12)                     -->
+<!--                                               -->
+<!--   Abstract Algebra: Theory and Applications   -->
+<!--                                               -->
+<!-- Copyright (C) 1997-2014  Thomas W. Judson     -->
+
+<chapter xml:id="intro_atmosphere" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<!-- % TWJ, 2010/03/31 -->
+<!-- % Chapters now begin with Chapter 1 -->
+
+<title>Intro to the atmosphere</title>
+
+<section xml:id="atmospheric-context">
+<title>Earth's atmosphere in context</title>
+
+<p>It is important to recognize that the atmosphere is not isolated from other Earth systems, and we can consider interactions between the and <em>geosphere</em>, <em>hydrosphere</em>, <em>atmosphere</em>, <em>biosphere</em>.</p>
+
+<p>The <term>geosphere</term> is the solid rocky mass of the Earth and provides the lower boundary to the atmosphere and oceans (which cover 71% of the area of the Earth). As a whole, planet Earth has a average radius of 6371 km and a mass of 6x10<sup>24</sup> kg. This provides clues to its bulk composition: an iron core surrounded by a large silicate (rocky) mantle.</p>
+
+<p>The <term>hydrosphere</term> consists of the water inventory of the Earth, making up about 0.03% of the Earth's mass. The water of the Earth is distributed into 97% oceans and 3% freshwater; only about 0.001% of the Earth's water is present in the atmosphere. Of the freshwater inventory, less than 1% is found in surface lakes and rivers; most freshwater is present in glaciers (70%) or groundwater (30%).</p>
+
+<p>The <term>atmosphere</term> is a thin layer of air (a mixture of different gases) above the Earth's surface. The mass of atmosphere is about one-millionth of the total mass of the Earth. The atmosphere is also relatively thin, and over 99% of the atmosphere's mass is found below an altitude of 30 km (19 miles)</p>
+
+<p>The <term>biosphere</term> consists of all plant and animal life on the planet. The biosphere is closely connected to the atmosphere through the processes of photosynthesis and respiration.</p>
+
+<p>
+The relative masses of each of these systems is summarized in the table below:
+</p>
+
+<table xml:id="tab_earth_systems">
+  <title>Earth systems </title>
+  <tabular halign="left">
+    <row bottom="minor" >
+      <cell><b>System</b></cell>
+      <cell><b>Mass (kg)</b></cell>
+    </row>
+    <row>
+      <cell>Geosphere</cell>
+      <cell><m>6.0\times 10^{24}</m></cell>
+    </row>
+    <row>
+      <cell>Hydrosphere</cell>
+      <cell><m>1.7\times 10^{21}</m></cell>
+    </row>
+    <row>
+      <cell>Atmosphere</cell>
+      <cell><m>5.0\times 10^{18}</m></cell>
+    </row>
+    <row bottom="minor" >
+      <cell>Biosphere</cell>
+      <cell><m>1.0\times 10^{16}</m></cell>
+    </row>
+  </tabular>
+</table>
+
+</section>
+
+<section xml:id="atmospheric-composition">
+<title>Composition of the atmosphere</title>
+
+<p>
+NOAA Jetstream: <url href="https://www.weather.gov/jetstream/atmos_intro"/>
+</p>
+
+<p>Although hundreds of species are present in the Earth's atmosphere, it mostly consists of nitrogen and oxygen, along with argon, water, and carbon dioxide.</p>
+
+				<table xml:id="tab_atmo_composition">
+					<title>Composition of Earth's atmosphere</title>
+					<tabular>
+					<row bottom="minor">
+						<cell halign="left">Component</cell>
+						<cell halign="left">Formula</cell>
+						<cell halign="left">Abundance</cell>
+					</row>
+					<row class="odd">
+						<cell halign="left">Nitrogen</cell>
+						<cell halign="left">N<m>_2</m></cell>
+						<cell halign="left">78.1%</cell>
+					</row>
+					<row class="even">
+						<cell halign="left">Oxygen</cell>
+						<cell halign="left">O<m>_2</m></cell>
+						<cell halign="left">20.9%</cell>
+					</row>
+					<row class="odd">
+						<cell halign="left">Argon</cell>
+						<cell halign="left">Ar</cell>
+						<cell halign="left">0.9%</cell>
+					</row>
+					<row class="even">
+						<cell halign="left">Water</cell>
+						<cell halign="left">H<m>_2</m>O</cell>
+						<cell halign="left">up to 4%</cell>
+					</row>
+					<row class="odd">
+						<cell halign="left">Carbon Dioxide</cell>
+						<cell halign="left">CO<m>_2</m></cell>
+						<cell halign="left">400 ppm</cell>
+					</row>
+					<row class="even">
+						<cell halign="left">Methane</cell>
+						<cell halign="left">CH<m>_4</m></cell>
+						<cell halign="left">2 ppm</cell>
+					</row>
+					<row class="odd">
+						<cell halign="left">Nitrous Oxide</cell>
+						<cell halign="left">N<m>_2</m>O</cell>
+						<cell halign="left">300 ppb</cell>
+					</row>
+					<row class="even">
+						<cell halign="left">Ozone</cell>
+						<cell halign="left">O<m>_3</m></cell>
+						<cell halign="left">10-100 ppb</cell>
+					</row>
+					<row class="odd" bottom="minor">
+						<cell halign="left">Halocarbons</cell>
+						<cell halign="left">CFCs, etc</cell>
+						<cell halign="left">2 ppb total</cell>
+					</row>
+					</tabular>
+				</table>
+				
+				
+				<p> Aerosols - suspended particles in the atmosphere - also play an important role for assessing air quality and act as <em>condensation nuclei</em> in the formation of clouds. </p>		
+				
+				<p>As we shall see, the principal <term>greenhouse gas</term> is water vapor. Carbon dioxide, methane and other trace gases have increased since the Industrial Revolution, especially in the twentieth century due to the combustion of fossil fuels, industrial processes and other anthropogenic effects. The stratospheric ozone concentration has decreases, largely through human use of chlorofluorocarbons (CFFc). The Montreal Protocol treaty of 1987 has helped phase out the use of ozone-depleting substances.</p>		
+
+</section>
+
+<section xml:id="atmospheric-evolution">
+<title>Evolution of the atmosphere</title>
+
+<p>
+					There is evidence that the atmosphere has <em>not</em> always possessed its present-day composition, but has evolved over geological timescales. Most significant is the appearance of oxygen as a major atmospheric component. The atmosphere of the has thus traditionally been called a <em>second atmosphere</em> in contrast to a hydrogen-rich <em>primary atmosphere</em> originally inherited from its time of formation. Broadly speaking, the history of the Earth's atmosphere is as follows:
+				</p>
+
+				<p><ul>
+					<li>
+					initial primordial atmosphere inherited from from formation; this atmosphere is rich in hydrogen and helium, light gases that readily lost to atmospheric escape;
+					</li>
+
+					<li>
+					over time, gases such as N<m>_2</m>, CO<m>_2</m>, and H<m>_2</m>O build up via volcanic outgassing;
+					</li>
+
+					<li>
+					with the advent of photosynthetic life, the amount of oxygen begins to increase; the rapid rise in the oxygen abundance (around 2.3 Ga) is known as the Great Oxygenation Event;
+					</li>
+
+					<li>
+					throughout this history, the removal of CO<m>_2</m> into carbonate sediments and rocks allows the build up of oxygen (and explains the relative lack of carbon dioxide in the Earth's atmosphere);
+					</li>
+
+				</ul></p>
+
+				<p>It should be noted that the presence of oxygen is highly unusual, and tied to the presence of life via photosynthesis and respiration:
+				
+					<m>6\textrm{CO}_2+6\textrm{H}_2\textrm{O}\xrightarrow{h\nu} \textrm{C}_{6}\textrm{H}_{12}\textrm{O}_6+6\textrm{O}_2</m>
+				</p>
+
+				<p>
+					<m>\textrm{C}_{6}\textrm{H}_{12}\textrm{O}_6+6\textrm{O}_2\longrightarrow 6\textrm{CO}_2+6\textrm{H}_2\textrm{O}</m>
+				</p>
+
+				<p>
+					These reactions can be used to summarize the main interaction between the atmosphere and the biosphere.
+				</p>
+
+</section>
+
+<section xml:id="atmospheric-structure">
+				<title>Structure of the atmosphere</title>
+
+<subsection xml:id="ss_pressure_density">
+<title>Pressure and density</title>
+
+<p>NOAA Jetstream:<url href="https://www.weather.gov/jetstream/pressure"/></p>
+
+
+				<p>
+					The atmosphere is bound to the Earth by <em>gravity</em>. As a result, atmospheric density and pressure are highest at surface and decreases (exponentially) with increasing altitude. The rate of change depends upon the force of gravity, temperature, the molecular weight of the gas(es).
+				</p>
+
+				<p>
+					Planetary atmospheres are in hydrostatic equilibrium. This means that gravity and pressure are in balance (in other words, the atmosphere does not escape into space nor does it collapse onto the surface of the planet).
+				</p>
+
+				<p>
+					Assuming hydrostatic equilibrium, we can determine the pressure at some altitude <m>z</m> by the relationship:
+				</p>
+
+				<p>
+					<m>P(z)=P_o e^{(-z/H)}</m>
+				</p>
+
+				<p>
+					where <m>P_o</m> is the initial pressure, <m>z</m> is the altitude, and <m>H</m> is the <term>scale height</term> defined as
+				</p>
+
+				<p>
+					<m>H={RT}/{\mu g}</m>
+				</p>
+
+				<p>
+					where <m>R=8.314</m> J/K-mol, <m>g=9.8</m> m/s<m>^2</m>, <m>T=273</m> K, and <m>\mu=28.9</m> g/mol (reflective of the molecular weights and proportions of nitrogen and oxygen). This yields a scale height of about 8 km in the troposphere. The scale height is a useful term in atmospheric science because it tells us how rapidly the pressure decreases with changes in altitude. A similar relation likewise tells us how the atmospheric <em>density</em> varies with altitude:
+				</p>
+				
+				<p><m> \rho = \rho_o e^{(-z/H)} </m></p>
+
+
+				<p>
+					This pressure-altitude relation can also be used to estimate the fraction of the atmosphere above/below a certain level. For example, Denver has an elevation of 5280 ft above sea level (1.609 km), so we can estimate the average pressure at this elevation:
+				</p>
+
+				<p>
+					<m>P(1.609 \textrm{ km})=(1 \textrm{ atm})(e^{(-1.609\textrm{ km}/8 \textrm{ km})}=0.82</m> atm
+				</p>
+
+		<p> In other words, the surface pressure at Denver is about 82% that at sea level. This explains (among other things) why water boils at a lower temperature in Denver than in Sioux Center. This relation can be used to explore other questions about pressure-related phenomena, as shown in the following examples.</p> 
+
+				<p>
+					<example>Using an average tropospheric scale height of 8 km, how high would we have to go for 50% of the atmosphere to be below us?</example>
+				</p>
+
+				<p>
+					<example> The summit of Mt. Everest has an elevation of 8.8 km. Assuming an average tropospheric scale height of 8 km, what is the estimated pressure on the summit of Mt. Everest?</example>
+				</p>
+
+				<p>
+					Note that different units are used for pressure. The units adopted are mostly a reflection of the instrument or method used for measurement:
+				</p>
+				
+				
+		<table xml:id="tab_atmo_pressure">
+					<title>Units of pressure (1 atm is equal to...)</title>
+					<tabular>
+					<row bottom="minor">
+						<cell halign="left">unit</cell>
+						<cell halign="left">value</cell>
+					</row>
+					<row>
+						<cell halign="left">atmosphere (atm)</cell>
+						<cell halign="left">1</cell>
+					</row>	
+					<row>
+						<cell halign="left">Pascal (Pa)</cell>
+						<cell halign="left">101325</cell>
+					</row>	
+					<row>
+						<cell halign="left">bar</cell>
+						<cell halign="left">1.01325</cell>
+					</row>	
+					<row>
+						<cell halign="left">mm of Hg (Torr)</cell>
+						<cell halign="left">760</cell>
+					</row>			
+					<row>
+						<cell halign="left">inches of Hg (Torr)</cell>
+						<cell halign="left">29.92</cell>
+					</row>			
+					<row bottom="minor">
+						<cell halign="left">meters of water</cell>
+						<cell halign="left">10.3</cell>
+					</row>														
+																			
+					</tabular>
+					</table>
+				
+
+				<p>
+					An instrument known as a <term>barometer</term> is used to measure the pressure.
+				</p>
+
+</subsection>
+
+<section xml:id="ss_atmo_layers">
+<title>Atmospheric layers</title>
+
+				<p>
+					Pressure or temperature can be used to divide the atmosphere into layers. Near the surface, the temperature also decreases with increasing altitude in the atmosphere. The rate of change is known as the <term>lapse rate</term>, defined as:
+				</p>
+
+				<p>
+					<m>\Gamma=-\frac{\Delta T}{\Delta z}</m>
+				</p>
+
+				<p>
+					A typical lapse rate is 6.5 K/km (3 F/1000 ft) but depends upon the presence of water (and latent heat released from condensation); a typical dry lapse rate is about 10 K/km (5 F/1000 ft).
+				</p>
+
+<p>NOAA Jetstream:<url href="https://www.weather.gov/jetstream/layers"/></p>
+
+
+				<p>
+					<term><em>Troposphere</em></term>: closest to the Earth, where the temperature generally decreases with altitude, from 288 K at surface to 217 K at tropopause
+				</p>
+
+				<p><ul>
+					<li>
+					contains about 80% of the mass of the atmosphere
+					</li>
+
+					<li>
+					most <q>weather</q> occurs in troposphere
+					</li>
+
+					<li>
+					the top of the troposphere is the <em>tropopause</em>, a temperature <em>inversion</em>
+					</li>
+
+					<li>
+					the tropopause serves as upper lid on most weather patterns
+					</li>
+
+					<li>
+					the tropopause is typically 10 km in height, but varies and is generally higher in tropics (15-16 km) than at the poles (8-9 km)
+					</li>
+
+				</ul></p>
+
+				<question>
+If heat always rises, why does temperature decrease with height?
+<answer>
+				<p><ul>
+					<li>
+					the atmosphere is heated from the surface
+					</li>
+
+					<li>
+					air is subject to adiabatic cooling as it ascends
+					</li>
+
+				</ul></p>
+				</answer>
+
+				</question>
+
+
+				<p>
+					<term><em>Stratosphere</em></term>: where temperature increases with altitude
+				</p>
+
+				<p><ul>
+					<li>
+					ozone in the stratosphere absorbs incoming (primarily ultraviolet) solar energy; this absorption causes temperature increase
+					</li>
+
+					<li>
+					there is a relative lack of both mixing and turbulence - very stable with respect to vertical mixing because temperatures increase with altitude
+					</li>
+
+					<li>
+					the upper bound is known as the <em>stratopause</em>
+					</li>
+
+				</ul></p>
+
+				<p>
+					<term><em>Mesosphere</em></term>: where temperature again decreases with altitude; 
+					<ul>
+					<li>
+					the upper bound is known as the <em>mesopause</em>
+					</li>
+					</ul>
+					
+				</p>
+
+
+				<p>
+					 <term><em>Thermosphere</em></term>, where temperature increases with altitude again; 
+					 <ul>
+					 <li>the tropopause to thermosphere is sometimes called the middle atmosphere, 100 km and above is upper atmosphere</li>
+					 <li>At these upper layers, important distinction between <em>temperature</em> (average kinetic energy of gas particles) and <em>heat</em> (total thermal energy of the atmospheric gas)</li>
+					 <li>Above 100 km, cosmic radiation, solar X-rays and ultraviolet radiation increasingly affect the atmosphere, which cause ionization (and hence <term>ionosphere</term>)</li>
+					 </ul>
+
+				</p>
+
+				<p>
+					The atmosphere is a mixture of gases with constant proportions up to 80 km or more. The exceptions are ozone, which is concentrated in the lower stratosphere, and water vapor in the lower troposphere. The principal greenhouse gas is water vapor. Carbon dioxide, methane and other trace gases have increased since the Industrial Revolution, especially in the twentieth century due to the combustion of fossil fuels, industrial processes and other anthropogenic effects.
+				</p>
+				
+				</section>
+
+
+</section>
+
+
+
+</chapter>

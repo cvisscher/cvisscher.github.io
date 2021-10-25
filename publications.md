@@ -9,6 +9,8 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
+Karalidi, T., Marley, M., Fortney, J.J., Morley, C., Saumon, D., Lupu, R., **Visscher, C.**, Freedman, R. (2021) The Sonora Substellar Atmosphere Models. II. Cholla: A Grid of Cloud-free, Solar Metallicity Models in Chemical Disequilibrium for the JWST Era.  *Astrophysical Journal*, accepted. [ADS] (https://ui.adsabs.harvard.edu/abs/2021arXiv211011824K/abstract) [arXiv](https://arxiv.org/abs/2110.11824)
+
 Gonzales, E.C., Burningham, B., Faherty, J.K., **Visscher, C.**, Marley, M., Lupu, R., Freedman, R., Lewis, N.K. (2021) The first retrieval of a substellar subdwarf: A cloud-free SDSS J125637.13-022452.4. *Astrophysical Journal*, accepted. [ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210911000G/abstract) [arXiv](https://arxiv.org/abs/2109.11000) 
 
 Marley, M.S., Saumon, D., **Visscher, C.**, Lupu, R., Freedman, R., Morley, C., Fortney, J.J., Seay, C., Smith, A.J.R.W., Teal, D.J., Wang, R. (2021) The Sonora Brown Dwarf Atmosphere and Evolution Models I. Model Description and Application to Cloudless Atmospheres in Rainout Chemical Equilibrium. *Astrophysical Journal*, accepted. [ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv210707434M/abstract) [arXiv](https://arxiv.org/abs/2107.07434)<br/> 

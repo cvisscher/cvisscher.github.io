@@ -76,12 +76,15 @@ along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
 <li><p>Not all cells are <strong>meridional</strong> (N-S motion), there are also <strong>zonal</strong> cells (E-W motion)</p>
 <ul>
 <li>For example, <em>Walker circulation</em> is the zonal component of a Hadley cell</li>
-<li>this behavior is observed in El Nino Southern Oscillaiton</li>
+<li>this behavior is observed in El Nino Southern Oscillation (ENSO)</li>
 </ul></li>
 </ul>
 </subsection>
 
-<subsection xml:id="earth_circulation">
+</section>
+
+
+<section xml:id="earth_circulation">
 <title>Observed circulation patterns</title>
 
 <p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/circ"/></p>
@@ -105,10 +108,46 @@ along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
 </ul>
 <p><em>Cloud and Precipitation</em> patterns also show clear trends related to planetary circulation</p>
 
-</subsection>
+</section>
+
+<section xml:id="jet_stream">
+<title>The Jet Stream</title>
+
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/jet"/></p>
+
+<ul>
+<li>fast-flowing westerly current flowing between circulation cells</li>
+<li>200-250 mbar level, 100-400 mph</li>
+<li>essentially driven by geostrophic balance</li>
+<li>caused by temperature differences between air near equator and air near the pole</li>
+</ul>
+<p><em>Seasonal Variations</em></p>
+<ul>
+<li>migrates depending upon the season (along with other circulation cells)</li>
+<li>The polar jet stream is the more prevalent than subtropical jet</li>
+<li>It occurs along a major frontal zone, the polar front.</li>
+<li>The jet stream moves <em>faster</em> in winter.</li>
+<li>tends to migrate southward in the winter</li>
+</ul>
+<p><em>Rossby Waves</em></p>
+<ul>
+<li><p>The jet streams meander like rivers, producing a <em>wavelike pattern</em> of troughs and ridges</p></li>
+<li><p>The air flow through these waves results in storms that move warm air poleward and cold air toward the equator</p></li>
+<li><p>Each trough-ridge combination is called a Rossby wave</p></li>
+<li><p>Drift slowly eastward, with rising air near the troughs and sinking air near the ridges</p></li>
+<li><p>trough-ridge combinations at 500 mb level and higher</p></li>
+<li><p>characterized by <strong>wavelength</strong> and <strong>amplitude</strong></p></li>
+<li><p><em>important for development of surface systems!</em></p></li>
+<li><p>short waves (&lt;6000 km) may be embedded in long waves</p>
+<ul>
+<li>smaller-scale disturbances</li>
+<li>move relative to longwaves (20-40 mph eastward)</li>
+</ul></li>
+</ul>
 
 
 </section>
+
 
 
 </chapter>

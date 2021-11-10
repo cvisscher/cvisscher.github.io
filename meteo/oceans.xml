@@ -1,0 +1,95 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--********************************************************************
+Copyright 2015 Robert A. Beezer
+
+This file is part of MathBook XML.
+
+MathBook XML is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 or version 3 of the
+License (at your option).
+
+MathBook XML is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
+*********************************************************************-->
+<!-- This file was originally part of the book     -->
+<!-- (as copied on 2015/07/12)                     -->
+<!--                                               -->
+<!--   Abstract Algebra: Theory and Applications   -->
+<!--                                               -->
+<!-- Copyright (C) 1997-2014  Thomas W. Judson     -->
+
+<chapter xml:id="oceans" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<!-- % TWJ, 2010/03/31 -->
+<!-- % Chapters now begin with Chapter 1 -->
+
+<title>Ocean-atmosphere interactions</title>
+
+<section xml:id="earth_water">
+<title>The Earth's water</title>
+
+<p>The <term>hydrosphere</term> represents the Earth's water inventory, which makes up about 0.03% of the total mass of the Earth. About 97% of this water is found in the oceans, and 3% in freshwater reservoirs. On average, about 0.001% of the Earth's water is present in the atmosphere.</p>
+
+<p>Of the Earth's freshwater inventory (3% of the hydrosphere), most is present in glacial ice (70%) or groundwater (30%), with less than 1% found in surface lakes and rivers. These surface sources thus represent just 0.0003% of the Earth's total water inventory.</p>
+
+<p> From an Earth systems  perspective, it is convenient to divide the water inventory into <term>reservoirs</term> of water with <term>fluxes</term> of material passing between them. This is the basis of the <term>water cycle</term>. The <term>residence time</term> of water in a given reservoir is the size of the reservoir divided by the total outward flux. This provides an indication of how long water resides in each reservoir, or how often this inventory is recycled:</p>
+<me>\textrm{residence time} = \frac{\textrm{reservoir}}{\textrm{outward flux}}</me>
+
+</section>
+
+<section xml:id="the_ocean">
+<title>The Oceans</title>
+
+<p>From a meteorological perspective, oceans:</p>
+<ul>
+<li>are the main source of atmospheric water vapor</li>
+<li>exchange energy with the atmosphere</li>
+<li>transfer heat poleward</li>
+</ul>
+
+<p><em>Ocean properties</em></p>
+<ul>
+<li>71% of the Earth's surface area</li>
+<li>Average depth of 3.8 km below sea level(average height of continents is 0.87 km above sea level)</li>
+<li>per 100g, contains 3.5g total salt (mostly chlorides with some sulfates)</li>
+</ul>
+
+<p><em>Geological context</em></p>
+<p>The <term>lithosphere</term> is the uppermost 100 km of the Earth that includes the crust and part of the upper mantle. The Earth is divided into numerous lithospheric plates that can move around relative to each other. In the context of plate tectonics, we find three main types of plate boundaries:</p>
+<ul>
+<li><em>divergent</em>: plates moving apart from each other. This type of boundary is constructive because new lithosphere must be added at the plate boundary. The best example of this type of boundary are the mid-ocean ridges found throughout the Earth's oceans, where new crust is added via volcanism.</li>
+<li><p><em>convergent</em>: plates moving toward each other. This type of boundary is referred to as destructive, because they require a decrease lithospheric plate area. Convergent boundaries can be further subdivided into</p>
+<ul>
+<li>oceanic-continental: involving the subduction of oceanic lithosphere below continental lithosphere (example: Andes Mountains).</li>
+<li>continental-continental: involving the collision of two continental plates. Neither will subduct, leading to mountain formation (example: Himalayas).</li>
+<li>oceanic-oceanic: involving the collision of two oceanic plates. Typically, the older and cooler plate will subduct beneath the younger (example: Aleutian Islands)</li>
+</ul></li>
+<li>transform: plates moving past each other. This type of boundary is referred to as conservative, because lithospheric plate area is neither created nor destroyed at the boundary. The best example of this type of boundary is the San Andreas fault in California.</li>
+
+</ul>
+
+<p><em>Oceanic provinces</em></p>
+<ul>
+<li>ocean basins may be bounded by active margins (at lithospheric plate boundaries) or passive margines (embedded within a lithospheric plate)</li>
+<li>the <term>continental shelf</term> is overlaid by sediment and slopes gradually out to shelf break and the <term>continental slope</term>. At the base of the continental slope is the <term>continental rise</term>.</li>
+<li>the <term>abyssal plains</term> are relatively flat depositional surfaces (more common on older ocean floors) and may be dotted with submarine volcanoes.</li>
+<li>the <term>mid-ocean ridges</term> are typically found near the centers of the ocean basins (classic example is the Atlantic Ocean) and form the world's largest mountain chains, typically rising 2.5 km above the abyssal plains.</li>
+<li><term>trenches</term> are found along active margins where subduction is occurring. Subduction also gives rise to volcanism on the overlying plate, forming a mountain chain such as the Andes Mountains or a volcanic island arc such as the Aleutian Islands.</li>
+</ul>
+
+
+
+
+
+</section>
+
+
+
+</chapter>

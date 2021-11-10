@@ -148,6 +148,89 @@ along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
 
 </section>
 
+<section xml:id="wave_patters">
+<title>Upper level wave patterns</title>
+
+<p>NOAA Jetstream: <url href="https://www.weather.gov/jetstream/basic"/></p>
+
+<p>A number of typical wave patterns found at the 500-mb "steering level" can be connected with surface weather phenomena. In generally, the waves can be described by the relative position of troughs and ridges that reflect the amplitude of upper level flow:</p>
+<ul>
+<li><p>small wave amplitude: more zonal (E-W) flow</p></li>
+<li><p>large wave amplitude: more meridional (N-S) flow</p></li>
+<li><p>split flow pattern: zonal near pole, meridional flow to the south</p></li>
+</ul>
+
+<p><em>Open wave pattern</em></p>
+<ul>
+<li>most common pattern seen in upper air charts are just plain troughs and ridges. These waves and troughs are considered &#39;open&#39; as, for the most part; no closed circulation associated with the waves.</li>
+<li>progressive meaning they move from west to east. Low-pressure troughs are identified by brown dashed lines while ridges of high pressure are identified by brown zigzag lines.</li>
+<li>inclement weather between the trough and the downwind (eastward) ridge; fair weather occurs between the ridge and the downwind trough.</li>
+</ul>
+<p><em>Positive tilted trough</em></p>
+<ul>
+<li>northeast to southwest in the Northern Hemisphere</li>
+<li>positive tilted troughs produce the least amount of severe weather</li>
+</ul>
+<p><em>Negative tilted trough</em></p>
+<ul>
+<li>northwest to southeast in the Northern Hemisphere</li>
+<li>potential for more severe weather (strong southerly surface wind with warm air underneath incoming cold air: very unstable conditions)</li>
+<li>relatively high wind shear that may favor supercell storms</li>
+</ul>
+<p><em>Zonal flow pattern</em></p>
+<ul>
+<li>When air flow is parallel (or nearly parallel) to the latitude lines then it is considered to be a zonal flow.</li>
+<li>Surface level storm systems, and associated cold fronts, move very fast from west to east in zonal flows but have very little north to south (or south to north) movement.</li>
+<li>locations to the pole-ward of a zonal flow remain cool or cold, while equator-ward, the weather remains mild or warm.</li>
+</ul>
+<p><em>Cut-off low (weatherman&#39;s woe)</em></p>
+<ul>
+<li>persistent low pressure area cut off from the main airflow (slow moving systems; difficult to model how long they will last)</li>
+</ul>
+<p><em>Blocking high</em></p>
+<ul>
+<li>center of high pressure over a region prevents other weather systems from moving through</li>
+<li>typically a summertime occurrence, responsible for major heat waves. Any precipitation is usually shunted around the periphery of the high-pressure area.</li>
+</ul>
+<p><em>Omega block</em></p>
+<ul>
+<li>two cutoff lows separated by blocking high: can lead to temperature extremes simultaneously over different regions</li>
+<li>Omega blocks get their name because the upper air pattern looks like the Greek letter omega (Ω). Omega blocks are a combination of two cutoff lows with one blocking high sandwiched between them.</li>
+<li>Because of their size, Omega blocks are often quite persistent and can lead to flooding and drought conditions depending upon one&#39;s location under the pattern. Cooler temperatures and precipitation accompany the lows while warm and clear conditions prevail under the high.</li>
+</ul>
+<p><em>Rex block</em></p>
+<ul>
+<li>high pressure system poleward of low pressure system</li>
+<li>characterized by a high-pressure system located pole-ward of a low-pressure system; will remain nearly stationary until one of the height centers changes intensity, unbalancing the pattern.</li>
+<li>Strong, particularly persistent Rex blocks can cause flooding near the low-pressure part of the block and short-term drought under the high-pressure part.</li>
+</ul>
+
+
+</section>
+
+<section xml:id="seasonal_global">
+<title>Seasonal variations</title>
+
+<p><strong>Global Circulation Model: Seasonal Variations</strong></p>
+<ul>
+<li>ITCZ, subtropical highs, and polar front all shift southward in NH winter and northward in NH summer</li>
+<li>Polar jet stream is displaced further poleward in summer in both hemispheres</li>
+<li>During summer the positions of the subtropical highs shift poleward</li>
+<li><p>Lows associated with the ITCZ shift seasonally as do the lows associated with the polar front</p>
+</li>
+<li><p>Monsoon development (again): connected to seasonal variations in large-scale circulation patterns:</p>
+</li>
+<li>ITCZ effectively moves up into Asia, causing shift in the direction of the trade winds around India</li>
+</ul>
+<p>Again, all of this is driven by changes in <strong>insolation</strong>. In general,</p>
+<ul>
+<li>the Earth loses more energy (longwave) at the equator than at the poles, </li>
+<li>but gains much more energy (shortwave) at the equator than at the poles</li>
+</ul>
+
+<p>This situation creates an energy imbalance that requires a &quot;poleward&quot; transfer of heat. This heat is transferred by the ocean and the atmosphere.</p>
+
+</section>
 
 
 </chapter>

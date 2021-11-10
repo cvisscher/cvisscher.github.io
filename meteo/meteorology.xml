@@ -86,7 +86,8 @@ along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
             <xi:include href="./mass_fronts.xml"/>  
 			<xi:include href="./midlat_cyclone.xml"/>
 			<xi:include href="./severe_weather.xml"/>	
-			<xi:include href="./global_winds.xml"/>					                                
+			<xi:include href="./global_winds.xml"/>	
+			<xi:include href="./oceans.xml"/>								                                
             
         <!-- Many chapters removed from original AATA, here -->
 

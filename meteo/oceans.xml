@@ -84,8 +84,104 @@ along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
 <li><term>trenches</term> are found along active margins where subduction is occurring. Subduction also gives rise to volcanism on the overlying plate, forming a mountain chain such as the Andes Mountains or a volcanic island arc such as the Aleutian Islands.</li>
 </ul>
 
+</section>
 
 
+<section xml:id="ocean_sst">
+<title>Ocean temperatures</title>
+
+<p><em>Sea Surface Temperature (SST)</em></p>
+<p>The temperature of the ocean is reported as <term>Sea Surface Temperature (SST)</term>, typically measured a 1-3 meters below the surface (but as deep as 20 meters). Three distinct layers can be recognized in the thermal profile of the oceans:</p>
+<ul>
+<li>the <em>surface zone</em> or mixed layer (top 100 meters) that has the highest temperatures, and the largest variations in temperature as a function of altitude;</li>
+<li>the <em>thermocline</em>, a zone of rapidly decreasing temperatures with depth;</li>
+<li>the <em>deep zone</em> (below 1000 meters depth) where the temperature is consistently 1-3 C regardless of latittude</li>
+</ul>
+
+<p><em>Sea Surface Temperature Anomaly (SSTA)</em></p>
+<p> Another measure of ocean temperature is the <term>Sea Surface Temperature Anomaly (SSTA)</term>: which the difference between the nightime SST and the monthly mean nighttime SST based on climate observations over several years. In other words, the SSTA compares the current temperature to "normal" or expected temperatures for a given time of year. Unusually high SSTA values can lead to thermal stress of coral reefs and coral bleaching events.</p>
+
+<p><em>SST patterns</em></p>
+<p>A number of persistent SST patterns emerge from ocean observations:</p>
+<ul>
+<li><p>middle latitudes (and subtropics):</p>
+<ul>
+<li>western coasts are bordered by cool water</li>
+<li>eastern coasts are bordered by warm water</li>
+</ul></li>
+<li><p>tropical latitudes: western coasts bordered by warm water</p></li>
+<li><p>polar latitudes: eastern coasts bordered by cold water</p></li>
+</ul>
+<p>These temperature patterns can be explained by <term>ocean circulation</term> more generally:</p>
+<ul>
+<li>ocean current patterns generally resemble wind patterns</li>
+<li>global-scale wind patterns blow over large regions and push the ocean in the same direction as the wind</li>
+<li>a gyre is an ocean circulation that forms a closed loop across an ocean basin; these spin in the same direction as anticyclones, sending warm water poleward and cool water equatorward</li>
+<li>winds of subtropical highs tend to cause cold water to flow toward the equator along western coasts</li>
+</ul>
+
+<p><em>Ocean currents and the Ekman spiral</em></p>
+<ul>
+<li>friction between the air and the sea surfaces causes the air to move</li>
+<li>the Coriolis effect creates a tendency for the water to veer to the right (in the northern hemisphere) or the left (in the southern hemisphere)</li>
+<li>the movement of water influences the next layer of water underneath; this underlying layer will also experience a Coriolis tendency to turn</li>
+<li>over the column of water, a pattern emerges in the shape of a spiral</li>
+<li>the net result: water tends to move to the right (NH) or left (SH) in Ekman transport</li>
+</ul>
+
+<p><em>Circulation and upwelling</em></p>
+<p>Ocean currents can act to push surface water toward or away from the coast, which will tend to lead to downwelling or upwelling, respectively. This upwelling plays an important role in primary (biological) production, by bringing cold, nutrient-rich water to surface waters (where photosynthesis can play a larger role).</p>
+
+<p>Good examples of circulation-induced upwelling is along the  coast of California, where cold water moving down the coast has a tendency to veer right (west) and promote upwelling, or the Humboldt current along the west coast of South America, where the cold water moving along the coast has a tendency to veer left (west), promoting upwelling and (under normal conditions) maintaining a westward flow of cold water along the equatorial zone.</p>
+
+
+</section>
+
+<section xml:id="enso">
+<title>El Nino - Southern Oscillation (ENSO)</title>
+
+<p>Climate.gov <url href="https://www.climate.gov/enso"/></p>
+
+<p>The <term>El Nino - Southern Oscillation (ENSO)</term> is an irregular periodic variation in winds and sea surface temperatures over the tropical eastern Pacific Ocean. These variations shift the degree of cold upwelling that occurs along the South American coast, and are connected to larger cycles of periodic warming events connected to global climate.</p>
+
+<p>ENSO conditions are assessed by a range of methods, including</p>
+<ul>
+<li> SOI (Southern Oscillation Index): the difference in pressure between Tahiti and Darwin, Australia;</li>
+<li>the SST and SSTA patterns in the equatorial eastern Pacific</li>
+<li>the release of latent heat and outgoing radiation as precipitation patterns shift</li>
+<li>monitoring of sea level variations across the equatorial Pacific basin</li>
+</ul>
+
+
+<p><em>Normal ("cold") phase (+SOI)</em></p>
+<ul>
+<li>upwelling along South American coast</li>
+<li>strong trade winds in tropics</li>
+<li>high pressures in east-central Pacific (Tahiti &gt; Darwin or +SOI)</li>
+<li>cold water moving westward across equatorial Pacific</li>
+<li>piling up of water in the western Pacific</li>
+<li>dry conditions over east-central Pacific, wet conditions in western Pacific</li>
+<li>La Nina can be considered an unusually intense manifestation of this cold phase</li>
+</ul>
+
+<p><em>El-Nino ("warm") phase (-SOI)</em></p>
+<ul>
+<li>downwelling along South American coast</li>
+<li>weakened trade winds in tropics (or even some low-level westerly flow)</li>
+<li>low pressures in east-central Pacific (Tahiti &lt; Darwin or -SOI)</li>
+<li>warm water moving eastward across equatorial Pacific</li>
+<li>piling up of water in the eastern Pacific</li>
+<li>the entire Walker cell weakens and most eastward</li>
+<li>wetter conditions over east-central Pacific, dry conditions in western Pacific</li>
+<li>Hadley circulation strengthens; stronger subtropical jet stream</li>
+</ul>
+
+<p><em>Global climate and teleconnection</em></p>
+<ul>
+<li>the changes above influence weather and climate conditions over very large distances. These affects are sometimes referred to as climate <term>teleconnections</term>.</li>
+<li>El Nino conditions strengthen the subtropical jet and weaken the polar jet stream. This tends to lead to milder winters in the upper Midwest of the United States, and wetter conditions in the American southwest.</li>
+<li>La Nina conditions tend to strengthen the polar jet stream, tending to yield colder and more intense winters in the upper Midwest (i.e. we may find ourselves more often north of the polar front).</li>
+</ul>
 
 
 </section>

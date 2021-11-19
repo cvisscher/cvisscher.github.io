@@ -1,0 +1,356 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--********************************************************************
+Copyright 2015 Robert A. Beezer
+
+This file is part of MathBook XML.
+
+MathBook XML is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 or version 3 of the
+License (at your option).
+
+MathBook XML is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
+*********************************************************************-->
+<!-- This file was originally part of the book     -->
+<!-- (as copied on 2015/07/12)                     -->
+<!--                                               -->
+<!--   Abstract Algebra: Theory and Applications   -->
+<!--                                               -->
+<!-- Copyright (C) 1997-2014  Thomas W. Judson     -->
+
+<chapter xml:id="climate" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<!-- % TWJ, 2010/03/31 -->
+<!-- % Chapters now begin with Chapter 1 -->
+
+<title>Global climates</title>
+
+<section xml:id="climate_classification">
+<title>Climate Classification</title>
+
+<p>Climate is defined for a particular <em>location:</em></p>
+<ul>
+<li>Globe, continent, region, city</li>
+<li>Regional and global-scale climates</li>
+</ul>
+<p>and over a specified <em>time</em> interval:</p>
+<ul>
+<li>30 year average is normal</li>
+<li>100 years or longer for history of climate</li>
+</ul>
+<p>As for weather, climate consideres the averages and extremes of parameters that define the current state of the atmosphere:</p>
+<ul>
+<li>temperature</li>
+<li>precipitation</li>
+<li>pressure</li>
+<li>winds</li>
+</ul>
+<p>determined by</p>
+<ul>
+<li>latitude-dependent solar insolation</li>
+<li>elevation and topography</li>
+<li>proximity to large bodies of water</li>
+<li>prevailing atmospheric circulation patterns</li>
+</ul>
+
+</section>
+
+<section xml:id="koeppen">
+<title>Koeppen-Geiger Classification</title>
+<subsection>
+<title>General Scheme</title>
+<p>The <strong>Koppen-Geiger classification scheme</strong> was first developed in the late 19th century to describe global climates. It is based upon five main climate groups (A-E), based primarily upon temperature and precipitation patterns throughout the year. These generally correlate with global circulation patterns and latitudinal regions of convergence and divergence:</p>
+<ul>
+<li><p>First letter indicates global conditions</p><ul>
+<li>A = Tropical humid</li>
+<li>B = Dry</li>
+<li>C = Moist subtropical and midlatitude</li>
+<li>D = Severe midlatitude</li>
+<li>E = Polar</li>
+
+</ul>
+</li>
+<li><p>Second letter refers to whether and when a dry season occurs</p><ul>
+<li>f = no dry season</li>
+<li>w = winter dry season</li>
+<li>s = summer dry season</li>
+<li>m = monsoonal</li>
+</ul>
+</li>
+<li><p>Third letter denotes temperature differences</p><ul>
+<li>h = hot</li>
+<li>k = cold</li>
+<li>a = hot summer</li>
+<li>b = warm summer</li>
+<li>c = cold summer</li>
+<li>d  = very cold winter</li>
+</ul>
+</li>
+
+<li><p>Dominant climate over land is arid B (about 30%) followed by cold D (about 25%) and tropical A (19%)</p></li>
+</ul>
+
+</subsection>
+
+<subsection>
+<title>Specific Groups</title>
+<ul>
+<li><p>Group A is subdivided into 3 subgroups</p><ul>
+<li>Af = tropical rainforest</li>
+<li>Am = tropical monsoon</li>
+<li>Aw = tropical savannah</li>
+</ul>
+</li>
+
+<li><p>Group B is subdivided into 4 subgroups</p><ul>
+<li>BWh = subtropical desert</li>
+<li>BWk = midlatitude dry desert</li>
+<li>BSh = subtropical steppe</li>
+<li>BSk = midlatitude steppe</li>
+</ul>
+</li>
+
+<li><p>Group C is subdivided into 9 subgroups</p><ul>
+<li>Csa = Mediterranean, dry hot summer</li>
+<li>Csb = Mediterranean, dry warm summer</li>
+<li><em>Csc</em> = Mediterranean, dry cold summer</li>
+<li>Cwa = humid subtropical, dry winter, hot summer</li>
+<li><em>Cwb</em> = subtropical highland, dry winter, warm summer </li>
+<li><em>Cwc</em> = subtropical highland, dry winter, cold summer</li>
+<li>Cfa = humid subtropical, hot summer</li>
+<li>Cfb = marine west coast, warm summer</li>
+<li>Cfc = marine west coast, cool summer</li>
+</ul>
+</li>
+
+<li><p>Group D is subdivided into 12 subgroups</p><ul>
+<li>Dsa = humid continental, dry hot summer</li>
+<li>Dsb = humid continental, dry warm summer</li>
+<li><em>Dsc</em> = subarctic/boreal, dry cool summer</li>
+<li><em>Dsd</em> = subarctic/boreal, dry summer, very cold winter</li>
+<li>Dwa = humid continental, dry winter, hot summer</li>
+<li>Dwb = humid continental, dry winter, warm summer</li>
+<li>Dwc = subarctic/boreal, dry cold winter, cool summer</li>
+<li>Dwd = subarctic/boreal, extremely cold dry winter</li>
+<li>Dfa = humid continental, no dry season, hot summer</li>
+<li>Dfb = humid continental, no dry season, warm summer</li>
+<li>Dfc = subarctic/boreal, no dry season, cold summer</li>
+<li>Dfd = subarctic/boreal, no dry season, extremely cold winter</li>
+</ul>
+</li>
+
+<li><p>Group E is subdivided into 2 subgroups</p><ul>
+<li>EF = polar frost (permanent ice cover)</li>
+<li>ET = polar tundra</li>
+</ul>
+</li>
+</ul>
+
+<table xml:id="tab_climate_classes">
+  <title>Summary of climate types</title>
+  <tabular halign="left">
+    <row bottom="minor" >
+      <cell><term>Climate Type</term></cell>  
+      <cell><term>Climate Classifications</term></cell>            
+    </row>
+    <row>
+      <cell>Tropical Rainforest</cell>
+      <cell>Af</cell>
+    </row>    
+    <row>
+      <cell>Tropical Monsoon</cell>
+      <cell>Am</cell>
+    </row>        
+    <row>
+      <cell>Tropical Savannah</cell>
+      <cell>Aw/As</cell>
+    </row>        
+    <row>
+      <cell>Desert</cell>
+      <cell>Bwh, Bwk</cell>
+    </row>        
+    <row>
+      <cell>Steppe (Semi-Arid)</cell>
+      <cell>Bsh, Bsk</cell>
+    </row>        
+    <row>
+      <cell>Mediterranean</cell>
+      <cell>Csa, Csb, Csc</cell>
+    </row>        
+    <row>
+      <cell>Humid Subtropical</cell>
+      <cell>Cfa, Cwa</cell>
+    </row>   
+    <row>
+      <cell>Marine/Oceanic</cell>
+      <cell>Cfb, Cfc, Cwb, Cwc</cell>
+    </row>        
+    <row>
+      <cell>Humid Continental</cell>
+      <cell>Dsa, Dsb, Dwa, Dwb, Dfa, Dfb </cell>
+    </row>        
+    <row>
+      <cell>Subarctic (Boreal)</cell>
+      <cell>Dsc, Dsd, Dwc, Dwd, Dfc, Dfd</cell>
+    </row> 
+    <row>
+      <cell>Polar Tundra</cell>
+      <cell>ET</cell>
+    </row>                       
+    <row bottom="minor">
+      <cell>Polar Ice Cap</cell>
+      <cell>EF</cell>
+    </row>
+  </tabular>
+</table>
+
+</subsection>
+
+</section>
+
+<section xml:id="climate_history">
+<title>Climate History</title>
+
+<subsection>
+<title>Introduction</title>
+
+<p><em>Have the climates always been the same? What mechanisms have caused the climate to change?</em></p>
+<ul>
+<li><p>Two categories of past climate<ul>
+<li>Historical, past few thousand years</li>
+<li>Paleoclimate, conditions before human civilization</li>
+</ul></p>
+</li>
+<li><p>Historical and natural records reflect climate; climate changes and causes can be determined from careful study<ul>
+<li>Dates of freezes of lakes and rivers, farmers’ logs, diaries, newspapers</li>
+<li>Animals in cave paintings indicate climate and climate change</li>
+</ul>
+</p></li>
+<li>But historical records only go so far; we need to turn to <term>proxy data</term> to reconstruct past climates</li>
+</ul>
+</subsection>
+
+<subsection>
+<title>Reconstructing past climates</title>
+<p>A number of different methods can be used to estimate the climates of the past, including:</p>
+<ul>
+<li>Tree-ring data</li>
+<li>Pollen records</li>
+<li>Ice sheets and trapped air</li>
+<li>Marine sediments </li>
+<li>Glacial features and geologic evidence</li>
+<li>Radiometric and stable isotope data</li>
+</ul>
+
+<p><em>Dendrochronology (tree-ring data)</em> </p>
+<ul>
+<li>Diameter of tree trunk increases with growth</li>
+<li>In regions with distinct growing seasons, tree grown appears as concentric rings</li>
+<li>Trees generally produce one ring per year; width of ring indicates how fast growth was</li>
+<li>Growth varies with temperature, precipitation, solar radiation</li>
+</ul>
+<p><em>Pollen Records</em></p>
+<ul>
+<li><p>Pollen is useful to paleoclimatologists<ul>
+<li>Degrades slowly</li>
+<li>Distinctive shapes for each species</li>
+<li>Can accumulate in sediments in lakes, providing record of past vegetation (and thereby, climate)</li>
+</ul></p>
+</li>
+<li>Radiocarbon dating of pollen grains extends information back tens of thousands of years</li>
+</ul>
+<p><em>Isotopic Applications</em></p>
+<ul>
+<li><em>radiocarbon dating</em> of organic materials or ice core air bubbles</li>
+<li><p><em>stable isotope measurements</em>: <ul>
+<li>deuterium and O-18 content</li>
+<li>colder : higher O-18 concentrations in seawater</li>
+<li>O isotopes also trapped in fossil shells</li>
+</ul></p>
+</li>
+<li>radiometric dating of fossil-bearing rock layers</li>
+</ul>
+
+<p><em>Stable Isotopes (D and O-18)</em></p>
+<ul>
+<li>Materials have been deposited in layers on ocean floor for millions of years</li>
+<li><p>Animal shells are made of CaCO<m>_3</m><ul>
+<li>May contain O-18, which is sensitive to temperature</li>
+<li>Colder: higher O-18 concentrations in seawater</li>
+<li>Can sequester lighter O-16 in continental ice</li>
+<li>This is the benthic oxygen isotope record</li>
+</ul>
+</p></li>
+<li>This method works back to 2–3 million years</li>
+<li>Warm periods about every 100,000 years</li>
+</ul>
+
+<p><em>Carbon-14</em></p>
+<ul>
+<li>produced in upper atmosphere (cosmic rays) and then incorporated (via CO<m>_2</m>) into plants by photosynthesis</li>
+<li>photosynthetic products are consumed by animals (and by animals eating animals) so C-14 goes through food chain</li>
+<li>C-14 abundance is maintained <em>as long as the organism is alive</em>. There are at least a few thousand C-14 atoms decaying in  your body every second.</li>
+<li>C-14 is unstable and decays with a half-life of 5730 years (Beta decay of C-14 into N-14)</li>
+<li>effective for dating 100-70,000 yrs</li>
+<li>useful for organic material</li>
+</ul>
+
+<p><em>Radiometric Age Dating</em></p>
+<ul>
+<li>Provide a means to track life through the ages</li>
+<li>Integral part of rocks in which they are found</li>
+<li>Types of plants and animals give climate clues</li>
+<li>Some plants have particular requirements; quantity of a fossil can indicate whether it was thriving in the climate</li>
+</ul>
+
+</subsection>
+
+<subsection>
+<title>Past Climates into the Present</title>
+<p><em>Putting these proxies together to reconstruct paleoclimate</em></p>
+<ul>
+<li><p>Several major ice ages have occurred throughout Earth’s history:<ul>
+<li>Precambrian Eon (2.2 Ga)</li>
+<li>late Proterozoic Eon (700 Ma; <em>Rodinia</em> snowball Earth?)</li>
+<li>Paleozoic Era (500 Ma)</li>
+<li>Permian Period (250 Ma)</li>
+</ul></p>
+</li>
+<li><p>We are currently in the <term>Holecene</term> epoch (0.01 Ma-present) of the <term>Quaternary Period</term> (2.6 Ma-present)<ul>
+<li>Earth had been cooling into an ice age throughout the Paleogene (65-23 Ma) and Neogene (23-2.6 Ma</li>)
+<li>intensification of the ice age occurred around 2.6 Ma (Quaternary)</li>
+<li><p>recent continental glacial activity occurred during Plestocene epoch (1.6-0.1 Ma)<ul>
+<li> widespread geologic evidence of Pleistocene glaciation</li>
+<li> most recently the Illinoian (200-130 ka) and Wisconsinian (110-10 ka) glaciation events</li>
+</ul>
+</p></li>
+<li><p>
+The Holecene epoch (10,000 years ago to the present) represents an <em>interglacial period</em> of the Quaternary ice age<ul>
+<li>
+this means that there are polar caps but no continental glaciation into the mid-latitudes
+</li>
+<li>sea level rise of nearly 40 meters over this timescale</li>
+<li>rise of agricultural and civilization in the Neolithic (stone age)</li>
+</ul>
+
+</p></li>
+</ul>
+</p></li>
+</ul>
+
+
+</subsection>
+
+
+</section>
+
+
+
+</chapter>

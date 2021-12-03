@@ -1,0 +1,170 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--********************************************************************
+Copyright 2015 Robert A. Beezer
+
+This file is part of MathBook XML.
+
+MathBook XML is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 or version 3 of the
+License (at your option).
+
+MathBook XML is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
+*********************************************************************-->
+<!-- This file was originally part of the book     -->
+<!-- (as copied on 2015/07/12)                     -->
+<!--                                               -->
+<!--   Abstract Algebra: Theory and Applications   -->
+<!--                                               -->
+<!-- Copyright (C) 1997-2014  Thomas W. Judson     -->
+
+<chapter xml:id="humans" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<!-- % TWJ, 2010/03/31 -->
+<!-- % Chapters now begin with Chapter 1 -->
+
+<title>Anthropogenic impacts</title>
+
+<section xml:id="pollution">
+<title>Air Pollution</title>
+
+<p>Air pollution refers to any <em>gases</em> or <em>particulates</em> (harmful to human health and/or to the environment) released by human activities.</p>
+
+<ul>
+<li><p>EPA considers 6 criteria pollutants<ul>
+<li>CO</li>
+<li>N oxides</li>
+<li>S oxides</li>
+<li>ground-level ozone (O<m>_3</m>)</li>
+<li>particulate matter (PM)</li>
+<li>lead</li>
+</ul>
+</p>
+</li>
+</ul>
+<p><term>Acid Rain</term></p>
+<ul>
+<li>falling of acids and acid-forming compounds from Earth’s atmosphere to its surface</li>
+<li>can be dry particles or as wet deposition as acid rain, snow, fog, or dew</li>
+<li>formed when oxides of nitrogen and sulfur combine with water vapor or liquid water to produce nitric acid and sulfuric acid</li>
+<li>normal pH of precipitation is 5.5, slightly acidic (mostly from carbonic acid); acid rain can lower pH to 4–4.5</li>
+<li>damage to structures, plants, aquatic life, ecosystems</li>
+</ul>
+<p><term>Stratospheric Ozone</term></p>
+<ul>
+<li>reduced amounts of ozone over Antarctic</li>
+<li>occurs in the Antarctic spring (October)</li>
+<li><p>result of the chlorine in CFCs (released by UV dissociation)<ul>
+<li>Antarctic atmosphere is very cold causing formation of polar stratospheric clouds (destruction is enhanced in these clouds)</li>
+<li>Polar vortex prevents mixing</li>
+</ul>
+</p></li>
+<li>Expected repair itself over time now that CFC use is limited</li>
+<li><p>Montreal Protocol: 1989<ul>
+<li>phasing out of ozone-depleting substances</li>
+<li>EECL: Effective equivalent chlorine</li>
+</ul>
+</p>
+</li>
+</ul>
+
+
+</section>
+
+<section xml:id="antro_cc">
+<title>Anthropogenic climate change</title>
+
+<p>There are a number of key indicators (e.g., see the NASA Vital Signs site: <url href="https://climate.nasa.gov"/>) that point to a warming planet:</p>
+<ul>
+<li>increased land and sea temperatures</li>
+<li>lowered sea ice and land ice coverage</li>
+<li>higher sea levels</li>
+</ul>
+<p>It is important to note land temperatures have generally increased more than ocean temperatures because of differences in their thermal properties; so <em>global average temperature</em> must consider both contributions.</p>
+
+<p><em>What is the difference between <term>global warming</term> and <term>climate change</term>?</em></p>
+
+<p>The vital signs noted above are all consequences of increasing global temperatures - a phenomenon known as global warming. Higher average global temperatures can influence the climate in a number of ways; such phenomena referred to more broadly as climate change. </p>
+
+<p>For example, a decrease in the latitudinal temperature gradient (a consequence of a warming planet) can result a jet stream more prone to stuck meridional patterns. This can variously give drought or flood conditions that are not simply attributed to a warming trend itself.</p>
+
+<p><em>Why are *humans* thought to be causing this change?</em></p>
+
+<p>Much of this change appears to be driven by <em>observed increases</em> in key greenhouse gas concentrations, such as:</p>
+<ul>
+<li>carbon dioxide (from 280 ppm in 1880 to 420 ppm in 2021)</li>
+<li>methane (from 500 ppb to 1900 ppb)</li>
+<li>nitrous oxide (from 270 ppb to 330 ppb)</li>
+</ul>
+<p>so that a larger proportion of solar radiation is effectively absorbed in the Earth's lower atmosphere. These increases in concentration are clearly attributed to anthropogenic emissions.</p>
+
+<p><em>Since *water* is the most important greenhouse gas, why don't we worry about that instead of carbon dioxide?</em></p>
+<ul>
+<li>water is most important greenhouse gas but at large scales it is not directly influenced by human activities</li>
+<li>water has a very short residence time and <em>water is subject phase changes at Earth's surface</em>. In other words, the temperature controls the amount of water vapor that can be present in the atmosphere (and not vice versa). If this temperature-dependent limit is exceeded (the dew point) water will condense.</li>
+<li>note that the amount of water vapor in the atmosphere is expected to slightly increase with increasing global temperatures: thus, <em>water vapor feedback</em> may serve as a positive feedback that amplifies warming</li>
+<li>however, increasing water vapor in the atmosphere could also be expected to promote cloud formation, which would serve as a negative feedback that mitigates warming</li>
+</ul>
+
+</section>
+
+<section xml:id="antro_co2">
+<title>The role of carbon dioxide</title>
+
+<p><em>Why is there such a strong focus on carbon dioxide in our discussions of climate change?</em></p>
+
+<ul>
+<li>carbon dioxide has relatively high concentrations (0.04% in the atmosphere)</li>
+<li>it is second most important greenhouse component after water vapor</li>
+<li>increasing concentrations clearly tied to human activity (carbon has provided energy basis for modern civilization)</li>
+<li>this addition of anthropogenic carbon, although small relative to the total atmospheric inventory, is enough to enhance the greenhouse effect and cause warming</li>
+</ul>
+
+
+<p><em>How do we now it is *our* carbon?</em></p>
+
+<ul>
+<li>volcanic emissions are about 0.26 Gt/yr whereas anthropogenic emissions are about 32 Gt/yr; about 100x more than volcanoes (source: USGS)</li>
+<li>we can track how much carbon has been emitted based upon historical records. These emission statistics correlate with the observed carbon increases in the atmosphere and oceans</li>
+<li><p>the carbon-13 composition of the air is decreasing with time. Why?<ul>
+<li>during photosynthesis, plants preferentially "fix" carbon-12 instead of carbon-13 (via RuBisCO or Ribulose-1,5-Bisphosphate Carboxylase/Oxygenase)</li>
+<li>this means plants are isotopically "light" (that is, plant-based carbon tends to demonstrate a depletion in carbon-13) compared to the atmosphere</li>
+<li>biomatter is the source of fossil fuel, so CO<m>_2</m> released from fossil fuel combustion releases this isotopically light carbon into the atmosphere (which is becoming slightly more depleted in C-13)</li>
+</ul>
+</p></li>
+<li>in effect, the combustion of fossil fuels represents an addition of ancient plant-based carbon to the atmosphere</li> 
+</ul>
+
+<p><em>How is carbon dioxide's impact quantified?</em></p>
+
+<p>The impact of carbon dioxide is determined using a concept known as <term>radiative forcing</term>. In effect, this forcing is the change in energy absorbed by the atmosphere due to the increased concentration of greenhouse gases.</p>
+
+
+<p>For example, the addition of carbon dioxide can be represented as an effective increase in energy (in W/m<m>^2</m>) added to the atmosphere: it describes changes in the difference between solar insolation and how much energy is radiated back into space:</p>
+
+<ul>
+<li>added carbon dioxide concentration increases the greenhouse effect: more energy is trapped by selective absorption of longwave radiation</li>
+<li>increasing carbon dioxide concentration is the largest forcing component</li>
+<li>however, other greenhouse gases, in particular methane, nitrous oxide, and halocarbons are also playing a significant role</li>
+</ul>
+
+<p>For carbon dioxide, atmospheric forcing can be described by the expression</p>
+
+<p>
+<m>F = 5.24 \ln(C/C_o)</m>
+</p>
+
+<p>where <m>C_o = 278</m> ppm (pre-industrial). This suggest that the increase to 400 ppm carbon dioxide has lead to a forcing of +2 W/m<m>^2</m>.</p>
+
+</section>
+
+
+
+</chapter>

@@ -9,6 +9,8 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
+**Visscher, C.** (2022) Planetary atmospheres: chemistry and composition. In *Oxford Research Encyclopedia of Planetary Science*, ISBN 9780190647926 [doi](https://doi.org/10.1093/acrefore/9780190647926.013.17) [article link](https://oxfordre.com/planetaryscience/view/10.1093/acrefore/9780190647926.001.0001/acrefore-9780190647926-e-17)
+
 Dauphas, N., Nie, N.X., Blanchard, M., Zhang, Z.J., Zeng, H., Hu, J.Y., Meheut, M., **Visscher, C.**, Canup, R., Hopp, T. (2022) The Extent, Nature, and Origin of K and Rb Depletions and Isotopic Fractionations in Earth, the Moon, and Other Planetary Bodies. *Planetary Science Journal*, 3(2). [ADS](https://ui.adsabs.harvard.edu/abs/2022PSJ.....3...29D/abstract) [journal](https://iopscience.iop.org/article/10.3847/PSJ/ac2e09/meta)
 
 Karalidi, T., Marley, M., Fortney, J.J., Morley, C., Saumon, D., Lupu, R., **Visscher, C.**, Freedman, R. (2021) The Sonora Substellar Atmosphere Models. II. Cholla: A Grid of Cloud-free, Solar Metallicity Models in Chemical Disequilibrium for the JWST Era.  *Astrophysical Journal*, 923(2), 269. [ADS](https://ui.adsabs.harvard.edu/abs/2021arXiv211011824K/abstract) [arXiv](https://arxiv.org/abs/2110.11824)

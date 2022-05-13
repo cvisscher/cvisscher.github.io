@@ -4,8 +4,13 @@ title: Reflections
 subtitle: Science and Religion
 math: true
 ---
+
 ***Kuyper on Science***, a review of the chapter "Kuyper and Science" by Deborah Haarsma, found in *Calvinism for a Secular Age: A Twenty-First-Century Reading of Abraham Kuyper’s Stone Lectures* by Jessica and Robert Joustra, including some reflections on Kuyper's approach to science as articulated in the Stone Lectures.
 [article link](https://inallthings.org/kuyper-on-science-a-review-of-calvinism-for-a-secular-age/)
+
+
+***All I Want for Christmas…***, a reflection in anticipation of the launch of the _James Webb Space Telescope_ (_JWST_). As the successor to the _Hubble Space Telescope_, _JWST_ is designed to see some of the first stars and galaxies that formed following the birth of the universe.  [article link](https://inallthings.org/all-i-want-for-christmas/)
+
 
 ***The Shared Virtues of Science and Faith***, a book review of *Why Science and Faith Need Each Other: Eight Shared Values That Move Us Beyond Fear* by Elaine Howard Ecklund, which seeks to demonstrate that science and religion can, in fact, find common ground to complement each other in constructive and beautiful ways. [article link](https://inallthings.org/the-shared-virtues-of-science-and-faith-a-review-of-why-science-and-faith-need-each-other/?highlight=Visscher)
 

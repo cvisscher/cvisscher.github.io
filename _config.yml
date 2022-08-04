@@ -25,6 +25,7 @@ description: Planetary Chemistry Research
 navbar-links:
   # About Me: "aboutme"
   Links:
+    - Curriculum Vitae: "https://cvisscher.github.io/papers/visscher_cv.pdf"
     - Publications: "publications"
     - Journal: "journal/index.html"
     - Learn markdown: "http://www.markdowntutorial.com/"

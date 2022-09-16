@@ -9,7 +9,7 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
-Gonzales, E.C, Burningham, B., Faherty, J.K., Lewis, N.K., **Visscher, C.**, Marlye, M.S. (2022) A Comparative L-dwarf Sample Exploring the Interplay Between Atmospheric Assumptions and Data Properties. *Astrophysical Journal*, accepted. [arXiv](https://arxiv.org/abs/2209.02754) [ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv220902754G/abstract)
+Gonzales, E.C, Burningham, B., Faherty, J.K., Lewis, N.K., **Visscher, C.**, Marley, M.S. (2022) A Comparative L-dwarf Sample Exploring the Interplay Between Atmospheric Assumptions and Data Properties. *Astrophysical Journal*, accepted. [arXiv](https://arxiv.org/abs/2209.02754) [ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv220902754G/abstract)
 
 Mukherjee, S., Fortney, J.J., Batalha, N.E., Karalidi, T., Marley, M.S, **Visscher, C.**, Miles, B.E., Skemer, A.J.I. (2022) Probing the Extent of Vertical Mixing in Brown Dwarf Atmospheres with Disequilibrium Chemistry. *Astrophysical Journal*, accepted. [arXiv](https://arxiv.org/abs/2208.14317) [ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv220814317M/abstract)
 

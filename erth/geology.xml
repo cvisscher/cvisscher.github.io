@@ -1,0 +1,88 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<!--********************************************************************
+Copyright 2015 Robert A. Beezer
+
+This file is part of MathBook XML.
+
+MathBook XML is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 or version 3 of the
+License (at your option).
+
+MathBook XML is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
+*********************************************************************-->
+<!-- This file was originally part of the book     -->
+<!-- (as copied on 2015/07/12)                     -->
+<!--                                               -->
+<!--   Abstract Algebra:  Theory and Applications   -->
+<!--                                                -->
+<!-- Copyright (C) 1997-2014  Thomas W. Judson      -->
+
+<!-- USE XINCLUDE SWITCH ON XSLTPROC -->
+
+<!-- Master file for AATA                           -->
+<!-- Use XSL stylesheets to create subsets          -->
+<!--    Important: Always process all of the source -->
+<!--    to preserve numbering and cross-references! -->
+<!--    So it is never advisable to edit this file  -->
+
+<!-- Changing xml:lang causes many strings to change language -->
+<!-- See the  xsl/localizations  directory for details        -->
+<!-- Note the use of the "xinclude" namespace in order to use multiple files -->
+<!-- Each included file must contain exactly one top-level element, -->
+<!-- such as a chapter or section -->
+<pretext xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="en-US">
+
+
+<!-- <pretext xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="fr-FR"> -->
+    
+    <book xml:id="meteorology-book">
+    
+    <title>Introductory Geology and Physical Geography</title>
+
+<frontmatter xml:id="frontmatter" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+ <titlepage>
+
+               <!-- There can be several authors here -->
+                <author>
+                    <personname>Channon Visscher</personname>
+                    <!-- department here is one line, so unstructured -->
+                    <department>Chemistry and Planetary Sciences</department>
+                    <!-- institution uses two lines, so structured as such -->
+                    <institution>
+                        <line>Dordt University</line>
+                    </institution>
+                    <email>channon.visscher@dordt.edu</email>
+                </author>
+
+                <!-- Can set date manually or use the "today" element -->
+                <!-- <date><today /></date> -->
+
+            </titlepage>
+            
+            <abstract>
+                <p>A general introduction to the physical nature and structure of the solid Earth, including, briefly, its physical geography and a more detailed look at its geology. The environmental implications of these subjects are detailed. Three lectures and one laboratory period of three hours per week plus one overnight field trip and one or two shorter trips. <em>These pages represent supplemental lecture notes for the slides and textbook material used in the course.</em></p>
+            </abstract>
+            
+            </frontmatter>
+
+ 
+        <!-- Parts are optional, included here for testing            -->
+        <!-- In "bookinfo.xml" set to "structural" for maximum effect -->
+
+            <xi:include href="./intro_geology.xml"/>	
+            <xi:include href="./intro_earth.xml"/>	            											                                
+            
+        <!-- Many chapters removed from original AATA, here -->
+
+    </book>
+
+</pretext>

@@ -1,0 +1,139 @@
+<?xml version="1.0" encoding="UTF-8" ?>
+
+<!--********************************************************************
+Copyright 2015 Robert A. Beezer
+
+This file is part of MathBook XML.
+
+MathBook XML is free software: you can redistribute it and/or modify
+it under the terms of the GNU General Public License as published by
+the Free Software Foundation, either version 2 or version 3 of the
+License (at your option).
+
+MathBook XML is distributed in the hope that it will be useful,
+but WITHOUT ANY WARRANTY; without even the implied warranty of
+MERCHANTABILITY or FITNESS FOR A PARTICULAR PURPOSE.  See the
+GNU General Public License for more details.
+
+You should have received a copy of the GNU General Public License
+along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
+*********************************************************************-->
+<!-- This file was originally part of the book     -->
+<!-- (as copied on 2015/07/12)                     -->
+<!--                                               -->
+<!--   Abstract Algebra: Theory and Applications   -->
+<!--                                               -->
+<!-- Copyright (C) 1997-2014  Thomas W. Judson     -->
+
+<chapter xml:id="intro_geology" xmlns:xi="http://www.w3.org/2001/XInclude">
+
+<!-- % TWJ, 2010/03/31 -->
+<!-- % Chapters now begin with Chapter 1 -->
+
+<title>Introduction</title>
+
+<section>
+<title>Christian geology?</title>
+
+<p>Before beginning a study of the Earth, it is important that we recognize some of historical challenges of studying geology, such as the <b>abundant geological evidence that clearly points to an ancient Earth</b>, which appears to be in conflict with some (in particular 20th-century) interpretations of Scripture, or the role of the Flood in geologic history.</p>
+
+
+<p>This (primarily hermeneutical) conflict is plausibly one of the major reasons for limited engagement with geology in Christian communities (although some recent polls suggest that geoscientists believe in God at similar numbers as biologists and physicists; and in Christian higher education. For example, a quick survey of CCCU (Council for Christian Colleges and Universities) indicates that out of 120 member schools, just 3 offer degrees in geology.</p>
+
+
+<p>We will visit some of the specific questions of origins and the antiquity of the Earth throughout the semester.  For now, we propose a starting point of key foundations and values for how we might explore and study the Earth as followers of Christ.</p>
+
+</section>
+
+<section>
+<title>Foundations</title>
+
+<p>The God who reveals himself in Scripture and in Christ is the same God who created and sustains a physical universe that is laid "before our eyes like a beautiful book" giving witness to its maker. (Belgic Confession Article 2, Ps 19:1-2, 97:6, 104; Job 38ff; Rom 1:19-20, Heb 11:3, Acts 14:15-17)</p>
+
+<p>What does this confession mean for a study of the Earth?</p>
+
+		<p><ul>
+			<li>
+			First, we recognize that meaningful knowledge can be gained through the study of the physical world. In other words, that scientific inquiry can reveal something about the creation.
+			</li>
+
+			<li>
+Second, we recognize that God — as creator and sustainer of the universe — is the author of <em>all</em> truth, whether that truth is found in Scripture or Nature.
+			</li>
+</ul></p>
+
+<p>These perspectives have important important implications for how we approach scientific theories of origins: for example we reject belief systems that deny God's authorship of creation; yet at the same time we allow that scientific inquiry (as described by contemporary scientific theories) may actually reveal the way in which God created the world.</p>
+
+Another important consequence is that it may help prevent a tendency to separate natural phenomena into "spectacular" and "mundane" events; instead we recognize that God is immanent *throughout* creation and sustaining every part - and even where we might have a good scientific explanation for the observed phenomena (e.g., seasons).
+</section>
+
+<section>
+<title>Values</title>
+<p>Why should we care about the Earth (or anything else in creation)?  In <em>Responsible Dominion</em>, Ian Hore-Lacy identifies two biblical `values in tension&#39; that motivate an exploration of the world around us:</p>
+
+<ol>
+<li>The first value is that creation has &quot;inherent or intrinsic [<em>aesthetic</em>] value which does not require any useful dimension or purpose, and establishes an obligation for us to respect it.&quot; There is a call to enjoy and understand creation for its own sake because it is made by someone we love (RO, CS).</li>
+<li>The second value is that &quot;a [<bold>utilitarian</bold>] dimension of stewardship to serve the needs of the people must be taken seriously as an expression of both God&#39;s love and his purpose.&quot; Science provides a means of developing the resources of nature to responsibly care for humans and the environment (CD, CR).</li>
+</ol>
+
+
+
+</section>
+
+<section>
+<title>Geology as Storytelling</title>
+
+<p>Geology is storytelling: piecing together a past history based upon our observation of the world around us.  Geology seeks to answer the questions:</p>
+<ul>
+<li>What is the Earth made of?</li>
+<li>What forces shape the landscape?</li>
+<li>How did the Earth come to be as I see it today?</li>
+</ul>
+<p>In this sense, the geological structures and materials we encounter testify (as their own witness) to a past history of the Earth.  The work of a geologist is to interpret this record and <em>tell the story of creation.</em> (This introduces another ongoing tension in science: the extent to which scientific truths are &quot;constructed&quot; vs. &quot;discovered&quot;.)</p>
+
+<p>These themes are consistent with the the NSF-supported Earth Science Literacy Initiative (ESLI), formed in 2008 to create a succinct document outlining what citizens should know about Earth science.  One of the outcomes of this initiative was the development of a coherent and fundamental set of Big Ideas:</p>
+<ol>
+<li>Earth scientists use repeatable observations and testable ideas to understand and explain our planet.</li>
+<li>Earth is 4.6 billion years old. </li>
+<li>Earth is a complex system of interacting rock, water, air, and life. </li>
+<li>Earth is continuously changing. </li>
+<li>Earth is the water planet.</li>
+<li>Life evolves on a dynamic Earth and continuously modifies Earth. </li>
+<li>Humans depend upon Earth for resources. </li>
+<li>Natural hazards pose risks to humans. </li>
+<li>Humans significantly alter Earth.</li>
+</ol>
+
+</section>
+
+<section>
+<title>Geology as Science</title>
+
+<p><term>Geology</term> is a systematic study Earth materials and processes that shape the planet.  This includes exploring:</p>
+<ul>
+<li>the structure and composition of Earth materials,</li>
+<li>the physical processes and forces shaping the Earth's surface, and</li>
+<li>the formation and history of the Earth system</li>
+</ul>
+<p>Broadly speaking, geology is often divided into major categories: <em>physical geology</em>, which examines Earth materials and seeks to understand the many processes that operate on our planet, and <em>historical geology</em>, which seeks an understanding of the origin of the Earth and its development though time. The science of geology (and scientific inquiry in general) assumes that the world is <em>comprehensible</em> (that is, humans can perceive and make some sense of the world around us) and <em>consistent</em> (that is, although given freedom, it operates with regularity according to natural laws).</p>
+
+<p><term>Principles of Geology</term></p>
+<p>Since the rise of science, there have been two basic philosophic principles describing how geologic forces have shaped the Earth:</p>
+<ul>
+<li><em>catastrophism</em> is the belief that the landscape has been shaped primarily by great catastrophes.  This was the prevailing view until the early 1800s.</li>
+<li><em>uniformitarianism</em> is the belief that the landscape has been shaped by everyday processes acting over vast periods of time (this view is often summarized as &quot;the present is key to the past&quot;). This approach was first proposed by Hutton (1795) and popularized by Lyell (1830).</li>
+</ul>
+<p>It should be noted, however, that these represent end-member perspectives and that the modern Earth and planetary sciences recognize the role of both catastrophic and uniform events operating in geologic systems.</p>
+<p>We can also introduce a set of geologic principles that are used to interpret a given landscape:</p>
+<ul>
+<li><em>principle of original horizontality</em>: sedimentary layers are originally deposited in horizontal layers.</li>
+<li><em>principle of lateral continuity</em>: sedimentary layers originally extend laterally in all directions; rocks that are separated may have been originally comprised the same layer.</li>
+<li><em>principle of superposition</em>: in stratigraphic sequence of rock layers, the oldest rock layer is at the bottom of the sequence and the youngest is at the top of the sequence.</li>
+<li><em>principle of cross-cutting</em>: the geologic feature that cuts or crosses another is the younger of the two features.</li>
+</ul>
+
+
+</section>
+
+
+</chapter>

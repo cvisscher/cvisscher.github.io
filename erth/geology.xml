@@ -43,7 +43,7 @@ along with MathBook XML.  If not, see <http://www.gnu.org/licenses/>.
 
 <!-- <pretext xmlns:xi="http://www.w3.org/2001/XInclude" xml:lang="fr-FR"> -->
     
-    <book xml:id="meteorology-book">
+    <book xml:id="geology-book">
     
     <title>Introductory Geology and Physical Geography</title>
 

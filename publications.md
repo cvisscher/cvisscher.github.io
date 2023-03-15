@@ -9,7 +9,7 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
-Vos, J.M., Burningham, B., Faherty, J.K., Alejandro, S., Gonzales, E., Calamari, E., Gagliuffi, D.B.,  **Visscher, C.**, Tan, X., Morley, C.V., Marley, M., Gemma, M.E., Whiteford, N., Gaarn, J., Park, G. (2022) Patchy Forsterite Clouds in the Atmospheres of Two Highly Variable Exoplanet Analogs. *Astrophysical Journal*, accepted. [arXiv](https://arxiv.org/abs/2212.07399)
+Vos, J.M., Burningham, B., Faherty, J.K., Alejandro, S., Gonzales, E., Calamari, E., Gagliuffi, D.B.,  **Visscher, C.**, Tan, X., Morley, C.V., Marley, M., Gemma, M.E., Whiteford, N., Gaarn, J., Park, G. (2023) Patchy Forsterite Clouds in the Atmospheres of Two Highly Variable Exoplanet Analogs. *Astrophysical Journal*, 944(2), 138. [arXiv](https://arxiv.org/abs/2212.07399)
 
 Gonzales, E.C, Burningham, B., Faherty, J.K., Lewis, N.K., **Visscher, C.**, Marley, M.S. (2022) A Comparative L-dwarf Sample Exploring the Interplay Between Atmospheric Assumptions and Data Properties. *Astrophysical Journal*, 938(1), 56. [arXiv](https://arxiv.org/abs/2209.02754) [ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv220902754G/abstract)
 

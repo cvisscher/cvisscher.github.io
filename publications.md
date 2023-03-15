@@ -9,6 +9,11 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
+
+Gaarn, J., Burningham, B., Faherty, J.K., **Visscher, C.**, Marley, M.S., Gonzales, E.C., Calamari, E., Bardalez Gagliuffi, D., Lupu, R., Freedman, R. (2023) The puzzle of the formation of T8 dwarf Ross 458c, *Monthly Notices of the Royal Astronomical Society*, accepted.
+
+Tsai, S.M. et al. (2023) Direct Evidence of Photochemistry in an Exoplanet Atmosphere  *Nature*, accepted. [arXiv](https://arxiv.org/abs/2211.10490)
+
 Vos, J.M., Burningham, B., Faherty, J.K., Alejandro, S., Gonzales, E., Calamari, E., Gagliuffi, D.B.,  **Visscher, C.**, Tan, X., Morley, C.V., Marley, M., Gemma, M.E., Whiteford, N., Gaarn, J., Park, G. (2023) Patchy Forsterite Clouds in the Atmospheres of Two Highly Variable Exoplanet Analogs. *Astrophysical Journal*, 944(2), 138. [arXiv](https://arxiv.org/abs/2212.07399)
 
 Gonzales, E.C, Burningham, B., Faherty, J.K., Lewis, N.K., **Visscher, C.**, Marley, M.S. (2022) A Comparative L-dwarf Sample Exploring the Interplay Between Atmospheric Assumptions and Data Properties. *Astrophysical Journal*, 938(1), 56. [arXiv](https://arxiv.org/abs/2209.02754) [ADS](https://ui.adsabs.harvard.edu/abs/2022arXiv220902754G/abstract)

@@ -10,7 +10,7 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
 
-Gaarn, J., Burningham, B., Faherty, J.K., **Visscher, C.**, Marley, M.S., Gonzales, E.C., Calamari, E., Bardalez Gagliuffi, D., Lupu, R., Freedman, R. (2023) The puzzle of the formation of T8 dwarf Ross 458c, *Monthly Notices of the Royal Astronomical Society*, 521(4), 5761-5775. [arXiv](https://arxiv.org/abs/2303.16863) [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.5761G/abstract)
+Gaarn, J., Burningham, B., Faherty, J.K., **Visscher, C.**, Marley, M.S., Gonzales, E.C., Calamari, E., Bardalez Gagliuffi, D., Lupu, R., Freedman, R. (2023) The puzzle of the formation of T8 dwarf Ross 458c, *Monthly Notices of the Royal Astronomical Society*, 521(4), 5761-5775. [arXiv](https://arxiv.org/abs/2303.16863) [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.5761G/abstract) [journal](https://academic.oup.com/mnras/article/521/4/5761/7078574)
 
 Tsai, S.M. et al. (84 co-authors including **C. Visscher**) (2023) Direct Evidence of Photochemistry in an Exoplanet Atmosphere  *Nature*, https://doi.org/10.1038/s41586-023-05902-2. [arXiv](https://arxiv.org/abs/2211.10490) [journal](https://www.nature.com/articles/s41586-023-05902-2)
 

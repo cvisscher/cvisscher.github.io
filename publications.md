@@ -10,7 +10,7 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
 
-Grant, D. et al. (41 co-authors including **Visscher, C.**) (2023) JWST-TST DREAMS: Quartz Clouds in the Atmosphere of WASP-17, *Astrophysical Journal Letters*, accepted.
+Grant, D. et al. (41 co-authors including **Visscher, C.**) (2023) JWST-TST DREAMS: Quartz Clouds in the Atmosphere of WASP-17, *Astrophysical Journal Letters*, 956(2), L29. [arXiV](https://arxiv.org/abs/2310.08637) [ADS](https://ui.adsabs.harvard.edu/abs/2023ApJ...956L..29G/abstract) [journal](https://iopscience.iop.org/article/10.3847/2041-8213/acfc3b)
 
 Gaarn, J., Burningham, B., Faherty, J.K., **Visscher, C.**, Marley, M.S., Gonzales, E.C., Calamari, E., Bardalez Gagliuffi, D., Lupu, R., Freedman, R. (2023) The puzzle of the formation of T8 dwarf Ross 458c, *Monthly Notices of the Royal Astronomical Society*, 521(4), 5761-5775. [arXiv](https://arxiv.org/abs/2303.16863) [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.5761G/abstract) [journal](https://academic.oup.com/mnras/article/521/4/5761/7078574)
 

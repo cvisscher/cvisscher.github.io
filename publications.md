@@ -9,6 +9,7 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
+Calamari, E., B., Faherty, J.K., **Visscher, C.**, Gemma, M.E., Burningham, B., and Rothermich, A. (2024) Predicting Cloud Conditions in Substellar Mass Objects Using Ultracool Dwarf Companions, *Astrophysical Journal*, accepted. [arXiV](https://arxiv.org/abs/2401.11038) [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240111038C/abstract)
 
 Grant, D. et al. (41 co-authors including **Visscher, C.**) (2023) JWST-TST DREAMS: Quartz Clouds in the Atmosphere of WASP-17, *Astrophysical Journal Letters*, 956(2), L29. [arXiV](https://arxiv.org/abs/2310.08637) [ADS](https://ui.adsabs.harvard.edu/abs/2023ApJ...956L..29G/abstract) [journal](https://iopscience.iop.org/article/10.3847/2041-8213/acfc3b)
 

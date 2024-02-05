@@ -9,9 +9,11 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
-Calamari, E., B., Faherty, J.K., **Visscher, C.**, Gemma, M.E., Burningham, B., and Rothermich, A. (2024) Predicting Cloud Conditions in Substellar Mass Objects Using Ultracool Dwarf Companions, *Astrophysical Journal*, accepted. [arXiV](https://arxiv.org/abs/2401.11038) [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240111038C/abstract)
+Mukherjee, S., Fortney, J.J., Morley, C.V., Batalha, N.E., Marley, M.S., Karalidi, T., **Visscher, C.**, Lupu, R., Freedman, R., Gharib-Nezhad, E. (2024) The Sonora Substellar Atmosphere Models. IV. Elf Owl: Atmospheric Mixing and Chemical Disequilibrium with Varying Metallicity and C/O Ratios, *Astrophysical Journal*, accepted. [arXiv](https://arxiv.org/abs/2402.00756) [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240200756M/abstract)
 
-Grant, D. et al. (41 co-authors including **Visscher, C.**) (2023) JWST-TST DREAMS: Quartz Clouds in the Atmosphere of WASP-17, *Astrophysical Journal Letters*, 956(2), L29. [arXiV](https://arxiv.org/abs/2310.08637) [ADS](https://ui.adsabs.harvard.edu/abs/2023ApJ...956L..29G/abstract) [journal](https://iopscience.iop.org/article/10.3847/2041-8213/acfc3b)
+Calamari, E., B., Faherty, J.K., **Visscher, C.**, Gemma, M.E., Burningham, B., and Rothermich, A. (2024) Predicting Cloud Conditions in Substellar Mass Objects Using Ultracool Dwarf Companions, *Astrophysical Journal*, accepted. [arXiv](https://arxiv.org/abs/2401.11038) [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240111038C/abstract)
+
+Grant, D. et al. (41 co-authors including **Visscher, C.**) (2023) JWST-TST DREAMS: Quartz Clouds in the Atmosphere of WASP-17, *Astrophysical Journal Letters*, 956(2), L29. [arXiv](https://arxiv.org/abs/2310.08637) [ADS](https://ui.adsabs.harvard.edu/abs/2023ApJ...956L..29G/abstract) [journal](https://iopscience.iop.org/article/10.3847/2041-8213/acfc3b)
 
 Gaarn, J., Burningham, B., Faherty, J.K., **Visscher, C.**, Marley, M.S., Gonzales, E.C., Calamari, E., Bardalez Gagliuffi, D., Lupu, R., Freedman, R. (2023) The puzzle of the formation of T8 dwarf Ross 458c, *Monthly Notices of the Royal Astronomical Society*, 521(4), 5761-5775. [arXiv](https://arxiv.org/abs/2303.16863) [ADS](https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.5761G/abstract) [journal](https://academic.oup.com/mnras/article/521/4/5761/7078574)
 

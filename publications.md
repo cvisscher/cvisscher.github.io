@@ -9,9 +9,9 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
-Mukherjee, S., Fortney, J.J., Morley, C.V., Batalha, N.E., Marley, M.S., Karalidi, T., **Visscher, C.**, Lupu, R., Freedman, R., Gharib-Nezhad, E. (2024) The Sonora Substellar Atmosphere Models. IV. Elf Owl: Atmospheric Mixing and Chemical Disequilibrium with Varying Metallicity and C/O Ratios, *Astrophysical Journal*, accepted. [arXiv](https://arxiv.org/abs/2402.00756) [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240200756M/abstract)
+Mukherjee, S., Fortney, J.J., Morley, C.V., Batalha, N.E., Marley, M.S., Karalidi, T., **Visscher, C.**, Lupu, R., Freedman, R., Gharib-Nezhad, E. (2024) The Sonora Substellar Atmosphere Models. IV. Elf Owl: Atmospheric Mixing and Chemical Disequilibrium with Varying Metallicity and C/O Ratios, *Astrophysical Journal*, 963(1), 73. [arXiv](https://arxiv.org/abs/2402.00756) [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240200756M/abstract) [journal](https://iopscience.iop.org/article/10.3847/1538-4357/ad18c2)
 
-Calamari, E., B., Faherty, J.K., **Visscher, C.**, Gemma, M.E., Burningham, B., and Rothermich, A. (2024) Predicting Cloud Conditions in Substellar Mass Objects Using Ultracool Dwarf Companions, *Astrophysical Journal*, accepted. [arXiv](https://arxiv.org/abs/2401.11038) [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240111038C/abstract)
+Calamari, E., B., Faherty, J.K., **Visscher, C.**, Gemma, M.E., Burningham, B., and Rothermich, A. (2024) Predicting Cloud Conditions in Substellar Mass Objects Using Ultracool Dwarf Companions, *Astrophysical Journal*, 963(1), 67. [arXiv](https://arxiv.org/abs/2401.11038) [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240111038C/abstract) [journal](https://iopscience.iop.org/article/10.3847/1538-4357/ad1f6d)
 
 Grant, D. et al. (41 co-authors including **Visscher, C.**) (2023) JWST-TST DREAMS: Quartz Clouds in the Atmosphere of WASP-17, *Astrophysical Journal Letters*, 956(2), L29. [arXiv](https://arxiv.org/abs/2310.08637) [ADS](https://ui.adsabs.harvard.edu/abs/2023ApJ...956L..29G/abstract) [journal](https://iopscience.iop.org/article/10.3847/2041-8213/acfc3b)
 

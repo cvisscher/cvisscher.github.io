@@ -9,6 +9,8 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
+Beiler, S.A., Mukherjee, S., Cushing, M.C., Kirkpatrick, J.D., Schneider, A.C., Kothari, H. Marley, M.S., **Visscher, C.** (2024) A Tale of Two Molecules: The Underprediction of CO<sub>2</sub> and Overprediction of PH<sub>3</sub> in Late T and Y Dwarf Atmospheric Models. *Astrophysical Journal*, accepted. [arXiv](https://arxiv.org/abs/2407.15950)
+
 Mukherjee, S., Fortney, J.J., Morley, C.V., Batalha, N.E., Marley, M.S., Karalidi, T., **Visscher, C.**, Lupu, R., Freedman, R., Gharib-Nezhad, E. (2024) The Sonora Substellar Atmosphere Models. IV. Elf Owl: Atmospheric Mixing and Chemical Disequilibrium with Varying Metallicity and C/O Ratios, *Astrophysical Journal*, 963(1), 73. [arXiv](https://arxiv.org/abs/2402.00756) [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240200756M/abstract) [journal](https://iopscience.iop.org/article/10.3847/1538-4357/ad18c2)
 
 Calamari, E., B., Faherty, J.K., **Visscher, C.**, Gemma, M.E., Burningham, B., and Rothermich, A. (2024) Predicting Cloud Conditions in Substellar Mass Objects Using Ultracool Dwarf Companions, *Astrophysical Journal*, 963(1), 67. [arXiv](https://arxiv.org/abs/2401.11038) [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240111038C/abstract) [journal](https://iopscience.iop.org/article/10.3847/1538-4357/ad1f6d)
@@ -127,7 +129,7 @@ Canup, R.M., **Visscher, C.**, Salmon, J. and Fegley, B., Jr. (2015)
 Lunar volatile depletion due to incomplete accretion within an
 impact-generated disk. *Nature Geoscience* 8, 918-921.
 doi:10.1038/ngeo2574
-[ADS] (https://ui.adsabs.harvard.edu/abs/2015NatGe...8..918C/abstract)
+[ADS](https://ui.adsabs.harvard.edu/abs/2015NatGe...8..918C/abstract)
 [journal](http://www.nature.com/ngeo/journal/v8/n12/full/ngeo2574.html)
 
 Joy, K.H., **Visscher, C.**, Zolensky, M.E., Mikouchi, T., Hagiya, K.,

@@ -49,4 +49,3 @@ math: true
 </p>
   
 Understanding the physical and chemical processes that may have affected the resulting high-temperature (molten rock + vapor) debris disk is important for understanding the inherited chemical abundance patterns observed in lunar samples (provided by meteorites and the <em>Apollo</em> missions), and may provide further clues about the origin and evolution of the Moon.
-</p>

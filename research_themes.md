@@ -25,7 +25,7 @@ math: true
 <p><i>Figure:</i> Mass-radius plot (normalized to Earth = 1) for objects from dwarf planets to low-mass stars. Brown dwarfs (~10-80 Jupiter masses; covering the right half of the "Jovian worlds" category in the plot above) can be thought of as the lowest-mass products of star formation. Figure from <a href="https://iopscience.iop.org/article/10.3847/1538-4357/834/1/17/meta">Chen & Kipping (2016)</a>.
 </p>
   
-<p></p>This work includes modeling reaction chemistry and cloud formation (including exotic clouds consisting of rocky material or metals) in hydrogen-dominated planetary atmospheres, and exploring potential effects on observational properties. </p>
+<p>This work includes modeling reaction chemistry and cloud formation (including exotic clouds consisting of rocky material or metals) in hydrogen-dominated planetary atmospheres, and exploring potential effects on observational properties. </p>
 
 <p><center><img
   class="fit-picture"

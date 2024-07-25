@@ -39,3 +39,5 @@ John Hedley Brooke, Sherryse L. Corrow, Victor I. Ezigbo, Omar Fakhri, Barrett F
 
 -- **Pete Jordan**, Scholarship and Christianity in Oxford (SCIO)
 
+Available at [Amazon](https://www.amazon.com/Science-Religion-Perspectives-Across-Disciplines/dp/1666924741/) and [Barnes & Noble](https://www.barnesandnoble.com/w/science-and-religion-claudia-may/1143786974?ean=9781666924749)
+

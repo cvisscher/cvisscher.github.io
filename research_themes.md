@@ -1,6 +1,6 @@
 ---
 layout: page
-title: Publications
+title: Research Themes
 subtitle: Planetary Chemistry Research
 math: true
 ---

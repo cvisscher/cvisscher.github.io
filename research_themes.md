@@ -1,3 +1,10 @@
+---
+layout: page
+title: Publications
+subtitle: Planetary Chemistry Research
+math: true
+---
+
 <h3 id="current-research-interests">Current Research Interests</h3>
 <p>My planetary chemistry research involves modeling physical and chemical processes in planetary and astrophysical environments. The goal of this work is to better understand the underlying chemistry responsible for the observed properties of planetary atmospheres, and to provide clues about the formation and evolution of planetary systems. A current list of publications is available <a href="https://cvisscher.github.io/publications/">here</a>. </p>
   

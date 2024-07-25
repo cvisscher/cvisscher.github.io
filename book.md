@@ -5,8 +5,8 @@ subtitle: Perspectives Across Disciplines
 math: true
 ---
 
-### Now available from Lexington Books:
-_Science and Religion: Perspectives Across Disciplines_
+### Now available from Lexington Books: 
+### _Science and Religion: Perspectives Across Disciplines_
 
 #### edited by Claudia May and Channon Visscher
 

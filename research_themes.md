@@ -8,6 +8,8 @@
 <p>
 <img
   class="fit-picture"
+  width="80%"
+  height="80%"
   src="/img/stellar_objects.jpg"
   alt="A plot of objects from planets to stars" />
   
@@ -19,6 +21,8 @@
 <p>
 <img
   class="fit-picture"
+  width="80%"
+  height="80%"
   src="/img/chem_summary.png"
   alt="A summary of chemistry in substellar atmospheres" />
   
@@ -30,6 +34,8 @@
 <p>
 <img
   class="fit-picture"
+  width="80%"
+  height="80%"
   src="/img/disk_schematic_2d.jpg"
   alt="A schematic of the protolunar disk" />
   

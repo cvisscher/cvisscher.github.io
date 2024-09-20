@@ -1,1 +1,51 @@
+<!DOCTYPE html>
+<html lang="en">
+<head>
+    <meta charset="UTF-8">
+    <meta name="viewport" content="width=device-width, initial-scale=1.0">
+    <title>File Listing</title>
+</head>
+<body>
+    <h1>Files in this Directory:</h1>
+    <ul id="file-list"></ul>
+
+    <script>
+        // GitHub repository information
+        const username = "cvisschere";
+        const repo = "cvisscher.github.io";
+        const directory = "thermofile";  // The directory you want to list
+
+        // GitHub API URL for the directory
+        const apiUrl = `https://api.github.com/repos/${username}/${repo}/contents/${directory}`;
+
+        // Fetch file listing from GitHub API
+        fetch(apiUrl)
+            .then(response => response.json())
+            .then(data => {
+                const fileList = document.getElementById("file-list");
+                
+                // Check if data is returned
+                if (!Array.isArray(data)) {
+                    fileList.innerHTML = "<li>No files found or error accessing the directory.</li>";
+                    return;
+                }
+
+                // Loop through the returned files and add them to the list
+                data.forEach(file => {
+                    const listItem = document.createElement("li");
+                    const link = document.createElement("a");
+                    link.href = file.download_url;
+                    link.textContent = file.name;
+                    listItem.appendChild(link);
+                    fileList.appendChild(listItem);
+                });
+            })
+            .catch(error => {
+                console.error("Error fetching file list:", error);
+                const fileList = document.getElementById("file-list");
+                fileList.innerHTML = "<li>Error fetching file list.</li>";
+            });
+    </script>
+</body>
+</html>
 

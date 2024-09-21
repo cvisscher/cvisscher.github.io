@@ -9,6 +9,8 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
+Lee, E.K.H., Tsai, S.-M. Moses, J.I., Plane, J.M.C., **Visscher, C.**, Klippenstein, S.J. (2024) A photochemical PHO network for hydrogen-dominated exoplanet atmospheres. *Astrophysical Journal*, submitted. [arXiv](https://arxiv.org/abs/2409.06802)
+
 Morley, C.V., Mukherjee, S., Marley, M.S., Fortney, J.J., **Visscher, C.**, Lupu, R., Gharib-Nezhad, E., Thorngren, D., Freedman, R., Batalha, N. (2024) The Sonora Substellar Atmosphere Models. III. Diamondback: Atmospheric Properties, Spectra, and Evolution for Warm Cloudy Substellar Objects. *Astrophysical Journal*, accepted [arXiv](https://arxiv.org/abs/2402.00758) [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240200758M/abstract)
 
 Beiler, S.A., Mukherjee, S., Cushing, M.C., Kirkpatrick, J.D., Schneider, A.C., Kothari, H. Marley, M.S., **Visscher, C.** (2024) A Tale of Two Molecules: The Underprediction of CO<sub>2</sub> and Overprediction of PH<sub>3</sub> in Late T and Y Dwarf Atmospheric Models. *Astrophysical Journal*, accepted. [arXiv](https://arxiv.org/abs/2407.15950) [ADS](https://ui.adsabs.harvard.edu/abs/2024arXiv240715950B/abstract)

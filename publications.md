@@ -9,7 +9,7 @@ NASA ADS [Author Query](https://ui.adsabs.harvard.edu/search/q=author%3A%22Vissc
 
 arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%2C+C)
 
-Goolge Scholar [profile](https://scholar.google.com/citations?user=zrPBc0cAAAAJ&hl=en&oi=ao)
+Google Scholar [profile](https://scholar.google.com/citations?user=zrPBc0cAAAAJ&hl=en&oi=ao)
 
 Lee, E.K.H., Tsai, S.-M. Moses, J.I., Plane, J.M.C., **Visscher, C.**, Klippenstein, S.J. (2024) A photochemical PHO network for hydrogen-dominated exoplanet atmospheres. *Astrophysical Journal*, accepted. [arXiv](https://arxiv.org/abs/2409.06802)
 

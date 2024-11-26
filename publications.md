@@ -11,7 +11,7 @@ arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%
 
 Google Scholar [profile](https://scholar.google.com/citations?user=zrPBc0cAAAAJ&hl=en&oi=ao)
 
-Rowland, M.J., Morley, C.V., Miles, B.E., Suárez, G., Faherty, J.K., Skemer, A.J., Beiler, S.A., Line, M.R., Bjoraker, G.L., Fortney, J.J., Vos, J.M., Merchan, S.A., Marley, M.,  Burningham, B., Freedman, R., Gharib-Nezhad, E., Batalha, N., Lupu, R., **Visscher, C.**,  Schneider, A.C., Geballe, T.R., Carter, A., Allers, K., Mang, J., Apai, D., Limbach, M.A., Wilson, M.J. (2024) Protosolar D-to-H abundance and one part-per-billion PH3 in the coldest brown dwarf. *Astrophysical Journal Letters*, accepted. [arXiv](https://arxiv.org/abs/2411.14541)
+Rowland, M.J., Morley, C.V., Miles, B.E., Suárez, G., Faherty, J.K., Skemer, A.J., Beiler, S.A., Line, M.R., Bjoraker, G.L., Fortney, J.J., Vos, J.M., Merchan, S.A., Marley, M.,  Burningham, B., Freedman, R., Gharib-Nezhad, E., Batalha, N., Lupu, R., **Visscher, C.**,  Schneider, A.C., Geballe, T.R., Carter, A., Allers, K., Mang, J., Apai, D., Limbach, M.A., Wilson, M.J. (2024) Protosolar D-to-H abundance and one part-per-billion PH<sub>3</sub> in the coldest brown dwarf. *Astrophysical Journal Letters*, accepted. [arXiv](https://arxiv.org/abs/2411.14541)
 
 Lee, E.K.H., Tsai, S.-M. Moses, J.I., Plane, J.M.C., **Visscher, C.**, Klippenstein, S.J. (2024) A photochemical PHO network for hydrogen-dominated exoplanet atmospheres. *Astrophysical Journal*, accepted. [arXiv](https://arxiv.org/abs/2409.06802)
 

@@ -11,7 +11,7 @@ arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%
 
 Google Scholar [profile](https://scholar.google.com/citations?user=zrPBc0cAAAAJ&hl=en&oi=ao)
 
-McCarthy, A.M., Vos, J.M., Muirhead, P.S., Biller, B.A., Morley, C.V., Faherty, J., Burningham, B., Calamari, E., Cowan, N.B., Cruz, K.L., Gonzales, E., Limbach, M.A., Liu, P., Nasedkin, E., Suarez, G., Tan, X., O'Toole, C., Visscher, C., Whiteford, N., Zhou, Y. (2024) The JWST Weather Report from the Isolated Exoplanet Analog SIMP 0136+0933: Pressure-Dependent Variability Driven by Multiple Mechanisms. *Astrophysical Journal Letters*, accepted. [arXiv](https://arxiv.org/abs/2411.16577)
+McCarthy, A.M., Vos, J.M., Muirhead, P.S., Biller, B.A., Morley, C.V., Faherty, J., Burningham, B., Calamari, E., Cowan, N.B., Cruz, K.L., Gonzales, E., Limbach, M.A., Liu, P., Nasedkin, E., Suarez, G., Tan, X., O'Toole, C., **Visscher, C.**, Whiteford, N., Zhou, Y. (2024) The JWST Weather Report from the Isolated Exoplanet Analog SIMP 0136+0933: Pressure-Dependent Variability Driven by Multiple Mechanisms. *Astrophysical Journal Letters*, accepted. [arXiv](https://arxiv.org/abs/2411.16577)
 
 Rowland, M.J., Morley, C.V., Miles, B.E., Suárez, G., Faherty, J.K., Skemer, A.J., Beiler, S.A., Line, M.R., Bjoraker, G.L., Fortney, J.J., Vos, J.M., Merchan, S.A., Marley, M.,  Burningham, B., Freedman, R., Gharib-Nezhad, E., Batalha, N., Lupu, R., **Visscher, C.**,  Schneider, A.C., Geballe, T.R., Carter, A., Allers, K., Mang, J., Apai, D., Limbach, M.A., Wilson, M.J. (2024) Protosolar D-to-H abundance and one part-per-billion PH<sub>3</sub> in the coldest brown dwarf. *Astrophysical Journal Letters*, accepted. [arXiv](https://arxiv.org/abs/2411.14541)
 

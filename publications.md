@@ -11,6 +11,8 @@ arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%
 
 Google Scholar [profile](https://scholar.google.com/citations?user=zrPBc0cAAAAJ&hl=en&oi=ao)
 
+E. Nasedkin, M. Schrader, J.M. Vos, B. Biller, B. Burningham, N.B. Cowan, J. Faherty, E. Gonzales, M.B. Lam, A.M. McCarthy, P.S. Muirhead, C. O'Toole, M.K. Plummer, G. Suárez, X. Tan, **C. Visscher**, N. Whiteford, Y. Zhou (2026) The JWST Weather Report: retrieving temperature variations, auroral heating, and static cloud coverage on SIMP-0136. _Astronomy & Astrophysics_, submitted. [arXiv](2507.07772)
+
 McCarthy, A.M., Vos, J.M., Muirhead, P.S., Biller, B.A., Morley, C.V., Faherty, J., Burningham, B., Calamari, E., Cowan, N.B., Cruz, K.L., Gonzales, E., Limbach, M.A., Liu, P., Nasedkin, E., Suarez, G., Tan, X., O'Toole, C., **Visscher, C.**, Whiteford, N., Zhou, Y. (2025) The JWST Weather Report from the Isolated Exoplanet Analog SIMP 0136+0933: Pressure-Dependent Variability Driven by Multiple Mechanisms. *Astrophysical Journal Letters*, **981** L22. [arXiv](https://arxiv.org/abs/2411.16577) [ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...981L..22M/abstract) [journal](https://iopscience.iop.org/article/10.3847/2041-8213/ad9eaf)
 
 Rowland, M.J., Morley, C.V., Miles, B.E., Suárez, G., Faherty, J.K., Skemer, A.J., Beiler, S.A., Line, M.R., Bjoraker, G.L., Fortney, J.J., Vos, J.M., Merchan, S.A., Marley, M.,  Burningham, B., Freedman, R., Gharib-Nezhad, E., Batalha, N., Lupu, R., **Visscher, C.**,  Schneider, A.C., Geballe, T.R., Carter, A., Allers, K., Mang, J., Apai, D., Limbach, M.A., Wilson, M.J. (2024) Protosolar D-to-H abundance and one part-per-billion PH<sub>3</sub> in the coldest brown dwarf. *Astrophysical Journal Letters*, **977** L49. [arXiv](https://arxiv.org/abs/2411.14541) [ADS](https://ui.adsabs.harvard.edu/abs/2024ApJ...977L..49R/abstract) [journal](https://iopscience.iop.org/article/10.3847/2041-8213/ad9744)
@@ -72,7 +74,7 @@ Lupu, R., **Visscher, C.**, Desert, J-M., Fortney, J.J.; Deleuil, M.,
 Arcangeli, J., Showman, A.P., Marley, M.S. (2018) From thermal
 dissociation to condensation in the atmospheres of ultra hot Jupiters:
 WASP-121b in context, *Astronomy & Astrophysics*, 617, A110.
-[ADS][(http://adsabs.harvard.edu/abs/2018arXiv180500096P](https://ui.adsabs.harvard.edu/abs/2018A%26A...617A.110P/abstract))
+[ADS](https://ui.adsabs.harvard.edu/abs/2018A%26A...617A.110P/abstract)
 [arXiv](https://arxiv.org/abs/1805.00096) [journal](https://www.aanda.org/articles/aa/full_html/2018/09/aa33059-18/aa33059-18.html)
 
 Morley, C.V., Skemer, A.J., Allers, K.N., Marley, M.S., Faherty, J.K.,

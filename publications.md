@@ -11,7 +11,7 @@ arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%
 
 Google Scholar [profile](https://scholar.google.com/citations?user=zrPBc0cAAAAJ&hl=en&oi=ao)
 
-E. Nasedkin, M. Schrader, J.M. Vos, B. Biller, B. Burningham, N.B. Cowan, J. Faherty, E. Gonzales, M.B. Lam, A.M. McCarthy, P.S. Muirhead, C. O'Toole, M.K. Plummer, G. Suárez, X. Tan, **C. Visscher**, N. Whiteford, Y. Zhou (2026) The JWST Weather Report: retrieving temperature variations, auroral heating, and static cloud coverage on SIMP-0136. _Astronomy & Astrophysics_, submitted. [arXiv](2507.07772)
+E. Nasedkin, M. Schrader, J.M. Vos, B. Biller, B. Burningham, N.B. Cowan, J. Faherty, E. Gonzales, M.B. Lam, A.M. McCarthy, P.S. Muirhead, C. O'Toole, M.K. Plummer, G. Suárez, X. Tan, **C. Visscher**, N. Whiteford, Y. Zhou (2026) The JWST Weather Report: retrieving temperature variations, auroral heating, and static cloud coverage on SIMP-0136. _Astronomy & Astrophysics_, accepted. [arXiv](2507.07772)
 
 McCarthy, A.M., Vos, J.M., Muirhead, P.S., Biller, B.A., Morley, C.V., Faherty, J., Burningham, B., Calamari, E., Cowan, N.B., Cruz, K.L., Gonzales, E., Limbach, M.A., Liu, P., Nasedkin, E., Suarez, G., Tan, X., O'Toole, C., **Visscher, C.**, Whiteford, N., Zhou, Y. (2025) The JWST Weather Report from the Isolated Exoplanet Analog SIMP 0136+0933: Pressure-Dependent Variability Driven by Multiple Mechanisms. *Astrophysical Journal Letters*, **981** L22. [arXiv](https://arxiv.org/abs/2411.16577) [ADS](https://ui.adsabs.harvard.edu/abs/2025ApJ...981L..22M/abstract) [journal](https://iopscience.iop.org/article/10.3847/2041-8213/ad9eaf)
 

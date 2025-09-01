@@ -11,7 +11,7 @@ arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%
 
 Google Scholar [profile](https://scholar.google.com/citations?user=zrPBc0cAAAAJ&hl=en&oi=ao)
 
-Batalha, N.E.; Rooney, C.M.; **Visscher, C.**; Moran, Sarah E.; Marley, Mark S.; Sengupta, Aditya R.; Kiefer, Sven; Lodge, Matt G.; Mang, James; Morley, Caroline V.; Mukherjee, Sagnick; Fortney, Jonathan J.; Gao, Peter; Lewis, Nikole K.; Mayorga, L. C.; Pearce, Logan A.; Wakeford, Hannah R. (2025) Condensation Clouds in Substellar Atmospheres with Virga. Submitted to AAS journals, [arXiv](https://arxiv.org/abs/2508.15102) [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250815102B/abstract)
+Batalha, Natasha E.; Rooney, Caoimhe M.; **Visscher, Channon**; Moran, Sarah E.; Marley, Mark S.; Sengupta, Aditya R.; Kiefer, Sven; Lodge, Matt G.; Mang, James; Morley, Caroline V.; Mukherjee, Sagnick; Fortney, Jonathan J.; Gao, Peter; Lewis, Nikole K.; Mayorga, L. C.; Pearce, Logan A.; Wakeford, Hannah R. (2025) Condensation Clouds in Substellar Atmospheres with Virga. Submitted to AAS journals, [arXiv](https://arxiv.org/abs/2508.15102) [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250815102B/abstract)
 
 E. Nasedkin, M. Schrader, J.M. Vos, B. Biller, B. Burningham, N.B. Cowan, J. Faherty, E. Gonzales, M.B. Lam, A.M. McCarthy, P.S. Muirhead, C. O'Toole, M.K. Plummer, G. Suárez, X. Tan, **C. Visscher**, N. Whiteford, Y. Zhou (2025) The JWST Weather Report: retrieving temperature variations, auroral heating, and static cloud coverage on SIMP-0136. _Astronomy & Astrophysics_, accepted. [arXiv](https://arxiv.org/abs/2507.07772) [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250707772N/abstract)
 

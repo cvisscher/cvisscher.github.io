@@ -11,6 +11,9 @@ arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%
 
 Google Scholar [profile](https://scholar.google.com/citations?user=zrPBc0cAAAAJ&hl=en&oi=ao)
 
+
+Burgasser, A.J.; Gonzales, E.C.; Beiler, S.A.; **Visscher, C.**; Burningham, B.; Mace, G.N.; Faherty, J.K.; Zhang, Z.; Sousa-Silva, C.; Lodieu, N.; Metchev, S.A.; Meisner, A.; Cushing, M.; Schneider, A.C.; Suarez, G.; Hsu, C-C; Gerasimov, R.; Aganze, C.; Theissen, C.A. Observation of undepleted phosphine in the atmosphere of a low-temperature brown dwarf, _Science_, accepted [arXiv](https://arxiv.org/abs/2510.03916) [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251003916B/abstract) [doi link](10.1126/science.adu0401)
+
 Faherty, J.K.; Meisner, A.M.; Burningham, B.; **Visscher, C.**; Line, M.; Suárez, G.; Gagné, J.; Alejandro Merchan, S.; Rothermich, A.J.; Burgasser, A. J.; Schneider, A.C.; Caselden, D.; Kirkpatrick, J.D.; Kuchner, M.J.; Bardalez Gagliuffi, Daniella Carolina; Eisenhardt, Peter; Gelino, Christopher R.; Gonzales, E.C.; Marocco, F.; Leggett, S.; Lodieu, N.; Casewell, S.L.; Tremblin, P.; Cushing, M.; Zapatero Osorio, M.R.and Béjar, V.JS.; Gauza, B.; Wright, E.; Phillips, M.W.; Zhang, J.; Martin, E.L. (2025) Silicate precursor silane detected in cold low-metallicity brown dwarf. _Nature_, 645J(8079), 62 [reader link](https://rdcu.be/eDWlO) [publication](https://www.nature.com/articles/s41586-025-09369-1)
 
 Batalha, N.E.; Rooney, C.M.; **Visscher, C.**; Moran, S.E.; Marley, M.S.; Sengupta, A.R.; Kiefer, S.; Lodge, M.G.; Mang, J.; Morley, C.V.; Mukherjee, S.; Fortney, J.J.; Gao, P.; Lewis, N.K.; Mayorga, L.C.; Pearce, L.A.; Wakeford, H.R. (2025) Condensation Clouds in Substellar Atmospheres with Virga. Submitted to AAS journals, [arXiv](https://arxiv.org/abs/2508.15102) [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250815102B/abstract)

@@ -11,6 +11,8 @@ arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%
 
 Google Scholar [profile](https://scholar.google.com/citations?user=zrPBc0cAAAAJ&hl=en&oi=ao)
 
+Hull, S.D.; Nakajima, M.; Canup, R.M.; **Visscher, C.**, Sossi, P.A. (2026) Hydrodynamic volatile escape and moderately volatile isotope fractionation in giant impact ejecta. _Icarus_, accepted. [journal pre-proof](https://doi.org/10.1016/j.icarus.2026.116940)
+
 Plummer, M.K.; Cocchini, F.P.; Kearns, P.A.; McCarthy, A.; Artigau, E.; Cowan, N.B.; Akhmetshyn, R.; Vos, J.; Nasedkin, Evert ; **Visscher, C.**; Benneke, B.; Doyon, R.; Metchev, S.A.; Rowe, J.F.; Suárez, G. (2026) Mapping the Cloud-Driven Atmospheric Dynamics & Chemistry of an Isolated Exoplanet Analog with Harmonic Signatures, _Astronomical Journal_, accepted. [arXiv](https://arxiv.org/abs/2510.02260) [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251002260P/abstract)
 
 Batalha, N.E.; Rooney, C.M.; **Visscher, C.**; Moran, S.E.; Marley, M.S.; Sengupta, A.R.; Kiefer, S.; Lodge, M.G.; Mang, J.; Morley, C.V.; Mukherjee, S.; Fortney, J.J.; Gao, P.; Lewis, N.K.; Mayorga, L.C.; Pearce, L.A.; Wakeford, H.R. (2026) Condensation Clouds in Substellar Atmospheres with Virga. _The Astronomical Journal_, Volume 171, Issue 2, id.98 [arXiv](https://arxiv.org/abs/2508.15102) [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv250815102B/abstract)

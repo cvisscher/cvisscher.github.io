@@ -11,7 +11,7 @@ arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%
 
 Google Scholar [profile](https://scholar.google.com/citations?user=zrPBc0cAAAAJ&hl=en&oi=ao)
 
-Hull, S.D.; Nakajima, M.; Canup, R.M.; **Visscher, C.**, Sossi, P.A. (2026) Hydrodynamic volatile escape and moderately volatile isotope fractionation in giant impact ejecta. _Icarus_, accepted. [journal pre-proof](https://doi.org/10.1016/j.icarus.2026.116940)
+Hull, S.D.; Nakajima, M.; Canup, R.M.; **Visscher, C.**, Sossi, P.A. (2026) Hydrodynamic volatile escape and moderately volatile isotope fractionation in giant impact ejecta. _Icarus_, accepted. [ADS](https://ui.adsabs.harvard.edu/abs/2026Icar..45016940H/abstract) [journal pre-proof](https://doi.org/10.1016/j.icarus.2026.116940)
 
 Plummer, M.K.; Cocchini, F.P.; Kearns, P.A.; McCarthy, A.; Artigau, E.; Cowan, N.B.; Akhmetshyn, R.; Vos, J.; Nasedkin, Evert ; **Visscher, C.**; Benneke, B.; Doyon, R.; Metchev, S.A.; Rowe, J.F.; Suárez, G. (2026) Mapping the Cloud-Driven Atmospheric Dynamics & Chemistry of an Isolated Exoplanet Analog with Harmonic Signatures, _Astronomical Journal_, accepted. [arXiv](https://arxiv.org/abs/2510.02260) [ADS](https://ui.adsabs.harvard.edu/abs/2025arXiv251002260P/abstract)
 

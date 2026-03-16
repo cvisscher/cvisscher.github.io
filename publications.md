@@ -11,7 +11,7 @@ arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%
 
 Google Scholar [profile](https://scholar.google.com/citations?user=zrPBc0cAAAAJ&hl=en&oi=ao)
 
-Calamari, E; Faherty, J.K.; **Visscher,C.**; Gemma, M.E.; Rothermich, A.; Martínez, F.A.; Alejandro Merchan, S.; Suárez, G. (2026) Bridging the Gap: Using Brown Dwarfs to Examine Silicate Clouds in Giant Exoplanet Atmospheres. _Astrophysical Journal Letters_, accepted. [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260312479C/abstract) [arXiv](https://arxiv.org/abs/2603.12479)
+Calamari, E; Faherty, J.K.; **Visscher,C.**; Gemma, M.E.; Rothermich, A.; Ardévol Martínez, F.; Alejandro Merchan, S.; Suárez, G. (2026) Bridging the Gap: Using Brown Dwarfs to Examine Silicate Clouds in Giant Exoplanet Atmospheres. _Astrophysical Journal Letters_, accepted. [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260312479C/abstract) [arXiv](https://arxiv.org/abs/2603.12479)
 
 Hull, S.D.; Nakajima, M.; Canup, R.M.; **Visscher; C.**, Sossi, P.A. (2026) Hydrodynamic volatile escape and moderately volatile isotope fractionation in giant impact ejecta. _Icarus_, accepted. [ADS](https://ui.adsabs.harvard.edu/abs/2026Icar..45016940H/abstract) [journal pre-proof](https://doi.org/10.1016/j.icarus.2026.116940)
 

@@ -11,7 +11,7 @@ arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%
 
 Google Scholar [profile](https://scholar.google.com/citations?user=zrPBc0cAAAAJ&hl=en&oi=ao)
 
-Kothari, H; Cushing, M.C.; Beiler, S.A.; Visscher, C.; Marley, M.S.; Burningham, B.; Schneider, A.C.; and Kirkpatrick, J.D. A Comprehensive Atmospheric Retrieval Analysis of 22 James Webb Space Telescope Spectral Energy Distributions of Cool Brown Dwarfs. _Astrophysical Journal_, 1002, 164. [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260405104K/abstract) [arXiv](https://arxiv.org/abs/2604.05104) [journal](https://iopscience.iop.org/article/10.3847/1538-4357/ae5bb7)
+Kothari, H; Cushing, M.C.; Beiler, S.A.; **Visscher, C.**; Marley, M.S.; Burningham, B.; Schneider, A.C.; and Kirkpatrick, J.D. A Comprehensive Atmospheric Retrieval Analysis of 22 James Webb Space Telescope Spectral Energy Distributions of Cool Brown Dwarfs. _Astrophysical Journal_, 1002, 164. [arXiv](https://arxiv.org/abs/2604.05104) [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260405104K/abstract)  [journal](https://iopscience.iop.org/article/10.3847/1538-4357/ae5bb7)
 
 **Visscher, C.** The Galilean Satellites. Accepted for publication in the *Oxford Research Encyclopedia of Planetary Science*, Oxford University Press.
 

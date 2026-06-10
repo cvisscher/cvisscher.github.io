@@ -15,7 +15,7 @@ Kothari, H; Cushing, M.C.; Beiler, S.A.; **Visscher, C.**; Marley, M.S.; Burning
 
 **Visscher, C.** (2026) The Galilean Satellites. Accepted for publication in the *Oxford Research Encyclopedia of Planetary Science*, Oxford University Press.
 
-Calamari, E; Faherty, J.K.; **Visscher,C.**; Gemma, M.E.; Rothermich, A.; Ardévol Martínez, F.; Alejandro Merchan, S.; Suárez, G. (2026) Bridging the Gap: Using Brown Dwarfs to Examine Silicate Clouds in Giant Exoplanet Atmospheres. _Astrophysical Journal Letters_, accepted. [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260312479C/abstract) [arXiv](https://arxiv.org/abs/2603.12479)
+Calamari, E; Faherty, J.K.; **Visscher,C.**; Gemma, M.E.; Rothermich, A.; Ardévol Martínez, F.; Alejandro Merchan, S.; Suárez, G. (2026) Bridging the Gap: Using Brown Dwarfs to Examine Silicate Clouds in Giant Exoplanet Atmospheres. _Astrophysical Journal Letters_, 1000(2) L51. [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260312479C/abstract) [arXiv](https://arxiv.org/abs/2603.12479)
 
 Hull, S.D.; Nakajima, M.; Canup, R.M.; **Visscher; C.**, Sossi, P.A. (2026) Hydrodynamic volatile escape and moderately volatile isotope fractionation in giant impact ejecta. _Icarus_, Volume 450, 15 May 2026, 116940. [ADS](https://ui.adsabs.harvard.edu/abs/2026Icar..45016940H/abstract) [journal pre-proof](https://doi.org/10.1016/j.icarus.2026.116940)
 

@@ -11,6 +11,8 @@ arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%
 
 Google Scholar [profile](https://scholar.google.com/citations?user=zrPBc0cAAAAJ&hl=en&oi=ao)
 
+Schrader, M.A.; Vos, J.M.; Nasedkin, E.; Kestell, J.; Cowan, N.B.; Akhmetshyn, R.; Beiler, S.; Biller, B.A.; Burningham, B.; Faherty, J.; Gonzales, E.C.; McCarthy, A.M.; Morley, C.V.; O'Donovan, B.; O'Toole, C.; Suarez, G.; Tan, X.; **Visscher, C.**; Whiteford, N.; Zhou, Y. (2026) The JWST weather report: Unravelling the atmospheric variability of isolated worlds using principal component analysis. _Astronomy & Astrophysics_, accepted. [arXiv](https://arxiv.org/abs/2607.26182) [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260726182S/abstract)
+
 Phillips, C.L.; Bedell, M.; Manea, C.; Duck, A.; Pai Asnodkar, A.; Griffith, E.J.; Rothermich, A.; Calamari, E.; Faherty, J.K.; **Visscher, C.**; Gonzales, E.C.; Ilyin, I.; Strassmeier, K.; Wang, J. (2026) Benchmark Brown Dwarf Systems I: Chemical Abundance Analysis of FGK Stars with Wide-Separation Brown Dwarf Companions Using PEPS; _Astrophysical Journal_, accepted. [arXiv](https://arxiv.org/abs/2607.09851) [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260709851P/abstract)
 
 Kothari, H; Cushing, M.C.; Beiler, S.A.; **Visscher, C.**; Marley, M.S.; Burningham, B.; Schneider, A.C.; and Kirkpatrick, J.D. (2026) A Comprehensive Atmospheric Retrieval Analysis of 22 James Webb Space Telescope Spectral Energy Distributions of Cool Brown Dwarfs. _Astrophysical Journal_, 1002, 164. [arXiv](https://arxiv.org/abs/2604.05104) [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260405104K/abstract)  [journal](https://iopscience.iop.org/article/10.3847/1538-4357/ae5bb7)

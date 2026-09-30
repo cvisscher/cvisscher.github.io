@@ -11,6 +11,8 @@ arXiv [Author Query](https://arxiv.org/search/?searchtype=author&query=Visscher%
 
 Google Scholar [profile](https://scholar.google.com/citations?user=zrPBc0cAAAAJ&hl=en&oi=ao)
 
+Kecskeméthy, V.; Burningham, B.; Wang, F.; Rothermich, A.J.; Faherty, J.K.; Suárez, G.; Phillips, C.L.; Rowland, M.; **Visscher, C.**; Vos, J.M.; Gagliuffi, D.C.B. (2026) Benchmark brown dwarfs as chemical laboratories: linking system bulk properties to atmospheric retrievals. _Monthly Notices of the Royal Astronomical Society_, Volume 552, Issue 1, 1622. [arXiV](https://arxiv.org/abs/2608.26029) [ADS](https://ui.adsabs.harvard.edu/abs/2026MNRAS.552g1622K/abstract) [journal](https://ui.adsabs.harvard.edu/link_gateway/2026MNRAS.552g1622K/PUB_HTML)
+
 Mang, J., Chachan, Y., Morley, C.V., Batalha, N.E., Wogan, N.F., Mukherjee, S., Fortney, J.J., Marley, M.S., **Visscher, C.**, Gharib-Nezhad, E. (2026) The Sonora Substellar Atmosphere Models. VII. Flame Skimmer: Cloud-free Atmospheric and Evolutionary Models for the Coldest Substellar Objects. _Astrophysical Journal_, accepted. [arXiv](https://arxiv.org/abs/2608.06454) [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260806454M/abstract) [zenodo](https://zenodo.org/records/20030439)
 
 Schrader, M.A.; Vos, J.M.; Nasedkin, E.; Kestell, J.; Cowan, N.B.; Akhmetshyn, R.; Beiler, S.; Biller, B.A.; Burningham, B.; Faherty, J.; Gonzales, E.C.; McCarthy, A.M.; Morley, C.V.; O'Donovan, B.; O'Toole, C.; Suarez, G.; Tan, X.; **Visscher, C.**; Whiteford, N.; Zhou, Y. (2026) The JWST weather report: Unravelling the atmospheric variability of isolated worlds using principal component analysis. _Astronomy & Astrophysics_, accepted. [arXiv](https://arxiv.org/abs/2607.26182) [ADS](https://ui.adsabs.harvard.edu/abs/2026arXiv260726182S/abstract)

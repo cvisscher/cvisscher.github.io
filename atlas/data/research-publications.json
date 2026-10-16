@@ -1,0 +1,867 @@
+{
+  "meta": {
+    "reviewed": "2026-10-15",
+    "source": "https://cvisscher.github.io/publications/",
+    "scope": "Related research associations from the supplied list, with author/year matches to the publications page. Not measurement provenance or an exhaustive bibliography.",
+    "verification_notes": [
+      "Kataria associations checked against Table 1 of arXiv:1602.06733.",
+      "Vos 2022 preprint matched to the 2023 journal entry (arXiv:2212.07399).",
+      "Moses 2013 Neptune ADS link corrected by removing an encoded trailing slash from the source-page bibcode.",
+      "ADS may require JavaScript; URLs were derived from the cited publications page, not assumed to be live-API-validated."
+    ]
+  },
+  "papers": {
+    "Vos2023": {
+      "label": "Vos et al. (2023)",
+      "bibcode": "2023ApJ...944..138V",
+      "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...944..138V/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Burningham2017": {
+      "label": "Burningham et al. (2017)",
+      "bibcode": "2017MNRAS.470.1177B",
+      "url": "https://ui.adsabs.harvard.edu/abs/2017MNRAS.470.1177B/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Burningham2021": {
+      "label": "Burningham et al. (2021)",
+      "bibcode": "2021arXiv210504268B",
+      "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210504268B/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Moses2016": {
+      "label": "Moses et al. (2016)",
+      "bibcode": "2016ApJ...829...66M",
+      "url": "https://ui.adsabs.harvard.edu/abs/2016ApJ...829...66M/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Phillips2024": {
+      "label": "Phillips et al. (2024)",
+      "bibcode": "2024arXiv240701694P",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024arXiv240701694P/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Visscher2012": {
+      "label": "Visscher (2012)",
+      "bibcode": "2012ApJ...757....5V",
+      "url": "https://ui.adsabs.harvard.edu/abs/2012ApJ...757....5V/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Moses2013a": {
+      "label": "Moses et al. (2013)",
+      "bibcode": "2013ApJ...763...25M",
+      "url": "https://ui.adsabs.harvard.edu/abs/2013ApJ...763...25M/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Gonzales2022": {
+      "label": "Gonzales et al. (2022)",
+      "bibcode": "2022arXiv220902754G",
+      "url": "https://ui.adsabs.harvard.edu/abs/2022arXiv220902754G/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Lee2024": {
+      "label": "Lee et al. (2024)",
+      "bibcode": "2024ApJ...976..231L",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...976..231L/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Morley2013": {
+      "label": "Morley et al. (2013)",
+      "bibcode": "2013ApJ...775...33M",
+      "url": "https://ui.adsabs.harvard.edu/abs/2013ApJ...775...33M/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Fortney2020": {
+      "label": "Fortney et al. (2020)",
+      "bibcode": "2020arXiv201000146F",
+      "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv201000146F/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Moses2013": {
+      "label": "Moses et al. (2013)",
+      "bibcode": "2013ApJ...777...34M",
+      "url": "https://ui.adsabs.harvard.edu/abs/2013ApJ...777...34M/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Skemer2016": {
+      "label": "Skemer et al. (2016)",
+      "bibcode": "2016ApJ...817..166S",
+      "url": "https://ui.adsabs.harvard.edu/abs/2016ApJ...817..166S/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Visscher2006": {
+      "label": "Visscher et al. (2006)",
+      "bibcode": "2006ApJ...648.1181V",
+      "url": "https://ui.adsabs.harvard.edu/abs/2006ApJ...648.1181V/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Visscher2020": {
+      "label": "Visscher (2020)",
+      "bibcode": "2020JGRE..12506526V",
+      "url": "https://ui.adsabs.harvard.edu/abs/2020JGRE..12506526V/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Visscher2011": {
+      "label": "Visscher & Moses (2011)",
+      "bibcode": "2011ApJ...738...72V",
+      "url": "https://ui.adsabs.harvard.edu/abs/2011ApJ...738...72V/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Kataria2016": {
+      "label": "Kataria et al. (2016)",
+      "bibcode": "2016ApJ...821....9K",
+      "url": "https://ui.adsabs.harvard.edu/abs/2016ApJ...821....9K/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Visscher2010water": {
+      "label": "Visscher et al. (2010) · Jupiter water",
+      "bibcode": "2010Icar..209..602V",
+      "url": "https://ui.adsabs.harvard.edu/abs/2010Icar..209..602V/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Visscher2010chemistry": {
+      "label": "Visscher et al. (2010) · atmospheric chemistry",
+      "bibcode": "2010ApJ...716.1060V",
+      "url": "https://ui.adsabs.harvard.edu/abs/2010ApJ...716.1060V/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Moses2011": {
+      "label": "Moses et al. (2011)",
+      "bibcode": "2011ApJ...737...15M",
+      "url": "https://ui.adsabs.harvard.edu/abs/2011ApJ...737...15M/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Rodovska2016": {
+      "label": "Rodovská et al. (2016)",
+      "bibcode": "2016M&PS...51.2403R",
+      "url": "https://ui.adsabs.harvard.edu/abs/2016M%26PS...51.2403R/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Dauphas2022": {
+      "label": "Dauphas et al. (2022)",
+      "bibcode": "2022PSJ.....3...29D",
+      "url": "https://ui.adsabs.harvard.edu/abs/2022PSJ.....3...29D/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Visscher2013": {
+      "label": "Visscher & Fegley (2013)",
+      "bibcode": "2013ApJ...767L..12V",
+      "url": "https://ui.adsabs.harvard.edu/abs/2013ApJ...767L..12V/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Canup2015": {
+      "label": "Canup et al. (2015)",
+      "bibcode": "2015NatGe...8..918C",
+      "url": "https://ui.adsabs.harvard.edu/abs/2015NatGe...8..918C/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Joy2015": {
+      "label": "Joy et al. (2015)",
+      "bibcode": "2015M&PS...50.1157J",
+      "url": "https://ui.adsabs.harvard.edu/abs/2015M%26PS...50.1157J/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Gaarn2023": {
+      "label": "Gaarn et al. (2023)",
+      "bibcode": "2023MNRAS.521.5761G",
+      "url": "https://ui.adsabs.harvard.edu/abs/2023MNRAS.521.5761G/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Morley2012": {
+      "label": "Morley et al. (2012)",
+      "bibcode": "2012ApJ...756..172M",
+      "url": "https://ui.adsabs.harvard.edu/abs/2012ApJ...756..172M/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Visscher2005": {
+      "label": "Visscher & Fegley (2005)",
+      "bibcode": "2005ApJ...623.1221V",
+      "url": "https://ui.adsabs.harvard.edu/abs/2005ApJ...623.1221V/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Gonzales2021": {
+      "label": "Gonzales et al. (2021)",
+      "bibcode": "2021arXiv210911000G",
+      "url": "https://ui.adsabs.harvard.edu/abs/2021arXiv210911000G/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Gonzales2020": {
+      "label": "Gonzales et al. (2020)",
+      "bibcode": "2020arXiv201001224G",
+      "url": "https://ui.adsabs.harvard.edu/abs/2020arXiv201001224G/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "McCarthy2025": {
+      "label": "McCarthy et al. (2025)",
+      "bibcode": "2025ApJ...981L..22M",
+      "url": "https://ui.adsabs.harvard.edu/abs/2025ApJ...981L..22M/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Leggett2013": {
+      "label": "Leggett et al. (2013)",
+      "bibcode": "2013ApJ...763..130L",
+      "url": "https://ui.adsabs.harvard.edu/abs/2013ApJ...763..130L/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Beiler2024": {
+      "label": "Beiler et al. (2024)",
+      "bibcode": "2024ApJ...973...60B",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...973...60B/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Parmentier2018": {
+      "label": "Parmentier et al. (2018)",
+      "bibcode": "2018A&A...617A.110P",
+      "url": "https://ui.adsabs.harvard.edu/abs/2018A%26A...617A.110P/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Wakeford2017": {
+      "label": "Wakeford et al. (2017)",
+      "bibcode": "2017MNRAS.464.4247W",
+      "url": "https://ui.adsabs.harvard.edu/abs/2017MNRAS.464.4247W/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Grant2023": {
+      "label": "Grant et al. (2023)",
+      "bibcode": "2023ApJ...956L..29G",
+      "url": "https://ui.adsabs.harvard.edu/abs/2023ApJ...956L..29G/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Morley2018": {
+      "label": "Morley et al. (2018)",
+      "bibcode": "2018ApJ...858...97M",
+      "url": "https://ui.adsabs.harvard.edu/abs/2018ApJ...858...97M/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Miles2020": {
+      "label": "Miles et al. (2020)",
+      "bibcode": "2020AJ....160...63M",
+      "url": "https://ui.adsabs.harvard.edu/abs/2020AJ....160...63M/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Rowland2024": {
+      "label": "Rowland et al. (2024)",
+      "bibcode": "2024ApJ...977L..49R",
+      "url": "https://ui.adsabs.harvard.edu/abs/2024ApJ...977L..49R/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Moses2010": {
+      "label": "Moses et al. (2010)",
+      "bibcode": "2010FaDi..147..103M",
+      "url": "https://ui.adsabs.harvard.edu/abs/2010FaDi..147..103M/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Faherty2025": {
+      "label": "Faherty et al. (2025)",
+      "bibcode": "2025Natur.645...62F",
+      "url": "https://ui.adsabs.harvard.edu/abs/2025Natur.645...62F/abstract",
+      "evidence": "https://cvisscher.github.io/publications/"
+    },
+    "Tsai2023": {
+      "label": "Tsai et al. (2023)",
+      "bibcode": "2023Natur.617..483T",
+      "url": "https://ui.adsabs.harvard.edu/abs/2023Natur.617..483T/abstract",
+      "evidence": "https://www.nature.com/articles/s41586-023-05902-2"
+    }
+  },
+  "objects": {
+    "2MASS J2139+02": {
+      "papers": [
+        "Vos2023"
+      ],
+      "original_labels": [
+        "Vos+2022"
+      ],
+      "notes": [
+        "Vos 2022 refers to the preprint of the 2023 publication."
+      ],
+      "unresolved_labels": []
+    },
+    "2MASS0500": {
+      "papers": [
+        "Burningham2017"
+      ],
+      "original_labels": [
+        "Burningham+2017"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "2MASS2224": {
+      "papers": [
+        "Burningham2017",
+        "Burningham2021"
+      ],
+      "original_labels": [
+        "Burningham+2017",
+        "Burningham+2021"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "51 Eri b": {
+      "papers": [
+        "Moses2016"
+      ],
+      "original_labels": [
+        "Moses+2016"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "BD+60 1417": {
+      "papers": [
+        "Phillips2024"
+      ],
+      "original_labels": [
+        "Phillips+2024"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "CoRoT-10b": {
+      "papers": [
+        "Visscher2012"
+      ],
+      "original_labels": [
+        "Visscher2012"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "CoRoT-2b": {
+      "papers": [
+        "Moses2013a"
+      ],
+      "original_labels": [
+        "Moses+2013a"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "G570D": {
+      "papers": [
+        "Burningham2017"
+      ],
+      "original_labels": [
+        "Burningham+2017"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "GD 165B": {
+      "papers": [
+        "Gonzales2022"
+      ],
+      "original_labels": [
+        "Gonzales+2022"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "GJ 1214b": {
+      "papers": [
+        "Lee2024",
+        "Morley2013"
+      ],
+      "original_labels": [
+        "Lee+2024",
+        "Morley+2013"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "GJ 3470b": {
+      "papers": [
+        "Fortney2020"
+      ],
+      "original_labels": [
+        "Fortney+2020"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "GJ 436b": {
+      "papers": [
+        "Fortney2020",
+        "Moses2013"
+      ],
+      "original_labels": [
+        "Fortney+2020",
+        "Moses+2013"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "GJ 504b": {
+      "papers": [
+        "Skemer2016"
+      ],
+      "original_labels": [
+        "Skemer 2016"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "Gliese 229Ba": {
+      "papers": [
+        "Visscher2006",
+        "Visscher2011"
+      ],
+      "original_labels": [
+        "Visscher+2006",
+        "Visscher+2020",
+        "Visscher2011"
+      ],
+      "notes": [
+        "The older papers discuss the unresolved Gliese 229B system, not the subsequently resolved Ba/Bb components individually."
+      ],
+      "unresolved_labels": [
+        "Visscher+2020"
+      ]
+    },
+    "Gliese 229Bb": {
+      "papers": [
+        "Visscher2006",
+        "Visscher2011"
+      ],
+      "original_labels": [
+        "Visscher+2006",
+        "Visscher+2020",
+        "Visscher2011"
+      ],
+      "notes": [
+        "The older papers discuss the unresolved Gliese 229B system, not the subsequently resolved Ba/Bb components individually."
+      ],
+      "unresolved_labels": [
+        "Visscher+2020"
+      ]
+    },
+    "HAT-P-12b": {
+      "papers": [
+        "Kataria2016"
+      ],
+      "original_labels": [
+        "Kataria+2016"
+      ],
+      "notes": [
+        "Kataria+2016 reconciled to Kataria et al. (2016), Table 1."
+      ],
+      "unresolved_labels": []
+    },
+    "HAT-P-1b": {
+      "papers": [
+        "Kataria2016"
+      ],
+      "original_labels": [
+        "Kataria+2020"
+      ],
+      "notes": [
+        "Kataria+2020 reconciled to Kataria et al. (2016), Table 1."
+      ],
+      "unresolved_labels": []
+    },
+    "HAT-P-2b": {
+      "papers": [
+        "Visscher2012"
+      ],
+      "original_labels": [
+        "Visscher2012"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "HD 189733b": {
+      "papers": [
+        "Kataria2016",
+        "Lee2024",
+        "Visscher2006",
+        "Visscher2010chemistry",
+        "Moses2011"
+      ],
+      "original_labels": [
+        "Kataria+2019",
+        "Lee+2024",
+        "Visscher+2006",
+        "Visscher+2010",
+        "Moses+2011"
+      ],
+      "notes": [
+        "Kataria+2019 reconciled to Kataria et al. (2016), Table 1."
+      ],
+      "unresolved_labels": []
+    },
+    "HD 209458b": {
+      "papers": [
+        "Kataria2016",
+        "Visscher2006",
+        "Visscher2010chemistry",
+        "Moses2011"
+      ],
+      "original_labels": [
+        "Kataria+2021",
+        "Visscher+2006",
+        "Visscher+2010",
+        "Moses+2011"
+      ],
+      "notes": [
+        "Kataria+2021 reconciled to Kataria et al. (2016), Table 1."
+      ],
+      "unresolved_labels": []
+    },
+    "HR 8799b": {
+      "papers": [
+        "Moses2016"
+      ],
+      "original_labels": [
+        "Moses+2016"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "J0539-0059": {
+      "papers": [
+        "Gonzales2022"
+      ],
+      "original_labels": [
+        "Gonzales+2022"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "J1526+2043": {
+      "papers": [
+        "Gonzales2022"
+      ],
+      "original_labels": [
+        "Gonzales+2022"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "J1539-0520": {
+      "papers": [
+        "Gonzales2022"
+      ],
+      "original_labels": [
+        "Gonzales+2022"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "Jupiter": {
+      "papers": [
+        "Visscher2020",
+        "Visscher2010water",
+        "Visscher2011",
+        "Moses2010"
+      ],
+      "original_labels": [
+        "Visscher2020",
+        "Visscher+2010",
+        "Visscher2011",
+        "Moses2010"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "Moon": {
+      "papers": [
+        "Rodovska2016",
+        "Dauphas2022",
+        "Visscher2013",
+        "Canup2015",
+        "Joy2015"
+      ],
+      "original_labels": [
+        "Rodovska+2016",
+        "Dauphas+2022",
+        "Visscher+2013",
+        "Canup+2015",
+        "Joy+2015"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "Ross 458C": {
+      "papers": [
+        "Gaarn2023",
+        "Morley2012"
+      ],
+      "original_labels": [
+        "Gaarn+2023",
+        "Morley+2012"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "Saturn": {
+      "papers": [
+        "Visscher2005"
+      ],
+      "original_labels": [
+        "Visscher2005"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "SDSS J1256-0224": {
+      "papers": [
+        "Gonzales2021"
+      ],
+      "original_labels": [
+        "Gonzales+2021"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "SDSS J1416A": {
+      "papers": [
+        "Gonzales2020",
+        "Gonzales2022"
+      ],
+      "original_labels": [
+        "Gonzales+2020",
+        "Gonzales+2022"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "SDSS J1416B": {
+      "papers": [
+        "Gonzales2020"
+      ],
+      "original_labels": [
+        "Gonzales+2020"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "SIMP J0136": {
+      "papers": [
+        "Vos2023",
+        "McCarthy2025"
+      ],
+      "original_labels": [
+        "Vos+2022",
+        "McCarthy+2025"
+      ],
+      "notes": [
+        "Vos 2022 refers to the preprint of the 2023 publication."
+      ],
+      "unresolved_labels": []
+    },
+    "UGPS- 0722-5": {
+      "papers": [
+        "Morley2012",
+        "Leggett2013"
+      ],
+      "original_labels": [
+        "Morley+2012",
+        "Leggett+2013"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "UNCOVER-BD-3": {
+      "papers": [
+        "Beiler2024"
+      ],
+      "original_labels": [
+        "Beiler+2024"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "W0047": {
+      "papers": [
+        "Phillips2024"
+      ],
+      "original_labels": [
+        "Phillips+2024"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "WASP-107": {
+      "papers": [
+        "Fortney2020"
+      ],
+      "original_labels": [
+        "Fortney+2020"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "WASP-121b": {
+      "papers": [
+        "Parmentier2018"
+      ],
+      "original_labels": [
+        "Parmentier+2018"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "WASP-12b": {
+      "papers": [
+        "Wakeford2017",
+        "Moses2013a"
+      ],
+      "original_labels": [
+        "Wakeford+2017",
+        "Moses+2013a"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "WASP-17b": {
+      "papers": [
+        "Kataria2016",
+        "Grant2023"
+      ],
+      "original_labels": [
+        "Kataria+2023",
+        "Grant+2023"
+      ],
+      "notes": [
+        "Kataria+2023 reconciled to Kataria et al. (2016), Table 1."
+      ],
+      "unresolved_labels": []
+    },
+    "WASP-19b": {
+      "papers": [
+        "Kataria2016"
+      ],
+      "original_labels": [
+        "Kataria+2024"
+      ],
+      "notes": [
+        "Kataria+2024 reconciled to Kataria et al. (2016), Table 1."
+      ],
+      "unresolved_labels": []
+    },
+    "WASP-31b": {
+      "papers": [
+        "Kataria2016"
+      ],
+      "original_labels": [
+        "Kataria+2022"
+      ],
+      "notes": [
+        "Kataria+2022 reconciled to Kataria et al. (2016), Table 1."
+      ],
+      "unresolved_labels": []
+    },
+    "WASP-39b": {
+      "papers": [
+        "Kataria2016",
+        "Tsai2023"
+      ],
+      "original_labels": [
+        "Kataria+2017",
+        "Tsai+2023"
+      ],
+      "notes": [
+        "Kataria+2017 reconciled to Kataria et al. (2016), Table 1."
+      ],
+      "unresolved_labels": []
+    },
+    "WASP-6b": {
+      "papers": [
+        "Kataria2016"
+      ],
+      "original_labels": [
+        "Kataria+2018"
+      ],
+      "notes": [
+        "Kataria+2018 reconciled to Kataria et al. (2016), Table 1."
+      ],
+      "unresolved_labels": []
+    },
+    "WISE 0855": {
+      "papers": [
+        "Morley2018",
+        "Miles2020",
+        "Rowland2024"
+      ],
+      "original_labels": [
+        "Morley+2018",
+        "Miles+2020",
+        "Rowland+2024"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "WISE 1459": {
+      "papers": [
+        "Leggett2013"
+      ],
+      "original_labels": [
+        "Leggett+2013"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "WISE 1502": {
+      "papers": [
+        "Leggett2013"
+      ],
+      "original_labels": [
+        "Leggett+2013"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "WISE 2250": {
+      "papers": [
+        "Leggett2013"
+      ],
+      "original_labels": [
+        "Leggett+2013"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "WISE 2732": {
+      "papers": [
+        "Leggett2013"
+      ],
+      "original_labels": [
+        "Leggett+2013"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "WISE 5534": {
+      "papers": [
+        "Leggett2013"
+      ],
+      "original_labels": [
+        "Leggett+2013"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "XO1-b": {
+      "papers": [
+        "Moses2013a"
+      ],
+      "original_labels": [
+        "Moses+2013a"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    },
+    "W1534 (Accident)": {
+      "papers": [
+        "Faherty2025"
+      ],
+      "original_labels": [
+        "Faherty+2025"
+      ],
+      "notes": [],
+      "unresolved_labels": []
+    }
+  }
+}

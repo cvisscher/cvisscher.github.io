@@ -1,0 +1,2 @@
+name,category,mass,mass_unit,radius,radius_unit,mass_error_minus,mass_error_plus,radius_error_minus,radius_error_plus,personal,source,source_url,method,note
+Example planet,Exoplanets,1,Jupiter,1,Jupiter,,,,,yes,Replace with your source,,,Example only - replace or delete this row

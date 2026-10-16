@@ -1,0 +1,710 @@
+{
+  "meta": {
+    "version": 1,
+    "reviewed": "2026-10-14",
+    "scope": "Curated educational starter catalog; not complete or a current archive snapshot",
+    "constants": {
+      "earth_mass_kg": 5.97217e+24,
+      "earth_radius_km": 6371.0084,
+      "jupiter_mass_kg": 1.89813e+27,
+      "jupiter_radius_km": 71492,
+      "solar_mass_kg": 1.98847e+30,
+      "solar_radius_km": 695700
+    }
+  },
+  "sources": {
+    "jpl": {
+      "title": "JPL Planetary Physical Parameters",
+      "url": "https://ssd.jpl.nasa.gov/planets/phys_par.html"
+    },
+    "bennu": {
+      "title": "Lauretta et al. 2019, Table 1",
+      "url": "https://heliophysics.gsfc.nasa.gov/sed/content/uploadFiles/publication_files/Lauretta2019.pdf"
+    },
+    "eros": {
+      "title": "Yeomans et al. 2000",
+      "url": "https://doi.org/10.1126/science.289.5487.2085"
+    },
+    "agol": {
+      "title": "Agol et al. 2021",
+      "url": "https://doi.org/10.3847/PSJ/abd022"
+    },
+    "cancri": {
+      "title": "Acu\u00f1a et al. 2023, Table 2",
+      "url": "https://www.aanda.org/articles/aa/pdf/2023/09/aa45736-22.pdf"
+    },
+    "wasp": {
+      "title": "Enoch et al. 2011",
+      "url": "https://arxiv.org/abs/1104.2827"
+    },
+    "corot": {
+      "title": "Deleuil et al. 2008",
+      "url": "https://arxiv.org/abs/0810.0919"
+    },
+    "wasp30": {
+      "title": "Anderson et al. 2010",
+      "url": "https://arxiv.org/abs/1010.3006"
+    },
+    "tstar": {
+      "title": "Van Grootel et al. 2018",
+      "url": "https://arxiv.org/abs/1712.01911"
+    },
+    "hats": {
+      "title": "Zhou et al. 2014",
+      "url": "https://arxiv.org/abs/1310.7591"
+    },
+    "ogle": {
+      "title": "Pont et al. 2005",
+      "url": "https://doi.org/10.1051/0004-6361:200500025"
+    },
+    "solar-conversion": {
+      "title": "Adopted solar mass and radius (atlas conversion constants)",
+      "url": "https://ssd.jpl.nasa.gov/astro_par.html"
+    }
+  },
+  "objects": [
+    {
+      "id": "mercury",
+      "name": "Mercury",
+      "category": "Solar System planets",
+      "mass": 0.0552735437872666,
+      "radius": 0.38289072103562133,
+      "mass_error": null,
+      "radius_error": null,
+      "source": "jpl",
+      "method": "dynamical mass / mean radius",
+      "note": "Mean radius; rounded source values. Uncertainties not transcribed.",
+      "original": {
+        "mass": 3.3010299999999994e+23,
+        "mass_unit": "kg",
+        "radius": 2439.4,
+        "radius_unit": "km"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "venus",
+      "name": "Venus",
+      "category": "Solar System planets",
+      "mass": 0.8149985683595744,
+      "radius": 0.949896722785674,
+      "mass_error": null,
+      "radius_error": null,
+      "source": "jpl",
+      "method": "dynamical mass / mean radius",
+      "note": "Mean radius; rounded source values. Uncertainties not transcribed.",
+      "original": {
+        "mass": 4.867309999999999e+24,
+        "mass_unit": "kg",
+        "radius": 6051.8,
+        "radius_unit": "km"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "earth",
+      "name": "Earth",
+      "category": "Solar System planets",
+      "mass": 1.0,
+      "radius": 1.0,
+      "mass_error": null,
+      "radius_error": null,
+      "source": "jpl",
+      "method": "dynamical mass / mean radius",
+      "note": "Mean radius; rounded source values. Uncertainties not transcribed.",
+      "original": {
+        "mass": 5.97217e+24,
+        "mass_unit": "kg",
+        "radius": 6371.0084,
+        "radius_unit": "km"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "mars",
+      "name": "Mars",
+      "category": "Solar System planets",
+      "mass": 0.10744687441918098,
+      "radius": 0.532019389583602,
+      "mass_error": null,
+      "radius_error": null,
+      "source": "jpl",
+      "method": "dynamical mass / mean radius",
+      "note": "Mean radius; rounded source values. Uncertainties not transcribed.",
+      "original": {
+        "mass": 6.41691e+23,
+        "mass_unit": "kg",
+        "radius": 3389.5,
+        "radius_unit": "km"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "jupiter",
+      "name": "Jupiter",
+      "category": "Solar System planets",
+      "mass": 317.82836054566434,
+      "radius": 10.973302122784833,
+      "mass_error": null,
+      "radius_error": null,
+      "source": "jpl",
+      "method": "dynamical mass / mean radius",
+      "note": "Mean radius; rounded source values. Uncertainties not transcribed.",
+      "original": {
+        "mass": 1.898125e+27,
+        "mass_unit": "kg",
+        "radius": 69911,
+        "radius_unit": "km"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "saturn",
+      "name": "Saturn",
+      "category": "Solar System planets",
+      "mass": 95.16088791846181,
+      "radius": 9.140154327845496,
+      "mass_error": null,
+      "radius_error": null,
+      "source": "jpl",
+      "method": "dynamical mass / mean radius",
+      "note": "Mean radius; rounded source values. Uncertainties not transcribed.",
+      "original": {
+        "mass": 5.68317e+26,
+        "mass_unit": "kg",
+        "radius": 58232,
+        "radius_unit": "km"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "uranus",
+      "name": "Uranus",
+      "category": "Solar System planets",
+      "mass": 14.53573826599042,
+      "radius": 3.9808454812271163,
+      "mass_error": null,
+      "radius_error": null,
+      "source": "jpl",
+      "method": "dynamical mass / mean radius",
+      "note": "Mean radius; rounded source values. Uncertainties not transcribed.",
+      "original": {
+        "mass": 8.68099e+25,
+        "mass_unit": "kg",
+        "radius": 25362,
+        "radius_unit": "km"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "neptune",
+      "name": "Neptune",
+      "category": "Solar System planets",
+      "mass": 17.14773691974609,
+      "radius": 3.8646943237431617,
+      "mass_error": null,
+      "radius_error": null,
+      "source": "jpl",
+      "method": "dynamical mass / mean radius",
+      "note": "Mean radius; rounded source values. Uncertainties not transcribed.",
+      "original": {
+        "mass": 1.024092e+26,
+        "mass_unit": "kg",
+        "radius": 24622,
+        "radius_unit": "km"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "trappist-1-b",
+      "name": "TRAPPIST-1 b",
+      "category": "Exoplanets",
+      "mass": 1.374,
+      "radius": 1.116,
+      "mass_error": [
+        0.069,
+        0.069
+      ],
+      "radius_error": [
+        0.012,
+        0.014
+      ],
+      "source": "agol",
+      "method": "transit timing / transit",
+      "note": "Transit-timing mass and transit radius; adopted 2021 solution.",
+      "original": {
+        "mass": 1.374,
+        "mass_unit": "Earth",
+        "radius": 1.116,
+        "radius_unit": "Earth"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "trappist-1-c",
+      "name": "TRAPPIST-1 c",
+      "category": "Exoplanets",
+      "mass": 1.308,
+      "radius": 1.097,
+      "mass_error": [
+        0.056,
+        0.056
+      ],
+      "radius_error": [
+        0.012,
+        0.014
+      ],
+      "source": "agol",
+      "method": "transit timing / transit",
+      "note": "Transit-timing mass and transit radius; adopted 2021 solution.",
+      "original": {
+        "mass": 1.308,
+        "mass_unit": "Earth",
+        "radius": 1.097,
+        "radius_unit": "Earth"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "trappist-1-d",
+      "name": "TRAPPIST-1 d",
+      "category": "Exoplanets",
+      "mass": 0.388,
+      "radius": 0.788,
+      "mass_error": [
+        0.012,
+        0.012
+      ],
+      "radius_error": [
+        0.01,
+        0.011
+      ],
+      "source": "agol",
+      "method": "transit timing / transit",
+      "note": "Transit-timing mass and transit radius; adopted 2021 solution.",
+      "original": {
+        "mass": 0.388,
+        "mass_unit": "Earth",
+        "radius": 0.788,
+        "radius_unit": "Earth"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "trappist-1-e",
+      "name": "TRAPPIST-1 e",
+      "category": "Exoplanets",
+      "mass": 0.692,
+      "radius": 0.92,
+      "mass_error": [
+        0.022,
+        0.022
+      ],
+      "radius_error": [
+        0.012,
+        0.013
+      ],
+      "source": "agol",
+      "method": "transit timing / transit",
+      "note": "Transit-timing mass and transit radius; adopted 2021 solution.",
+      "original": {
+        "mass": 0.692,
+        "mass_unit": "Earth",
+        "radius": 0.92,
+        "radius_unit": "Earth"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "trappist-1-f",
+      "name": "TRAPPIST-1 f",
+      "category": "Exoplanets",
+      "mass": 1.039,
+      "radius": 1.045,
+      "mass_error": [
+        0.031,
+        0.031
+      ],
+      "radius_error": [
+        0.012,
+        0.013
+      ],
+      "source": "agol",
+      "method": "transit timing / transit",
+      "note": "Transit-timing mass and transit radius; adopted 2021 solution.",
+      "original": {
+        "mass": 1.039,
+        "mass_unit": "Earth",
+        "radius": 1.045,
+        "radius_unit": "Earth"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "trappist-1-g",
+      "name": "TRAPPIST-1 g",
+      "category": "Exoplanets",
+      "mass": 1.321,
+      "radius": 1.129,
+      "mass_error": [
+        0.038,
+        0.038
+      ],
+      "radius_error": [
+        0.013,
+        0.015
+      ],
+      "source": "agol",
+      "method": "transit timing / transit",
+      "note": "Transit-timing mass and transit radius; adopted 2021 solution.",
+      "original": {
+        "mass": 1.321,
+        "mass_unit": "Earth",
+        "radius": 1.129,
+        "radius_unit": "Earth"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "trappist-1-h",
+      "name": "TRAPPIST-1 h",
+      "category": "Exoplanets",
+      "mass": 0.326,
+      "radius": 0.755,
+      "mass_error": [
+        0.02,
+        0.02
+      ],
+      "radius_error": [
+        0.014,
+        0.014
+      ],
+      "source": "agol",
+      "method": "transit timing / transit",
+      "note": "Transit-timing mass and transit radius; adopted 2021 solution.",
+      "original": {
+        "mass": 0.326,
+        "mass_unit": "Earth",
+        "radius": 0.755,
+        "radius_unit": "Earth"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "55-cancri-e",
+      "name": "55 Cancri e",
+      "category": "Exoplanets",
+      "mass": 7.99,
+      "radius": 1.875,
+      "mass_error": [
+        0.33,
+        0.32
+      ],
+      "radius_error": [
+        0.029,
+        0.029
+      ],
+      "source": "cancri",
+      "method": "radial velocity / transit",
+      "note": "",
+      "original": {
+        "mass": 7.99,
+        "mass_unit": "Earth",
+        "radius": 1.875,
+        "radius_unit": "Earth"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "wasp-35-b",
+      "name": "WASP-35 b",
+      "category": "Exoplanets",
+      "mass": 228.83702238884695,
+      "radius": 14.81232390150357,
+      "mass_error": [
+        19.069751865737246,
+        19.069751865737246
+      ],
+      "radius_error": [
+        0.336643725034172,
+        0.336643725034172
+      ],
+      "source": "wasp",
+      "method": "radial velocity / transit",
+      "note": "Published 2011 solution; inflated giant planet.",
+      "original": {
+        "mass": 0.72,
+        "mass_unit": "Jupiter",
+        "radius": 1.32,
+        "radius_unit": "Jupiter"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "wasp-48-b",
+      "name": "WASP-48 b",
+      "category": "Exoplanets",
+      "mass": 311.4726138070417,
+      "radius": 18.73983402690224,
+      "mass_error": [
+        28.60462779860587,
+        28.60462779860587
+      ],
+      "radius_error": [
+        0.8977166000911254,
+        0.8977166000911254
+      ],
+      "source": "wasp",
+      "method": "radial velocity / transit",
+      "note": "Published 2011 solution; inflated giant planet.",
+      "original": {
+        "mass": 0.98,
+        "mass_unit": "Jupiter",
+        "radius": 1.67,
+        "radius_unit": "Jupiter"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "wasp-51-b",
+      "name": "WASP-51 b",
+      "category": "Exoplanets",
+      "mass": 241.55019029933845,
+      "radius": 15.934469651617475,
+      "mass_error": [
+        15.891459888114372,
+        15.891459888114372
+      ],
+      "radius_error": [
+        0.4488583000455627,
+        0.4488583000455627
+      ],
+      "source": "wasp",
+      "method": "radial velocity / transit",
+      "note": "Published 2011 solution; inflated giant planet.",
+      "original": {
+        "mass": 0.76,
+        "mass_unit": "Jupiter",
+        "radius": 1.42,
+        "radius_unit": "Jupiter"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "corot-3-b",
+      "name": "CoRoT-3 b",
+      "category": "Brown dwarfs",
+      "mass": 6884.180423531146,
+      "radius": 11.333672076150458,
+      "mass_error": [
+        317.82919776228744,
+        317.82919776228744
+      ],
+      "radius_error": [
+        0.7855020250797348,
+        0.7855020250797348
+      ],
+      "source": "corot",
+      "method": "radial velocity / transit",
+      "note": "Classification is ambiguous: massive planet or brown dwarf; shown here in the substellar group.",
+      "original": {
+        "mass": 21.66,
+        "mass_unit": "Jupiter",
+        "radius": 1.01,
+        "radius_unit": "Jupiter"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "wasp-30-b",
+      "name": "WASP-30 b",
+      "category": "Brown dwarfs",
+      "mass": 19387.581063499532,
+      "radius": 9.98709717601377,
+      "mass_error": null,
+      "radius_error": [
+        0.22442915002278135,
+        0.22442915002278135
+      ],
+      "source": "wasp30",
+      "method": "radial velocity / transit",
+      "note": "Rounded discovery-paper values, age approximately 1\u20132 Gyr; mass uncertainty not transcribed.",
+      "original": {
+        "mass": 61,
+        "mass_unit": "Jupiter",
+        "radius": 0.89,
+        "radius_unit": "Jupiter"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "trappist-1",
+      "name": "TRAPPIST-1",
+      "category": "Low-mass stars",
+      "mass": 29633.086466058397,
+      "radius": 13.212931880610926,
+      "mass_error": [
+        1997.7361662511282,
+        1997.7361662511282
+      ],
+      "radius_error": [
+        0.3275933524118411,
+        0.3275933524118411
+      ],
+      "source": "tstar",
+      "method": "published estimate",
+      "note": "Semi-empirical stellar mass; radius from luminosity and temperature.",
+      "original": {
+        "mass": 0.089,
+        "mass_unit": "Sun",
+        "radius": 0.121,
+        "radius_unit": "Sun"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "ogle-tr-122-b",
+      "name": "OGLE-TR-122 b",
+      "category": "Low-mass stars",
+      "mass": 30631.954549183964,
+      "radius": 13.103734096473644,
+      "mass_error": [
+        2996.6042493766918,
+        2996.6042493766918
+      ],
+      "radius_error": [
+        1.419571193784645,
+        2.1839556827456077
+      ],
+      "source": "ogle",
+      "method": "eclipsing binary",
+      "note": "",
+      "original": {
+        "mass": 0.092,
+        "mass_unit": "Sun",
+        "radius": 0.12,
+        "radius_unit": "Sun"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "hats550-016-b",
+      "name": "HATS550-016 B",
+      "category": "Low-mass stars",
+      "mass": 36625.16304793735,
+      "radius": 16.052074268180213,
+      "mass_error": [
+        1997.7361662511282,
+        1664.7801385426067
+      ],
+      "radius_error": [
+        0.43679113654912155,
+        0.3275933524118411
+      ],
+      "source": "hats",
+      "method": "eclipsing binary / primary-star inference",
+      "note": "",
+      "original": {
+        "mass": 0.11,
+        "mass_unit": "Sun",
+        "radius": 0.147,
+        "radius_unit": "Sun"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "hats551-019-b",
+      "name": "HATS551-019 B",
+      "category": "Low-mass stars",
+      "mass": 56602.52471044863,
+      "radius": 19.655601144710467,
+      "mass_error": [
+        3329.5602770852133,
+        3329.5602770852133
+      ],
+      "radius_error": [
+        1.0919778413728038,
+        1.0919778413728038
+      ],
+      "source": "hats",
+      "method": "eclipsing binary / primary-star inference",
+      "note": "",
+      "original": {
+        "mass": 0.17,
+        "mass_unit": "Sun",
+        "radius": 0.18,
+        "radius_unit": "Sun"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "hats551-021-b",
+      "name": "HATS551-021 B",
+      "category": "Low-mass stars",
+      "mass": 43950.19565752482,
+      "radius": 16.816458757141177,
+      "mass_error": [
+        1664.7801385426067,
+        4661.384387919299
+      ],
+      "radius_error": [
+        0.8735822730982431,
+        0.6551867048236822
+      ],
+      "source": "hats",
+      "method": "eclipsing binary / primary-star inference",
+      "note": "",
+      "original": {
+        "mass": 0.132,
+        "mass_unit": "Sun",
+        "radius": 0.154,
+        "radius_unit": "Sun"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "hats553-001-b",
+      "name": "HATS553-001 B",
+      "category": "Low-mass stars",
+      "mass": 66591.20554170427,
+      "radius": 24.023512510201684,
+      "mass_error": [
+        6659.120554170427,
+        3329.5602770852133
+      ],
+      "radius_error": [
+        1.0919778413728038,
+        1.0919778413728038
+      ],
+      "source": "hats",
+      "method": "eclipsing binary / primary-star inference",
+      "note": "",
+      "original": {
+        "mass": 0.2,
+        "mass_unit": "Sun",
+        "radius": 0.22,
+        "radius_unit": "Sun"
+      },
+      "reviewed": "2026-10-14"
+    },
+    {
+      "id": "sun",
+      "name": "Sun",
+      "category": "Sun",
+      "mass": 332956.02770852135,
+      "radius": 109.19778413728038,
+      "mass_error": null,
+      "radius_error": null,
+      "source": "solar-conversion",
+      "method": "adopted solar conversion constants",
+      "note": "Solar reference: adopted mass 1.98847 \u00d7 10\u00b3\u2070 kg and radius 695700 km. The Sun is a solar-mass reference, not a low-mass star.",
+      "original": {
+        "mass": 1.98847e+30,
+        "mass_unit": "kg",
+        "radius": 695700,
+        "radius_unit": "km"
+      },
+      "reviewed": "2026-10-14"
+    }
+  ]
+}
